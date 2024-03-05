@@ -7,9 +7,6 @@
       key="Object ID"
       value="7650b4e2-1f91-434e-a7cb-40286aceaa59"/>
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA 2.0"/>
-  <properties
       key="Bron"
       value="GEMMA"/>
 </archimate:Constraint>

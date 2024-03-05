@@ -4,9 +4,6 @@
     id="id-81162"
     documentation="Een organisatie, afdeling daarbinnen of persoon die activiteiten kan uitvoeren.">
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA kennismodel"/>
-  <properties
       key="Object ID"
       value="6afd0bd7-eda8-4f99-b7ab-c3115f0c9e4a"/>
   <properties

@@ -4,9 +4,6 @@
     id="id-81344"
     documentation="Door een Applicatiecomponent aangeboden interface die (andere) Applicatiecomponenten, Nodes of Actoren Applicatieservices kunnen gebruiken.">
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA kennismodel"/>
-  <properties
       key="Object ID"
       value="e4a3eb47-78cc-4622-8bf4-e18bcdee3830"/>
   <properties

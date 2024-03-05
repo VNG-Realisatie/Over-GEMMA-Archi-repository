@@ -7,9 +7,6 @@
       key="Object ID"
       value="72704f87-f27a-4314-92ca-d62625355a37"/>
   <properties
-      key="Toelichting"
-      value="Bron: ArchiMate"/>
-  <properties
       key="Bron"
       value="ArchiMate"/>
 </archimate:TechnologyInterface>

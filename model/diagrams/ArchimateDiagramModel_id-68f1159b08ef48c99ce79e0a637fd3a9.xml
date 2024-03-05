@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering bedrijfsobject"
     id="id-68f1159b08ef48c99ce79e0a637fd3a9"
-    documentation="Deze view toont de ArchiMate modellering achter de views 'GEMMA bedrijfsfunctiemodel' en 'GEMMA bedrijfsfunctie en -objecten model">
+    documentation="De modellering van de GEMMA bedrijfsobject modellen">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-01bfe48f4c1647cdb27b369e34d0e468"
@@ -17,11 +17,11 @@
         x="30"
         y="30"
         width="401"
-        height="291"/>
+        height="371"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5fff6d4626a14b22aa8e10e1ffc6f85d"
-        targetConnections="id-9c0e1f8ffe32436e8095e40db5647eb2 id-0e05ffa9989244268c10e4eece692bef id-bda4606a2ef5468ebb7408f8877b7412"
+        targetConnections="id-9c0e1f8ffe32436e8095e40db5647eb2 id-bda4606a2ef5468ebb7408f8877b7412 id-bbbb4dc1480f47989abbd7a93f772f01"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -29,7 +29,9 @@
           source="id-5fff6d4626a14b22aa8e10e1ffc6f85d"
           target="id-5fff6d4626a14b22aa8e10e1ffc6f85d">
         <bendpoints
+            startX="10"
             startY="60"
+            endX="10"
             endY="60"/>
         <bendpoints
             startX="100"
@@ -43,9 +45,31 @@
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-81190.xml#id-81190"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-bbbb4dc1480f47989abbd7a93f772f01"
+          source="id-5fff6d4626a14b22aa8e10e1ffc6f85d"
+          target="id-5fff6d4626a14b22aa8e10e1ffc6f85d">
+        <bendpoints
+            startX="-10"
+            startY="60"
+            endX="-10"
+            endY="60"/>
+        <bendpoints
+            startX="-100"
+            startY="60"
+            endX="-100"
+            endY="60"/>
+        <bendpoints
+            startX="-100"
+            endX="-100"/>
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-821997e066244005811bb0b897fa3778.xml#id-821997e066244005811bb0b897fa3778"/>
+      </sourceConnections>
       <bounds
           x="130"
-          y="160"
+          y="240"
           width="141"
           height="61"/>
       <archimateElement
@@ -62,14 +86,14 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0e05ffa9989244268c10e4eece692bef"
           source="id-edf68956f44a426fb4677d7f2792ddf4"
-          target="id-5fff6d4626a14b22aa8e10e1ffc6f85d">
+          target="id-722f976b67014a24af97d6d38121f5d7">
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-d5492eda875f42cca4ab8fc371540dc0.xml#id-d5492eda875f42cca4ab8fc371540dc0"/>
       </sourceConnections>
       <bounds
-          x="30"
-          y="50"
+          x="130"
+          y="40"
           width="141"
           height="61"/>
       <archimateElement
@@ -79,6 +103,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-722f976b67014a24af97d6d38121f5d7"
+        targetConnections="id-0e05ffa9989244268c10e4eece692bef"
         textAlignment="1"
         fillColor="#efefef"
         type="1">
@@ -92,8 +117,8 @@
             href="AggregationRelationship_id-ddc05e803fce4ababa6ddd9045c90f8c.xml#id-ddc05e803fce4ababa6ddd9045c90f8c"/>
       </sourceConnections>
       <bounds
-          x="220"
-          y="50"
+          x="130"
+          y="140"
           width="141"
           height="61"/>
       <archimateElement

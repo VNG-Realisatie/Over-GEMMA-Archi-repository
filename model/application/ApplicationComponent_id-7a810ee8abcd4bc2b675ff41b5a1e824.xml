@@ -7,9 +7,6 @@
       key="Object ID"
       value="344c1e95-227a-4096-a6f3-188a990dbd70"/>
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA kennismodel"/>
-  <properties
       key="Bron"
       value="GEMMA"/>
 </archimate:ApplicationComponent>

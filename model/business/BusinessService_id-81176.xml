@@ -4,9 +4,6 @@
     id="id-81176"
     documentation="Een deelservice is een onderdeel van een Bedrijfsservice. Dit kan een externe maar ook een interne bedrijfsservice zijn. Bv. het werkproces 'besluiten' uit de GEMMA-referentieprocessen, levert zo'n deelservice. Het wordt in verschillende bedrijfsprocessen gebruikt, maar het is geen service die de organisatie levert aan de buitenwereld.">
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA procesarchitectuur"/>
-  <properties
       key="Object ID"
       value="5d84d991-7323-4d60-9717-2a2474050713"/>
   <properties

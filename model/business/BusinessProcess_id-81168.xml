@@ -7,9 +7,6 @@
       key="Object ID"
       value="7b63b629-8a84-4140-874e-b7a1f10a339e"/>
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA procesarchitectuur"/>
-  <properties
       key="Bron"
       value="GEMMA procesarchitectuur"/>
 </archimate:BusinessProcess>

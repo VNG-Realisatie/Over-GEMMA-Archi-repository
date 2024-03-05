@@ -7,9 +7,6 @@
       key="Object ID"
       value="22016250-e7db-44e2-830f-6ed601c285e0"/>
   <properties
-      key="Toelichting"
-      value="Bron: ArchiMate"/>
-  <properties
       key="Bron"
       value="ArchiMate"/>
 </archimate:Artifact>

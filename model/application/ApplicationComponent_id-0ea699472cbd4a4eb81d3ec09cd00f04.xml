@@ -7,9 +7,6 @@
       key="Object ID"
       value="8bb06b58-2713-41b3-b582-737be6f6b549"/>
   <properties
-      key="Toelichting"
-      value="Bron: Softwarecatalogus"/>
-  <properties
       key="Bron"
       value="Softwarecatalogus"/>
 </archimate:ApplicationComponent>

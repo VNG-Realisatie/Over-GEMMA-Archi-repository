@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afgeleide standaardversie refcomp"
     id="id-81384"
-    documentation="Dit is een afgeleide relatie die wordt aangemaakt en doorgeven aan de Softwarecatalogus.&#xA;&#xA;Regel voor afleiden:&#xA;* Als een referentiecomponent een &quot;Aanbevolen of verplicht&quot; relatie met een standaard heeft, maak dan een &quot;Aanbevolen of verplicht&quot; relatie met alle onderliggende standaardversies waarvoor geldt dat de GEMMA status in gebruik is.&#xA;* Deze relatie bestaat niet in het model, alleen in de Softwarecatalogus ">
+    documentation="Dit is een afgeleide relatie die wordt aangemaakt en doorgeven aan de Softwarecatalogus.&#xA;&#xA;Regel voor afleiden:&#xA;* Als een referentiecomponent een &quot;Aanbevolen of verplicht&quot; relatie met een standaard heeft, maak dan een &quot;Aanbevolen of verplicht&quot; relatie met alle onderliggende standaardversies waarvoor geldt dat de GEMMA status in gebruik is.&#xA;* Deze relatie bestaat niet in het model, alleen in de Softwarecatalogus">
   <properties
       key="Toelichting"
       value="Eigenschappen van de relatie 'aanbevolen of verplichte standaard' * Verbindingsrol = 'Aanbevolen' of 'Verplicht' * Object ID - Unieke sleutel van standaardversie, GUID overgenomen uit KING architectuurtool"/>

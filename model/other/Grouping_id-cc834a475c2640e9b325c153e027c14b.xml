@@ -1,11 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Iv3"
+    name="Beleidsdomein"
     id="id-cc834a475c2640e9b325c153e027c14b"
-    documentation="Indeling van bedrijfsobjecten gebaseerd op het systeem van Informatie voor Derden (Iv3)">
-  <properties
-      key="Toelichting"
-      value="De Iv3 indeling bepaald welke financiële informatie de gemeente, provincie en gemeenschappelijke regeling moet verstrekken."/>
+    documentation="Een afgebakend gebied binnen gemeenten waarvoor specifieke beleidsmaatregelen, regels en verantwoordelijkheden gelden. De GEMMA en het Gemeentelijk GegevensModel gebruiken dezelfde, op IV3 gebaseerde, indeling.">
   <properties
       key="URL"
       value="https://www.rijksoverheid.nl/onderwerpen/financien-gemeenten-en-provincies/uitwisseling-financiele-gegevens-met-sisa-en-iv3/informatie-voor-derden-iv3"/>
@@ -14,5 +11,5 @@
       value="61cd4b5a-be2a-4fe8-bd50-f5f77e536921"/>
   <properties
       key="Bron"
-      value="GGM"/>
+      value="GEMMA"/>
 </archimate:Grouping>

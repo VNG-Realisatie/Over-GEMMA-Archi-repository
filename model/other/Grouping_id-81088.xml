@@ -4,9 +4,6 @@
     id="id-81088"
     documentation="Indeling van standaarden voor de (mate van) bouwbaarheid en testbaarheid. Standaarden kunnen als producten worden getypeerd in eindproducten, halffabrikaten, grondstoffen en gegevensstandaarden. Deze typering is een indicatie wat de benodigde inspanning is om de specificatie te completeren om tot een werkende koppeling te komen.">
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA kennismodel"/>
-  <properties
       key="Object ID"
       value="bf7f99b1-fc8d-423d-a001-d3510924760d"/>
   <properties

@@ -4,9 +4,6 @@
     id="id-81350"
     documentation="Een aggregatie van twee of meer applicatiecomponenten die samenwerken om collectief gedrag uit te voeren. Een voorbeeld van een applicatie-samenwerking is een zaaksysteem en een DMS die samen zorgen voor het 'administreren van zaakdocumenten'.">
   <properties
-      key="Toelichting"
-      value="Bron: ArchiMate"/>
-  <properties
       key="Object ID"
       value="f61faca1-b600-4f75-b603-676b7e0d76cc"/>
   <properties

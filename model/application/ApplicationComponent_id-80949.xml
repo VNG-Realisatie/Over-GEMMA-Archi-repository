@@ -4,9 +4,6 @@
     id="id-80949"
     documentation="ApplicatieComponenten van GEMMA type 'Basiscomponent' definieren de te overerven objecten voor onderliggende applicatiecomponenten.">
   <properties
-      key="Toelichting"
-      value="Bron: GEMMA kennismodel"/>
-  <properties
       key="Object ID"
       value="a4064dd5-1391-45fa-8998-ae0ed863b4bb"/>
   <properties

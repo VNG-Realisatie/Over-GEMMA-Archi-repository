@@ -7,9 +7,6 @@
       key="Object ID"
       value="b2ecce83-a72e-41c0-95b0-00733bde2114"/>
   <properties
-      key="Toelichting"
-      value="Bron: NORA"/>
-  <properties
       key="Bron"
       value="NORA"/>
 </archimate:BusinessInterface>

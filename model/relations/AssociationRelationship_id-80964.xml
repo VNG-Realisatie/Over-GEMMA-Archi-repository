@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruikt / beheert"
     id="id-80964"
-    documentation="Deze view documenteert de ArchiMate export voor gemeenten die de Softwarecatalogus genereert. Alle geexporteerde elementen en relaties worden in deze view getoond. ">
+    documentation="Deze view documenteert de ArchiMate export voor gemeenten die de Softwarecatalogus genereert. Alle geexporteerde elementen en relaties worden in deze view getoond.">
   <properties
       key="Toelichting"
       value="Eigenschappen van de relatie * Object ID - Unieke sleutel van de relatie; GUID gegenereerd door Softwarecatalogus * gebruikt / beheerd ** gebruikt - pakketversie wordt beheerd door de een samenwerking. De deelnemende gemeente gebruikt het pakket ** beheerd - pakketversie wordt door gemeente beheerd en gebruikt."/>

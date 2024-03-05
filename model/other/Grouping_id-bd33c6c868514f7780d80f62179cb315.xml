@@ -4,9 +4,6 @@
     id="id-bd33c6c868514f7780d80f62179cb315"
     documentation="The grouping element aggregates or composes concepts that belong together based on some common characteristic.">
   <properties
-      key="Toelichting"
-      value="Bron: ArchiMate"/>
-  <properties
       key="Object ID"
       value="25e9da3c-ac44-445b-b30a-478e5c0292b8"/>
   <properties

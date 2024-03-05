@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verplicht / Aanbevolen"
     id="id-81278"
-    documentation="Met de 'Verplicht / Aanbevolen' relatie wordt voor een referentiecomponent voorgeschreven welke standaard verplicht of aanbevolen is.&#xD;&#xA;&#xD;&#xA;Eigenschappen van de relatie 'aanbevolen of verplichte standaard'&#xD;&#xA;* Verbindingsrol = 'Aanbevolen' of 'Verplicht'">
+    documentation="Met de 'Verplicht / Aanbevolen' relatie wordt voor een referentiecomponent voorgeschreven welke standaard verplicht of aanbevolen is.&#xA;&#xA;Eigenschappen van de relatie 'aanbevolen of verplichte standaard'&#xA;* Verbindingsrol = 'Aanbevolen' of 'Verplicht'">
   <properties
       key="Toelichting"
       value="Met deze relatie word vastgelegd wanneer - voor welke referentiecomponent - een standaard verplicht of aanbevolen is. Van de verplichte standaard wordt een pakket geacht de in gebruik zijnde standaardversie(s) te ondersteunen. Eigenschappen van de relatie 'aanbevolen of verplichte standaard' * Verbindingsrol = 'Aanbevolen' of 'Verplicht' * Object ID - Unieke sleutel van standaardversie, GUID overgenomen uit KING architectuurtool"/>
