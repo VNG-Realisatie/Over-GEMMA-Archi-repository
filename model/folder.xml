@@ -16,4 +16,7 @@
   <properties
       key="Versie"
       value="1.0"/>
+  <properties
+      key="Release"
+      value="12-03-2023"/>
 </archimate:ArchimateModel>
