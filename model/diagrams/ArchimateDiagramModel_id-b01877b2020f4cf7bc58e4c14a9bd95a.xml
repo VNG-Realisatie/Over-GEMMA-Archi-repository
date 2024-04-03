@@ -176,6 +176,15 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-1c187d93908940eaa71e4ba415b5faac.xml#id-1c187d93908940eaa71e4ba415b5faac"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e73d8fd8b09c48879ea5b02ea3a11d87"
+          source="id-74995ca7a8b84c54b9b3684de167876f"
+          target="id-44c278d2f6424167959606a18689ee36">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-c25596bb68f54d73b78329ed85947631.xml#id-c25596bb68f54d73b78329ed85947631"/>
+      </sourceConnections>
       <bounds
           x="280"
           y="30"
@@ -190,14 +199,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e3473a800354bd5968d7230d428587e"
       targetConnections="id-bae271f36baa4ad4b2c4628487ee8e0f"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
       fillColor="#ffffcc"
       textPosition="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <bounds
-        x="530"
+        x="650"
         y="90"
-        width="231"
+        width="141"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -240,6 +250,23 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-81077.xml#id-81077"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-44c278d2f6424167959606a18689ee36"
+      targetConnections="id-e73d8fd8b09c48879ea5b02ea3a11d87"
+      textPosition="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="490"
+        y="90"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-81137.xml#id-81137"/>
   </children>
   <properties
       key="Publiceren"
