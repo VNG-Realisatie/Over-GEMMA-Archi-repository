@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA kennismodel bedrijfsarchitectuur"
+    name="GEMMA kennismodel bedrijfslaag"
     id="id-9b639d865753493981f8a2b1ee329fbe"
     documentation="Bedrijfsarchitectuur elementen en onderlinge relaties">
   <children

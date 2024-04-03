@@ -131,9 +131,10 @@
           source="id-676f97f655f249c79df17d3c752ab4ed"
           target="id-829f3115dc3743baae53d68e40bf20a7">
         <bendpoints
-            startX="50"
-            startY="920"
-            endX="540"/>
+            startX="40"
+            startY="900"
+            endX="549"
+            endY="-10"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-4dc1a622b8f14205831db0da2c472e4d.xml#id-4dc1a622b8f14205831db0da2c472e4d"/>
@@ -577,19 +578,19 @@
           source="id-59119d35108f4d47bc02f5c831da907b"
           target="id-59119d35108f4d47bc02f5c831da907b">
         <bendpoints
-            startX="100"
-            startY="-20"
-            endX="100"
-            endY="-20"/>
+            startX="-110"
+            startY="-10"
+            endX="-110"
+            endY="-10"/>
         <bendpoints
-            startX="100"
+            startX="-110"
             startY="-50"
-            endX="100"
+            endX="-110"
             endY="-50"/>
         <bendpoints
-            startX="40"
+            startX="-40"
             startY="-50"
-            endX="40"
+            endX="-40"
             endY="-50"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
@@ -638,7 +639,7 @@
       </sourceConnections>
       <bounds
           x="90"
-          y="310"
+          y="280"
           width="141"
           height="61"/>
       <archimateElement
@@ -652,7 +653,7 @@
         textPosition="1">
       <bounds
           x="90"
-          y="200"
+          y="170"
           width="141"
           height="61"/>
       <archimateElement
@@ -685,7 +686,7 @@
       </sourceConnections>
       <bounds
           x="20"
-          y="80"
+          y="50"
           width="141"
           height="61"/>
       <archimateElement
@@ -707,7 +708,7 @@
       </sourceConnections>
       <bounds
           x="190"
-          y="80"
+          y="50"
           width="141"
           height="61"/>
       <archimateElement
@@ -740,7 +741,7 @@
       </sourceConnections>
       <bounds
           x="90"
-          y="410"
+          y="380"
           width="141"
           height="61"/>
       <archimateElement
@@ -822,19 +823,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3d214c6f6b1c40c5819a66834e7658e6"
         targetConnections="id-39e91873fc914794abb11528e8bfbdfe"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
-        lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
+        fillColor="#ffe0e0"
         textPosition="1"
         type="1">
-      <features
-          name="lineAlpha"
-          value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a2532bcd7be044da9bd8f512915889cd"
@@ -857,18 +848,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-57331e7d8d1d4fcbb67bb79e5d1bc195"
         targetConnections="id-f76e2ed551534e56ad7642ce2e0e0cd0 id-678a5eecc10744fe94992565e04b7158"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
-        lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
+        fillColor="#ffe0e0"
         textPosition="1">
-      <features
-          name="lineAlpha"
-          value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-63ca179edc4d4d97bd4579b1f4923931"
@@ -961,6 +942,20 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-a8ad6a2a32384b2abd892106a7c0f4e4.xml#id-a8ad6a2a32384b2abd892106a7c0f4e4"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3ddaa4b2f79e4ac2a56f25196d5abfcd"
+          source="id-829f3115dc3743baae53d68e40bf20a7"
+          target="id-eca692f39d68418295cee70c4c6a7913">
+        <bendpoints
+            startX="339"
+            startY="10"
+            endX="-41"
+            endY="-90"/>
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-d4edab8853404ff2a849d92fc2b4ad6d.xml#id-d4edab8853404ff2a849d92fc2b4ad6d"/>
+      </sourceConnections>
       <bounds
           x="541"
           y="60"
@@ -973,20 +968,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-eca692f39d68418295cee70c4c6a7913"
-        targetConnections="id-1351138bcecc4aee8d9334e656172719"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
-        lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
+        targetConnections="id-1351138bcecc4aee8d9334e656172719 id-3ddaa4b2f79e4ac2a56f25196d5abfcd"
+        fillColor="#ffe0e0"
         textPosition="1"
         type="1">
-      <features
-          name="lineAlpha"
-          value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9f0cfac4ea1d4e7fa0b43ce0aea7b40d"
@@ -1075,18 +1060,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f1920b60f69a4b769b4b13c94a4fe160"
         targetConnections="id-7789d3d197fd47f49f187e5a622243b4 id-a2532bcd7be044da9bd8f512915889cd"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
-        lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
+        fillColor="#ffe0e0"
         textPosition="1">
-      <features
-          name="lineAlpha"
-          value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <bounds
           x="141"
           y="270"
