@@ -718,18 +718,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-60398689d53b4ad4b0e94e56e6d29cb8"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
+        font="1|.AppleSystemUIFont|9.0|0|COCOA|1|.SFNS-Regular"
+        fontColor="#000000"
         lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
+        fillColor="#ccccfb"
         textPosition="1">
-      <features
-          name="lineAlpha"
-          value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f05dcfe11a004535a4d6a7dedf133fe4"

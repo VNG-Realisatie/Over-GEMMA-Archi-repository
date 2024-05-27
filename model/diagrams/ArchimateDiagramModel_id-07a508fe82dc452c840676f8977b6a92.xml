@@ -94,23 +94,13 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4c846c19f9814a75a0c6cad8dc256dea"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#808080"
+      id="id-a6a5acf242ea461d8a1ec82d224df09e"
       lineColor="#000000"
-      fillColor="#eaeaea"
-      alpha="128"
-      textPosition="1">
-    <features
-        name="lineAlpha"
-        value="128"/>
-    <features
-        name="gradient"
-        value="2"/>
+      fillColor="#ccccfb">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-dccb3264008c469f96d138acbd3bc706"
-        source="id-4c846c19f9814a75a0c6cad8dc256dea"
+        source="id-a6a5acf242ea461d8a1ec82d224df09e"
         target="id-8cbb247976c24f7cb62526c2ff5baca1">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
