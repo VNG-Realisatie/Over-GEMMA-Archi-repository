@@ -9,14 +9,11 @@
       value="GEMMA Online en redactie"/>
   <properties
       key="Architectuurtool"
-      value="BiZZdesign Architect"/>
+      value="Archi"/>
   <properties
       key="Object ID"
       value="7382f25e-04b1-443e-abe5-00fa6e7212c4"/>
   <properties
-      key="Versie"
-      value="1.0"/>
-  <properties
       key="Release"
-      value="2024-04-03"/>
+      value="2024-05-27"/>
 </archimate:ArchimateModel>
