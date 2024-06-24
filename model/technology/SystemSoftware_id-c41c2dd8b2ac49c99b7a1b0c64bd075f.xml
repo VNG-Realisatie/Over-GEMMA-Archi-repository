@@ -1,8 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Systeemsoftware"
+    name="Technologiecomponent"
     id="id-c41c2dd8b2ac49c99b7a1b0c64bd075f"
-    documentation="System software represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.">
+    documentation="Technologiecomponent represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.">
   <properties
       key="Object ID"
       value="a0824f48-49fc-41e5-8c9a-bcac280c492d"/>

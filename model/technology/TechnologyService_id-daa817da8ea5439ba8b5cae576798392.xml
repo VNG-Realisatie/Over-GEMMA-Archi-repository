@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Infrastructuurservice"
+    name="Technologie-service"
     id="id-daa817da8ea5439ba8b5cae576798392"
     documentation="A technology service represents an explicitly defined exposed technology behavior.">
   <properties
