@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatie-service"
+    name="Applicatieservice"
     id="id-81265"
     documentation="In een service gebundelde functionaliteit die gebruikt kan worden middels één of meerdere Applicatie-interfaces.">
   <properties

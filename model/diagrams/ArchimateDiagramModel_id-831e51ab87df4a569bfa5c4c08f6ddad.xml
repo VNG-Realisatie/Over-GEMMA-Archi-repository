@@ -15,7 +15,7 @@
         x="50"
         y="150"
         width="651"
-        height="221"/>
+        height="211"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b47ce225146549009abba51db06b4d90"
@@ -24,16 +24,16 @@
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2fdd3e4fb3c14f6296963924300557d4"
+          id="id-8fd71e95bd1b4a6c9062c87107f439a0"
           source="id-b47ce225146549009abba51db06b4d90"
-          target="id-8763ecdb802c4f7ea718657df135c97c">
+          target="id-b1486b68721c4aafa51e846920f65757">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-6efbc6266331418ea0b19d97e798be01.xml#id-6efbc6266331418ea0b19d97e798be01"/>
+            href="ServingRelationship_id-83f9c031df1141a3ab52b31a82887c7c.xml#id-83f9c031df1141a3ab52b31a82887c7c"/>
       </sourceConnections>
       <bounds
-          x="200"
-          y="50"
+          x="260"
+          y="30"
           width="231"
           height="61"/>
       <archimateElement
@@ -54,8 +54,8 @@
             href="RealizationRelationship_id-bec881357cf84dc7b3a0d84932a78409.xml#id-bec881357cf84dc7b3a0d84932a78409"/>
       </sourceConnections>
       <bounds
-          x="200"
-          y="150"
+          x="260"
+          y="130"
           width="231"
           height="61"/>
       <archimateElement
@@ -65,18 +65,17 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8763ecdb802c4f7ea718657df135c97c"
-      targetConnections="id-2fdd3e4fb3c14f6296963924300557d4"
-      fillColor="#daeef3"
+      id="id-b1486b68721c4aafa51e846920f65757"
+      targetConnections="id-8fd71e95bd1b4a6c9062c87107f439a0"
       textPosition="1">
     <bounds
-        x="250"
+        x="310"
         y="60"
         width="231"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-81265.xml#id-81265"/>
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-81341.xml#id-81341"/>
   </children>
   <properties
       key="Publiceren"

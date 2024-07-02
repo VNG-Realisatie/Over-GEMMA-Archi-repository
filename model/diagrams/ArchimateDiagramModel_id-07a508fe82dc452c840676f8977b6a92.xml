@@ -41,18 +41,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-613486c3559f422283b88390f05185c2"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#808080"
-      lineColor="#000000"
-      fillColor="#eaeaea"
-      alpha="128"
-      textPosition="1">
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
     <features
         name="lineAlpha"
         value="128"/>
-    <features
-        name="gradient"
-        value="2"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-afbc5c3504a243618c8877e6fc29b597"
@@ -73,7 +65,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-cdade2119ce24357a0927e878af495fd">
+      id="id-cdade2119ce24357a0927e878af495fd"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7f144250e8c9419b8086098ca2c6b20b"

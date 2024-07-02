@@ -193,7 +193,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3a854669f91d4486b465dcfffb7c72f4"
-        targetConnections="id-ff07a86ce1d9482e8a27f2cc9fb065e2 id-db33b0e47c0947a8b51130294e86e155 id-f09fed62c40e495f9534397e5456897e"
+        targetConnections="id-ff07a86ce1d9482e8a27f2cc9fb065e2 id-db33b0e47c0947a8b51130294e86e155 id-f09fed62c40e495f9534397e5456897e id-bf43154072ae481ab5fe99f39af93293"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#808080"
         lineColor="#000000"
@@ -328,6 +328,11 @@
             endX="-671"
             endY="-109"/>
         <bendpoints
+            startX="150"
+            startY="-70"
+            endX="-550"
+            endY="-110"/>
+        <bendpoints
             startX="660"
             startY="-69"
             endX="-40"
@@ -424,6 +429,15 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-81156.xml#id-81156"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-bf43154072ae481ab5fe99f39af93293"
+          source="id-24f9940c172f4cc691e98e50bebcad38"
+          target="id-3a854669f91d4486b465dcfffb7c72f4">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-a284cd0bef9c47a796e0fc36d333687e.xml#id-a284cd0bef9c47a796e0fc36d333687e"/>
       </sourceConnections>
       <bounds
           x="630"
@@ -664,17 +678,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a4b5dc1acce043129c5837edfd6cb976"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#808080"
-        lineColor="#000000"
-        fillColor="#eaeaea"
-        alpha="128"
         textPosition="1">
       <features
           name="lineAlpha"
           value="128"/>
-      <features
-          name="gradient"
-          value="2"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7b89b2244da2412385b355abc121a2e9"
@@ -696,6 +703,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a4cd7408e5324f4793497d686351fa1f"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1408,9 +1416,6 @@
           id="id-5b5a7a61258d4a4889679c0e3d896246"
           source="id-fa65c0360332448dbb2e1bb3b76d2ae2"
           target="id-4fba9de3b6f84d57b4265d01d4fbe68e">
-        <features
-            name="labelExpression"
-            value="&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-81317.xml#id-81317"/>
@@ -1508,7 +1513,7 @@
         lineColor="#000000"
         fillColor="#eaeaea"
         alpha="128"
-        content="Wens, nu niet in GEMMA (vervaagde kleur)"
+        content="Wens, nu niet in GEMMA"
         textPosition="1"
         borderType="1">
       <features
@@ -1601,7 +1606,8 @@
         height="111"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4735330d7d344eb8bcbbe2ab5f7015a3">
+        id="id-4735330d7d344eb8bcbbe2ab5f7015a3"
+        textPosition="1">
       <bounds
           x="100"
           y="40"

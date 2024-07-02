@@ -18,9 +18,9 @@
           href="ServingRelationship_id-81339.xml#id-81339"/>
     </sourceConnections>
     <bounds
-        x="310"
+        x="290"
         y="260"
-        width="141"
+        width="171"
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -30,11 +30,23 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5030ba98983475a8ca59dfc7c92eaa9"
       targetConnections="id-b697c176bee3487c86e2e53689068ba3"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#808080"
+      lineColor="#000000"
+      fillColor="#eaeaea"
+      alpha="128"
+      textPosition="1"
       type="1">
+    <features
+        name="lineAlpha"
+        value="128"/>
+    <features
+        name="gradient"
+        value="2"/>
     <bounds
-        x="310"
+        x="290"
         y="30"
-        width="141"
+        width="171"
         height="61"/>
     <archimateElement
         xsi:type="archimate:Value"
@@ -43,7 +55,19 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3eb76917841c4fe5aed57ed5b6bd33dc"
-      targetConnections="id-97d6836dfecb44168eaac2c57eabffd2 id-6af0dd7c16074b2baec2fedb805c7449">
+      targetConnections="id-97d6836dfecb44168eaac2c57eabffd2 id-6af0dd7c16074b2baec2fedb805c7449"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#808080"
+      lineColor="#000000"
+      fillColor="#eaeaea"
+      alpha="128"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="128"/>
+    <features
+        name="gradient"
+        value="2"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b697c176bee3487c86e2e53689068ba3"
@@ -54,9 +78,9 @@
           href="AssociationRelationship_id-81159.xml#id-81159"/>
     </sourceConnections>
     <bounds
-        x="310"
+        x="290"
         y="150"
-        width="141"
+        width="171"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -67,7 +91,8 @@
       id="id-6367544b84524554b5bc8035a200021d"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#808080"
-      fillColor="#fefeb4"
+      lineColor="#000000"
+      fillColor="#eaeaea"
       alpha="128"
       textPosition="1"
       type="1">
@@ -126,18 +151,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1adc771228fd46e8a4915540550772d9"
       targetConnections="id-ce9d697fbb4645d5932cb08d7ee79e8e"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#808080"
-      lineColor="#000000"
-      fillColor="#c6efce"
-      alpha="128"
-      textPosition="1">
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
     <features
         name="lineAlpha"
         value="128"/>
-    <features
-        name="gradient"
-        value="2"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ab5a722266d04f05b5d89f9ab1788f2e"
@@ -148,9 +165,9 @@
           href="ServingRelationship_id-6efbc6266331418ea0b19d97e798be01.xml#id-6efbc6266331418ea0b19d97e798be01"/>
     </sourceConnections>
     <bounds
-        x="310"
+        x="290"
         y="370"
-        width="141"
+        width="171"
         height="61"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -188,7 +205,8 @@
       targetConnections="id-fb80adf6f28d4c888cf0e75b23e318e4"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#808080"
-      fillColor="#fefeb4"
+      lineColor="#000000"
+      fillColor="#eaeaea"
       alpha="128"
       textPosition="1"
       type="1">
