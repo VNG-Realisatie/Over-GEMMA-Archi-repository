@@ -8,7 +8,8 @@
       id="id-81611"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81616"
@@ -21,9 +22,9 @@
           href="SpecializationRelationship_id-81140.xml#id-81140"/>
     </sourceConnections>
     <bounds
-        x="-23"
-        y="107"
-        width="211"
+        x="-10"
+        y="110"
+        width="261"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -35,7 +36,8 @@
       targetConnections="id-81618 id-81619"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffa4">
+      fillColor="#ffffa4"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81617"
@@ -48,9 +50,9 @@
           href="SpecializationRelationship_id-81143.xml#id-81143"/>
     </sourceConnections>
     <bounds
-        x="260"
-        y="107"
-        width="211"
+        x="310"
+        y="110"
+        width="261"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -62,11 +64,12 @@
       targetConnections="id-81616 id-81617"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <bounds
-        x="120"
-        y="7"
-        width="211"
+        x="160"
+        y="10"
+        width="261"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -77,7 +80,8 @@
       id="id-81614"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffa4">
+      fillColor="#ffffa4"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81618"
@@ -90,9 +94,9 @@
           href="SpecializationRelationship_id-81145.xml#id-81145"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="213"
-        width="211"
+        x="140"
+        y="210"
+        width="261"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -103,7 +107,8 @@
       id="id-81615"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffa4">
+      fillColor="#ffffa4"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81619"
@@ -116,9 +121,9 @@
           href="SpecializationRelationship_id-81147.xml#id-81147"/>
     </sourceConnections>
     <bounds
-        x="400"
-        y="213"
-        width="211"
+        x="460"
+        y="210"
+        width="261"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

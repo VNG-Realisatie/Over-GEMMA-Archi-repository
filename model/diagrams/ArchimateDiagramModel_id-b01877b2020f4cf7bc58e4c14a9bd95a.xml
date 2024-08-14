@@ -176,15 +176,6 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-1c187d93908940eaa71e4ba415b5faac.xml#id-1c187d93908940eaa71e4ba415b5faac"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e73d8fd8b09c48879ea5b02ea3a11d87"
-          source="id-74995ca7a8b84c54b9b3684de167876f"
-          target="id-44c278d2f6424167959606a18689ee36">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-c25596bb68f54d73b78329ed85947631.xml#id-c25596bb68f54d73b78329ed85947631"/>
-      </sourceConnections>
       <bounds
           x="280"
           y="30"
@@ -205,9 +196,9 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="650"
-        y="90"
-        width="141"
+        x="530"
+        y="100"
+        width="231"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -250,23 +241,6 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-81077.xml#id-81077"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-44c278d2f6424167959606a18689ee36"
-      targetConnections="id-e73d8fd8b09c48879ea5b02ea3a11d87"
-      textPosition="1">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="490"
-        y="90"
-        width="141"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-81137.xml#id-81137"/>
   </children>
   <properties
       key="Publiceren"

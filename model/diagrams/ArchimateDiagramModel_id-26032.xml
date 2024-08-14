@@ -9,11 +9,12 @@
       targetConnections="id-81621"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <bounds
         x="20"
         y="333"
-        width="133"
+        width="181"
         height="53"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -24,7 +25,8 @@
       id="id-81625"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81622"
@@ -39,7 +41,7 @@
     <bounds
         x="20"
         y="13"
-        width="133"
+        width="181"
         height="53"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -51,7 +53,8 @@
       targetConnections="id-81622"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81623"
@@ -66,7 +69,7 @@
     <bounds
         x="20"
         y="120"
-        width="133"
+        width="181"
         height="53"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -78,7 +81,8 @@
       targetConnections="id-81623"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
+      fillColor="#ffffcc"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81621"
@@ -93,7 +97,7 @@
     <bounds
         x="20"
         y="227"
-        width="133"
+        width="181"
         height="53"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

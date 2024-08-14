@@ -21,7 +21,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-45a1cc7b1bbb4bc695781a14b90cda91"
-        targetConnections="id-cef05cd4c9454421ba613706d6afe329">
+        targetConnections="id-cef05cd4c9454421ba613706d6afe329"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3f2d79b83c13444ab6e5ac545eb1ebc3"
@@ -83,7 +84,8 @@
         targetConnections="id-3f2d79b83c13444ab6e5ac545eb1ebc3 id-b1ba5381df544e3d940ee06236515687"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
-        fillColor="#ffffcc">
+        fillColor="#ffffcc"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-abe1dff276af413d82f6d4ecb9e6f1ff"

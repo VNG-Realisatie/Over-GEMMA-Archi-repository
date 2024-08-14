@@ -34,7 +34,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6ce1f7a11e5143aa8ed60fadf26da5fc"
           targetConnections="id-a1d6adc1f95b481e89ef49a63e2d62d8 id-5c0ffca5163440f18cad08318b61d4bc id-335b055db20f472896aedae019587687"
-          fillColor="#b7dee8">
+          fillColor="#b7dee8"
+          textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-335b055db20f472896aedae019587687"
@@ -121,7 +122,8 @@
           targetConnections="id-462df524a6c44e0c80c7d11a12bf4cec"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
-          fillColor="#daeef3">
+          fillColor="#daeef3"
+          textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-08d0e51c9a264f5ebd6acd5da5f10a81"
@@ -148,7 +150,8 @@
           targetConnections="id-08d0e51c9a264f5ebd6acd5da5f10a81"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
-          fillColor="#b7dee8">
+          fillColor="#b7dee8"
+          textPosition="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-845b19570a1c468e8d71b360c1f5c26d"
@@ -210,7 +213,8 @@
         targetConnections="id-845b19570a1c468e8d71b360c1f5c26d"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
-        fillColor="#daeef3">
+        fillColor="#daeef3"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5c0ffca5163440f18cad08318b61d4bc"
@@ -270,7 +274,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-33d8f43e0f854c38aa8a148bd948925e"
-        targetConnections="id-0b574f24bd174d07806cc6c0e57f0fab">
+        targetConnections="id-0b574f24bd174d07806cc6c0e57f0fab"
+        textPosition="1">
       <bounds
           x="360"
           y="30"

@@ -25,6 +25,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8fd71e95bd1b4a6c9062c87107f439a0"
+          fontColor="#808080"
+          lineColor="#c0c0c0"
           source="id-b47ce225146549009abba51db06b4d90"
           target="id-b1486b68721c4aafa51e846920f65757">
         <archimateRelationship
@@ -67,7 +69,18 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b1486b68721c4aafa51e846920f65757"
       targetConnections="id-8fd71e95bd1b4a6c9062c87107f439a0"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#808080"
+      lineColor="#000000"
+      fillColor="#eaeaea"
+      alpha="128"
       textPosition="1">
+    <features
+        name="lineAlpha"
+        value="128"/>
+    <features
+        name="gradient"
+        value="2"/>
     <bounds
         x="310"
         y="60"

@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8cbb247976c24f7cb62526c2ff5baca1"
-      targetConnections="id-dccb3264008c469f96d138acbd3bc706">
+      targetConnections="id-dccb3264008c469f96d138acbd3bc706"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-61682196f79440a3b19716186460d0c5"
@@ -28,7 +29,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cb9f8c22c2084bf0bbf73386497ae302"
-      targetConnections="id-61682196f79440a3b19716186460d0c5 id-afbc5c3504a243618c8877e6fc29b597 id-7f144250e8c9419b8086098ca2c6b20b">
+      targetConnections="id-61682196f79440a3b19716186460d0c5 id-afbc5c3504a243618c8877e6fc29b597 id-7f144250e8c9419b8086098ca2c6b20b"
+      textPosition="1">
     <bounds
         x="170"
         y="140"
@@ -41,7 +43,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-613486c3559f422283b88390f05185c2"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textPosition="1">
     <features
         name="lineAlpha"
         value="128"/>
@@ -66,7 +69,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cdade2119ce24357a0927e878af495fd"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|0|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7f144250e8c9419b8086098ca2c6b20b"
@@ -89,7 +93,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a6a5acf242ea461d8a1ec82d224df09e"
       lineColor="#000000"
-      fillColor="#ccccfb">
+      fillColor="#ccccfb"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-dccb3264008c469f96d138acbd3bc706"

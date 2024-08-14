@@ -32,7 +32,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5cebcc3dd8184342a8e0b16067b6f97a">
+      id="id-5cebcc3dd8184342a8e0b16067b6f97a"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a4b2e78ed8dc4650a0f53cee4b6721f2"
@@ -54,7 +55,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4c54c2774df741dca716de2b1d7a79e3"
-      targetConnections="id-bfe3d5523cc34bfdabdcde128edd924d">
+      targetConnections="id-bfe3d5523cc34bfdabdcde128edd924d"
+      textPosition="1">
     <bounds
         x="60"
         y="120"
@@ -66,7 +68,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4b45cf71020c4b15bb7cb3c7985958ab">
+      id="id-4b45cf71020c4b15bb7cb3c7985958ab"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e348c017923447bc8fb17cdf38ec9218"
@@ -90,7 +93,8 @@
       id="id-c5c3848d7de9439cb155d5736a305263"
       targetConnections="id-e348c017923447bc8fb17cdf38ec9218 id-a4b2e78ed8dc4650a0f53cee4b6721f2"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000">
+      lineColor="#000000"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4cc5ec8a48d54dbba752ef6bdf2fc252"
@@ -141,7 +145,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bfbf0168ed684a7d905c5fcb197a900e"
-      targetConnections="id-ab4024bae55c4de9bf87bbe5ee20d763">
+      targetConnections="id-ab4024bae55c4de9bf87bbe5ee20d763"
+      textPosition="1">
     <bounds
         x="310"
         y="121"
@@ -154,7 +159,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-105a96befdcb4170abd6069d6d28c1df"
-      targetConnections="id-4cc5ec8a48d54dbba752ef6bdf2fc252">
+      targetConnections="id-4cc5ec8a48d54dbba752ef6bdf2fc252"
+      textPosition="1">
     <bounds
         x="580"
         y="260"
@@ -170,7 +176,8 @@
       targetConnections="id-8d0fa128969e47bcaf22bc182fce5679"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#b7dee8">
+      fillColor="#b7dee8"
+      textPosition="1">
     <bounds
         x="580"
         y="120"

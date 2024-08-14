@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-72c19ea50431444cb7de2f9c965ba131"
-      targetConnections="id-45dd60b8739c4bf0a350c5cc0702eca5 id-ab5a722266d04f05b5d89f9ab1788f2e">
+      targetConnections="id-45dd60b8739c4bf0a350c5cc0702eca5 id-ab5a722266d04f05b5d89f9ab1788f2e"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6af0dd7c16074b2baec2fedb805c7449"
@@ -151,7 +152,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1adc771228fd46e8a4915540550772d9"
       targetConnections="id-ce9d697fbb4645d5932cb08d7ee79e8e"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      textPosition="1">
     <features
         name="lineAlpha"
         value="128"/>
