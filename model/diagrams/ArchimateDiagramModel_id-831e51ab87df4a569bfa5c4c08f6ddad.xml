@@ -20,8 +20,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b47ce225146549009abba51db06b4d90"
         targetConnections="id-6140af81d2a945d197f0d9776d0bb806"
-        fillColor="#def6e3"
+        fillColor="#c6efce"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8fd71e95bd1b4a6c9062c87107f439a0"

@@ -50,8 +50,11 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d9b78a149f044ccb89449bc916bb8f18"
         targetConnections="id-9113eb4c1b3a4c4aaf27d5911077b9a9 id-1f054da1c83744a6ae82857f3178d327"
-        fillColor="#def6e3"
+        fillColor="#c6efce"
         textPosition="1">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
           x="90"
           y="30"
