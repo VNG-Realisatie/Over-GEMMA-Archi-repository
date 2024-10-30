@@ -6,8 +6,8 @@
       key="Object ID"
       value="9485d641-a090-4701-b79d-476978aeb0c2"/>
   <source
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-c99da7a616ef47c0b7118bb77945cb9a.xml#id-c99da7a616ef47c0b7118bb77945cb9a"/>
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
   <target
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-6f93da59094949bf9cbdd850ea6496d1.xml#id-6f93da59094949bf9cbdd850ea6496d1"/>

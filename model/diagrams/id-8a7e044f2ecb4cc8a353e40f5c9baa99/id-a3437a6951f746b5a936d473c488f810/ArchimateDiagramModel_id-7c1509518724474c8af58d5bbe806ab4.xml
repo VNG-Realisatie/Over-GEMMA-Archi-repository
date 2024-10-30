@@ -259,15 +259,6 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-0d88304674fb479597ebb1baa94025c1.xml#id-0d88304674fb479597ebb1baa94025c1"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3e3fe304e6f8473a9b7f5078a463ba06"
-        source="id-adbf4138ca4a41d5b41864b9cdb3891c"
-        target="id-0e3b8cadc74a4574830496768b8750c3">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-aa629ae7d8d3486787ef563f19088431.xml#id-aa629ae7d8d3486787ef563f19088431"/>
-    </sourceConnections>
     <bounds
         x="21"
         y="965"
@@ -276,17 +267,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0e3b8cadc74a4574830496768b8750c3"
-        targetConnections="id-3e3fe304e6f8473a9b7f5078a463ba06"
         fillColor="#fefeb4"
         type="1">
       <bounds
-          x="54"
+          x="30"
           y="30"
-          width="141"
+          width="165"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-e57d656ba16f4014b17493828484911e.xml#id-e57d656ba16f4014b17493828484911e"/>
+          href="BusinessObject_id-0675235594cd45df8d4f5cc54d509c07.xml#id-0675235594cd45df8d4f5cc54d509c07"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -295,9 +285,9 @@
         fillColor="#fefeb4"
         type="1">
       <bounds
-          x="830"
+          x="810"
           y="30"
-          width="141"
+          width="165"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -310,9 +300,9 @@
         fillColor="#fefeb4"
         type="1">
       <bounds
-          x="230"
+          x="206"
           y="30"
-          width="141"
+          width="165"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -325,9 +315,9 @@
         fillColor="#fefeb4"
         type="1">
       <bounds
-          x="650"
+          x="630"
           y="30"
-          width="141"
+          width="165"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"

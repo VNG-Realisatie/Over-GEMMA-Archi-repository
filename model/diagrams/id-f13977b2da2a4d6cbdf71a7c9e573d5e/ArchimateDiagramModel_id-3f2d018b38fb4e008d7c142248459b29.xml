@@ -1495,7 +1495,7 @@
             height="660"/>
         <archimateElement
             xsi:type="archimate:BusinessRole"
-            href="BusinessRole_id-6f915d889274489b8ec00a36bfaab58f.xml#id-6f915d889274489b8ec00a36bfaab58f"/>
+            href="BusinessRole_id-b80d775323b34f468a649e403e382bfe.xml#id-b80d775323b34f468a649e403e382bfe"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessActor"
@@ -1636,8 +1636,8 @@
           width="402"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-c99da7a616ef47c0b7118bb77945cb9a.xml#id-c99da7a616ef47c0b7118bb77945cb9a"/>
+          xsi:type="archimate:BusinessCollaboration"
+          href="BusinessCollaboration_id-80979.xml#id-80979"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1670,7 +1670,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-782bb69dbe4d49049257fab5462dc313.xml#id-782bb69dbe4d49049257fab5462dc313"/>
+          href="BusinessActor_id-80978.xml#id-80978"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1731,7 +1731,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-1f58ee8f769f44b9a8f28e9a177097f4.xml#id-1f58ee8f769f44b9a8f28e9a177097f4"/>
+          href="BusinessActor_id-80976.xml#id-80976"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1859,9 +1859,6 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-43ddfff03f4640449306d547a7c39b0d.xml#id-43ddfff03f4640449306d547a7c39b0d"/>
   </children>
-  <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;Layout&quot;,&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutCircular&quot;: false,&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 40,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;excludeFromView&quot;: false,&#xA; &quot;viewName&quot;: &quot;PvE SWC&quot;,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewFolder&quot;: &quot;&quot;&#xA;}"/>
   <properties
       key="Object ID"
       value="565e6ea7-436a-4d07-824e-f556a9a8db14"/>

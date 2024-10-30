@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert standaard"
     id="id-b063e1e54f8f44f1948469ebcfc5529d">
   <properties
       key="Object ID"

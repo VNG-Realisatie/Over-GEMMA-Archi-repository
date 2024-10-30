@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA doelgroepen en VNG persona's "
+    name="GEMMA doelgroepen en VNG persona's"
     id="id-f7a79951d027473d8ec5fc81574201c8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -365,7 +365,7 @@
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-3850d4741f08441e9239e2c50fd0e921.xml#id-3850d4741f08441e9239e2c50fd0e921"/>
+          href="BusinessRole_id-77dfb7725879423f8751b9ba19d397ac.xml#id-77dfb7725879423f8751b9ba19d397ac"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

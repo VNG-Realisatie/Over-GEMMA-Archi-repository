@@ -50,6 +50,17 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-40235e928469494ea2f5bc4aaf107034"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          lineColor="#000000"
+          source="id-6b1c8090ea334cbda7e7de9b0c44a931"
+          target="id-378a8491ca6a4c84b2d6db91f4acf506">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-38ff5c0f9e4d44febd16cd77eb13c795.xml#id-38ff5c0f9e4d44febd16cd77eb13c795"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-351e42a07e4e4a93b8f833448e4d6604"
           source="id-6b1c8090ea334cbda7e7de9b0c44a931"
           target="id-3ca743b5e87546098e60b386e0eb7fe9">
@@ -60,18 +71,7 @@
             endY="-270"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-7747c6bf8e9144bfb771afcd724a7ba7.xml#id-7747c6bf8e9144bfb771afcd724a7ba7"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-40235e928469494ea2f5bc4aaf107034"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
-          source="id-6b1c8090ea334cbda7e7de9b0c44a931"
-          target="id-378a8491ca6a4c84b2d6db91f4acf506">
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-38ff5c0f9e4d44febd16cd77eb13c795.xml#id-38ff5c0f9e4d44febd16cd77eb13c795"/>
+            href="AggregationRelationship_id-bd8ff5cca662415b9e8efef952e0ed96.xml#id-bd8ff5cca662415b9e8efef952e0ed96"/>
       </sourceConnections>
       <bounds
           x="30"
@@ -381,7 +381,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3ca743b5e87546098e60b386e0eb7fe9"
-          targetConnections="id-351e42a07e4e4a93b8f833448e4d6604 id-178b7cb2f68e4033801f9ca8ea91d4d6"
+          targetConnections="id-178b7cb2f68e4033801f9ca8ea91d4d6 id-351e42a07e4e4a93b8f833448e4d6604"
           textAlignment="1"
           fillColor="#efefef"
           type="1">
@@ -634,7 +634,4 @@
   <properties
       key="Object ID"
       value="9d269543-28ce-405f-9cd1-b1eb7c24f972"/>
-  <properties
-      key="Publiceren"
-      value="Niet"/>
 </archimate:ArchimateDiagramModel>

@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Logging en verwerkingsactiviteiten"
-    id="id-2a060b5b72d54378a06c50e235dd84ce"
-    documentation="Het thema 'Verwerking en privacy' beschrijft het waarom, wat en hoe van het verwerken van, met name persoonsgerelateerde, gegevens. &#xD;&#xA;&#xD;&#xA;Het thema Logging en verwerkingsactiviteiten beschrijft de architectuurproducten en standaarden die op voor zowel verwerkingsactiviteiten als voor verwerkingen zijn ontwikkeld. &#xA;&#xA;Vanuit de de Algemene Verordening Gegevensbescherming (AVG) en de Uitvoeringswet AVG zijn gemeenten verplicht dit gebruik van persoonsgegevens vast te leggen, en inzichtelijk te maken voor burgers. Door deze transparantie over het gebruik van persoonsgegevens heeft de burger de mogelijkheid om na te gaan of de gemeente zijn of haar gegevens rechtmatig gebruikt.">
-  <properties
-      key="Object ID"
-      value="16b5d845-85b4-4e7d-a705-20c71f24ec97"/>
-</archimate:BusinessObject>
