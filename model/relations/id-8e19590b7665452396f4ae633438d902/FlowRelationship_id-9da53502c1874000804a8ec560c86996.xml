@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import remote model"
+    id="id-9da53502c1874000804a8ec560c86996">
+  <properties
+      key="Object ID"
+      value="72979a8a-25ed-4d89-b105-736140dafb31"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-19047df7f6654484bcfd192726c12715.xml#id-19047df7f6654484bcfd192726c12715"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d503c0d45a274f8298cf5302c4cc7071.xml#id-d503c0d45a274f8298cf5302c4cc7071"/>
+</archimate:FlowRelationship>

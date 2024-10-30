@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-interfaces"
+    id="id-0029503ce6d643f792619272b276302d">
+  <properties
+      key="Object ID"
+      value="d5ddd86d-38da-4b7d-b59a-b591369bbe16"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Informatiearchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

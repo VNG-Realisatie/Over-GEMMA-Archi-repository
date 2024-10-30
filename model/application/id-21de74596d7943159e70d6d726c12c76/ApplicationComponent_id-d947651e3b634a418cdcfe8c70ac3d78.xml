@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SmartComments™"
+    id="id-d947651e3b634a418cdcfe8c70ac3d78"
+    documentation="SmartFeedback™ biedt gebruikers van een wiki de mogelijkheid opmerkingen te plaatsen over wikipagina's, op een gebruiksvriendelijke wijze via formulieren gekoppeld aan de ‘Overleg’-tab die op elke wikipagina getoond wordt. Redacteuren kunnen op de opmerkingen reageren, en de status van elke opmerking monitoren en beheren. Ook kunnen zij overzichten maken van openstaande opmerkingen;">
+  <properties
+      key="Object ID"
+      value="97ced2d2-3875-4eb7-96cd-faba3cbc1a20"/>
+</archimate:ApplicationComponent>

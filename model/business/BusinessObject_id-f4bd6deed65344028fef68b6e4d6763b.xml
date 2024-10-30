@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NORA 5-laagsmodel"
+    id="id-f4bd6deed65344028fef68b6e4d6763b"
+    documentation="Je kunt het verwerken in praatplaten en problemen, voorzieningen en architectuurafspraken ordenen per laag. Zo creëer je overzicht per laag, terwijl je tegelijk de verbanden tussen de lagen kunt benadrukken. De kracht van het vijflaagsmodel ligt in het feit dat niet-architecten het gemakkelijk begrijpen. ">
+  <properties
+      key="Object ID"
+      value="652857e6-73f9-44bb-9eab-886090b00a3c"/>
+</archimate:BusinessObject>

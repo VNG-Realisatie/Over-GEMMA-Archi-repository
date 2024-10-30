@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berichtenstandaarden (StUF)"
+    id="id-39a5847c"
+    documentation="De gemeentelijke berichtenstandaarden zijn gebaseerd op het Standaard UitwisselFormaat, kortweg StUF. StUF schrijft de vorm voor waarin de gegevens uitgewisseld moeten worden en regelt onder meer de communicatie over verschillende ICT-infrastructuren. De structuren waarin gegevens uitgewisseld worden leggen we vast in berichtenstandaarden zoals sectormodellen en koppelvlakken. &#xA;&#xA;Er zijn berichtstandaarden voor:&#xA;* Basis- en kerngegevens&#xA;* Zaken en documenten&#xA;* Dienstverleningsdomein&#xA;* Ruimtelijk domein&#xA;* Sociaal domein&#xA;* Bedrijfsvoeringsdomein&#xA;&#xA;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="0a884920-50c6-4b54-8ef2-ec6fe512338a"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import from AMEFF"
+    id="id-be6b188e031d4fcf9444420fa0c77eb4"
+    accessType="1">
+  <properties
+      key="Object ID"
+      value="1785695e-e3d2-413d-97e4-e407195ee4fd"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d503c0d45a274f8298cf5302c4cc7071.xml#id-d503c0d45a274f8298cf5302c4cc7071"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-ea3194ad521e4785aa52cfe4a60f8063.xml#id-ea3194ad521e4785aa52cfe4a60f8063"/>
+</archimate:AccessRelationship>

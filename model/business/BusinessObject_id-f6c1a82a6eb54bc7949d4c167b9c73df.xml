@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNG-standaardspecificaties "
+    id="id-f6c1a82a6eb54bc7949d4c167b9c73df"
+    documentation="Introducte van en verwijzigen naar door VNG ontwikkelde en beheerde standaardspecificaties., waaronder Informatiemodellen, StUF en API's">
+  <properties
+      key="Object ID"
+      value="e095f16e-27d3-4511-bc98-f04823ed8358"/>
+  <properties
+      key="Standaarden"
+      value="ja"/>
+  <properties
+      key="GEMMA"
+      value="nee"/>
+</archimate:BusinessObject>

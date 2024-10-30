@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenslandschap - beschrijving informatiearchitectuur"
+    id="06153f76"
+    documentation="Visiedocument ten aanzien van de ontwikkeling van het gemeentelijk gegevenslandschap. De belangrijkste doelen die met de nieuwe inrichting worden nagestreefd zijn:&#xD;&#xA;*&#x9;Compliancy aan vigerende (privacy)wetgeving&#xD;&#xA;*&#x9;Interne en externe transparantie over de verwerking van gegevens&#xD;&#xA;*&#x9;De burger faciliteren in zijn of haar rol als regisseur van de eigen gegevens&#xD;&#xA;*&#x9;Gemeenten de regie geven over de eigen gegevens &#xD;&#xA;*&#x9;Verhogen van de portabiliteit van gegevens&#xD;&#xA;*&#x9;Stimuleren van innovatie van eindgebruikerstoepassingen&#xD;&#xA;&#xD;&#xA;Bron: (GEMEENTELIJK) GEGEVENSLANDSCHAP - Aansluiting op het het gegevenslandschap vanuit gemeentelijk perspectief; KING; &#x9;3 november 2017&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Object ID"
+      value="8cc30b24-a70c-4e54-80f2-d011d4b3c308"/>
+</archimate:BusinessObject>

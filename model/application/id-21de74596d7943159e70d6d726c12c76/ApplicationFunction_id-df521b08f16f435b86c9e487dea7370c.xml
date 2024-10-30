@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Importeer ArchiMate objecten"
+    id="id-df521b08f16f435b86c9e487dea7370c"
+    documentation="Bijwerken van de referentiecomponenten, standaarden en beschikbare views vanuit de list-API">
+  <properties
+      key="Object ID"
+      value="2c1825c2-e173-44e3-a5dc-56ed77dd31a7"/>
+</archimate:ApplicationFunction>

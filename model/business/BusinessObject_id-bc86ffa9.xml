@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-standaarden"
+    id="id-bc86ffa9"
+    documentation="* (API-)standaard: Een standaard of norm is een (technisch) document met erkende afspraken, specificaties of criteria over een product, dienst of methode. Standaarden dragen eraan bij dat processen op een afgesproken, veilige, betrouwbare en consistente manier uitgevoerd worden.&#xA;* API-specificatie: Een (technisch) document welke een nauwkeurige en accurate beschrijving geeft van de opzet en bijzonderheden van een API.&#xA;* API: Software die ervoor zorgt dat verschillende systemen gegevens met elkaar kunnen delen en uitwisselen.">
+  <properties
+      key="Object ID"
+      value="e5c686ae-6816-492d-bbc1-ab779f7a3b2f"/>
+</archimate:BusinessObject>

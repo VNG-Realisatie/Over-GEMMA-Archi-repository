@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export"
+    id="id-60d28a161f754bba880049e20985426c"
+    documentation="Genereer een gemeentespecifiek ArchiMate-model in ArchiMate Exchange Format (AMEFF)">
+  <properties
+      key="Object ID"
+      value="06fbbf34-e73a-4957-8dd2-7046a3afa146"/>
+</archimate:ApplicationInterface>

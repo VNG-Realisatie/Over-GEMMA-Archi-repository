@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architect"
+    id="id-027ca74a87f24797b01cb31028133fd6"
+    documentation="Adviserende rol">
+  <properties
+      key="Object ID"
+      value="91a10368-03d9-4f00-af93-ede228484754"/>
+</archimate:BusinessRole>

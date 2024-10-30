@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cache AMEFF publicatiebestand"
+    id="id-6cc615c8a6904f718259071a9ec222d3"
+    documentation="SmartCore architectuurmodel omgezet naar AMEFF bestand. Het gegeneerde bestand wordt als cache gebruikt voor download en het maken van een SWC AMEFF export">
+  <properties
+      key="Object ID"
+      value="49bed9f3-83f3-49d3-bdd5-fbc7cf3e37f1"/>
+</archimate:Artifact>

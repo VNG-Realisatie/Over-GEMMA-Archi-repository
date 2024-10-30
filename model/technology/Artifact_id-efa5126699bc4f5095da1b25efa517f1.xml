@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GGM export csv-bestanden"
+    id="id-efa5126699bc4f5095da1b25efa517f1"
+    documentation="Afgesproken kolommen voor aanleveren Gemeentelijk GegevensModel in csv formaat">
+  <properties
+      key="Object ID"
+      value="b1dc3712-e2c8-476d-803d-c543ad776395"/>
+</archimate:Artifact>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrippenkader"
+    id="id-88f157732d7f4d96a9745d50b1a9837b"
+    documentation="Het GEMMA Begrippenkader geeft uitleg over begrippen die gebruikt worden binnen de GEMMA">
+  <properties
+      key="Object ID"
+      value="a7ec9a4f-fd77-4698-9a44-052a105f905e"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

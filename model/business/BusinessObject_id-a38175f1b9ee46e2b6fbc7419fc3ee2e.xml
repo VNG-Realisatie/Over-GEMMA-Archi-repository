@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelagenda API-standaarden"
+    id="id-a38175f1b9ee46e2b6fbc7419fc3ee2e"
+    documentation="De Ontwikkelagenda API-standaarden is een dynamisch overzicht van API-specificaties voor gegevensuitwisseling in het gemeentelijk domein. ">
+  <properties
+      key="Object ID"
+      value="d63b68b6-8969-47cd-b2a0-1a33b85a83a6"/>
+</archimate:BusinessObject>

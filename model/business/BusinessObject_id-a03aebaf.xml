@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancy"
+    id="id-a03aebaf"
+    documentation="Compliancy beschrijft de mate waarin overeengekomen afspraken en conventies daadwerkelijk worden gerealiseerd. Het gaat over het nakomen van normen of het zich er naar schikken. Het toetsen van compliancy is erop gericht om inzicht te krijgen in de mate van realisatie, maar ook op het ontdekken van aanknopingspunten voor het verder ontwikkelen en uitwerken van standaarden.&#xA;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="f9aad12b-a1a6-4781-948a-5f83a31cff4a"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismodel"
+    id="id-0e9723a6eee24aeead784eae275fc180"
+    documentation="Definitie en toelichting op de in GEMMA architectuurmodel gebruikte elementtypen en relatietypen (is dus ook een begrippenkader).">
+  <properties
+      key="Object ID"
+      value="e39427d4-f444-4892-84de-06d875a7fa58"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

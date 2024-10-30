@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardenlijst"
+    id="id-b76d14c1"
+    documentation="De voor de gemeentelijke informatievoorziening relevante standaarden. Van een standaard worden enkele metagegevens vastgelegd, zoals de status, de beheerder en een verwijzing naar de specificaties van de standaard.&#xA;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="7db14fb7-bd8d-4996-bde1-4dbfa25fd878"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

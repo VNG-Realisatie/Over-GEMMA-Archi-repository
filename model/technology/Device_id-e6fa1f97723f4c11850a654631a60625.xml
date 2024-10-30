@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Productieserver"
+    id="id-e6fa1f97723f4c11850a654631a60625"
+    documentation="Server voor schrijven en publiceren van de GEMMA architectuur">
+  <properties
+      key="Object ID"
+      value="574e2370-b238-4b88-a4c1-30d0cd200dea"/>
+</archimate:Device>

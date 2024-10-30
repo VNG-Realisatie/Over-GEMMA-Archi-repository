@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF Testplatform (STP)"
+    id="id-8519dc01"
+    documentation="Het StUF Testplatform is een onafhankelijk testinstrument voor het testen van koppelingen gebaseerd op StUF. Leveranciers kunnen het platform gebruiken tijdens de ontwikkeling van softwareproducten en om aan te tonen dat een koppeling werkt volgens de regels van een StUF standaard. Voor gemeenten geven de testrapportages uit het StUF Testplatform inzicht in de kwaliteit van het juist toepassen van de StUF standaard.&#xD;&#xA;&#xD;&#xA;Bron: https://vng.nl/projecten/stuf-testplatform">
+  <properties
+      key="Object ID"
+      value="a65c9250-7671-4283-a895-5b4995367070"/>
+</archimate:BusinessObject>

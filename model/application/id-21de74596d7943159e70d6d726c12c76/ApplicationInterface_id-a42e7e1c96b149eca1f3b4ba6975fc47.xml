@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List"
+    id="id-a42e7e1c96b149eca1f3b4ba6975fc47"
+    documentation="Beschikbaarstellen GEMMA standaarden en referentiecomponenten">
+  <properties
+      key="Object ID"
+      value="202eb1cc-9e16-4d3c-8de8-1d3018096350"/>
+</archimate:ApplicationInterface>

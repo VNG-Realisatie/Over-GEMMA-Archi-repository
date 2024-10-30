@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA wiki"
+    id="id-48fa494ea2f643e282940a6b869cc802"
+    documentation="Het wiki-platform waarop de GEMMA geschreven en gepubliceerd wordt">
+  <properties
+      key="Object ID"
+      value="8af4c097-99c0-471a-a7f6-43324e3e64a0"/>
+</archimate:ApplicationComponent>

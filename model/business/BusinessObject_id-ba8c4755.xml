@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy en Informatiebeveiliging"
+    id="id-ba8c4755"
+    documentation="Thema-architectuur die privacy- en informatiebeveiliging uitwerkt.&#xD;&#xA;De thema-architectuur bevat veel verwijzingen naar voor gemeenten relevante informatie bij o.a. de NORA en de IBD. ">
+  <properties
+      key="Object ID"
+      value="60c9bef6-3c8a-4c7b-9642-f0479ee2643e"/>
+  <properties
+      key="Thema-architecturen"
+      value="ja"/>
+</archimate:BusinessObject>

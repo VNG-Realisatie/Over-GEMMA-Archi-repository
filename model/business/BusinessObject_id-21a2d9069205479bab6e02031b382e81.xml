@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsobjectmodel"
+    id="id-21a2d9069205479bab6e02031b382e81"
+    documentation="Een bedrijfsobjectmodel beschrijft de objecten waarmee organisaties te maken hebben. Het gaat met name over de objecten waarover ook gegevens worden vastgelegd. &#xA;Het bedrijfsobjectmodel creëert een gemeenschappelijke taal voor de meest gebruikte objecten. &#xA;&#xA;De toepassing van het bedrijfsobjectmodel ligt vooral in het ondersteunen van organisatiebrede discussies over verantwoordelijkheden voor het beheren van gegevens.">
+  <properties
+      key="Object ID"
+      value="7f3b0425-7875-419c-93f4-1bb05bfdd7c4"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Bedrijfsarchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

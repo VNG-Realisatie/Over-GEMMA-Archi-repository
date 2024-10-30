@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SmartCore™"
+    id="id-83ad616f0d85456683a29faefaaa3c78"
+    documentation="SmartCore™ is een uitbreiding om eenvoudig kennismodellen te configureren. Een kennismodel bepaalt de structuur en het datamodel van de informatie in de wiki en vormt daarmee de basis.">
+  <properties
+      key="Object ID"
+      value="c41dcd7d-bf87-4e6a-a14b-33880e984f08"/>
+</archimate:ApplicationComponent>

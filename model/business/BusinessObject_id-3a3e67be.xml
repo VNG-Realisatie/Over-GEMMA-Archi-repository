@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA"
+    id="id-3a3e67be"
+    documentation="De GEMeentelijke ModelArchitectuur met een verzameling samenhangende kaders, richtlijnen, referentiemodellen en standaarden die gemeenten helpt bij het inrichten van hun IT-omgeving en processen.">
+  <properties
+      key="Object ID"
+      value="c78b4ad9-859f-449d-8a42-6b112fd4950d"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MediaWiki"
+    id="id-5d1aea8f909e43048360796185e161b4"
+    documentation="MediaWiki is the software on which Wikipedia is built. ">
+  <properties
+      key="Object ID"
+      value="3e643281-a874-42bd-ad65-395fb048220d"/>
+</archimate:ApplicationComponent>

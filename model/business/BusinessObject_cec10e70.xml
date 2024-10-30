@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaakgericht werken"
+    id="cec10e70"
+    documentation="Het thema 'Zaakgericht Werken' beschrijft het waarom, wat en hoe van zaakgericht werken. ">
+  <properties
+      key="Object ID"
+      value="cdc039cf-3c74-4ae5-9f7b-2f3ff607d69c"/>
+  <properties
+      key="Thema-architecturen"
+      value="ja"/>
+</archimate:BusinessObject>

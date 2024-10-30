@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Testserver"
+    id="id-02c0f346b10647c597aa5711ffdc75ef"
+    documentation="Server voor het (integratie)testen van nieuwe functionaliteit">
+  <properties
+      key="Object ID"
+      value="5d58ec8b-2f7f-4985-8175-f52449287901"/>
+</archimate:Device>

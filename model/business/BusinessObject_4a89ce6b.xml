@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werken onder architectuur"
+    id="4a89ce6b"
+    documentation="Handreiking voor gemeenten hoe zij met GEMMA kunnen werken onder architectuur&#xA;Dit zijn begeleidende documenten voor de verdere uitwerking van de GEMMA.">
+  <properties
+      key="Object ID"
+      value="1f161525-b2f6-4177-ba5c-35daaf27ad01"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

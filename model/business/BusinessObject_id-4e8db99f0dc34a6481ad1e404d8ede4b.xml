@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Totaal 3 Dimensionaal (T3D)"
+    id="id-4e8db99f0dc34a6481ad1e404d8ede4b"
+    documentation="Met de T3D architectuur wordt richting gegeven aan initiatieven die gemeenten willen uitvoeren op het gebied van 3D objectbeheer. De T3D architectuur beschrijft welke kaders er zijn en beschrijft daarnaast inrichtingsonafhankelijk wat er nodig is om 3D objectbeheer toe te passen.">
+  <properties
+      key="Object ID"
+      value="99ae6e3f-eab0-4148-8529-1a1e39e201bb"/>
+</archimate:BusinessObject>

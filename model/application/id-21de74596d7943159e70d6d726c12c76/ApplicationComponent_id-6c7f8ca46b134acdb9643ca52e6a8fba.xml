@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SmartConnectSoftwarecatalogus"
+    id="id-6c7f8ca46b134acdb9643ca52e6a8fba"
+    documentation="Maatwerk toevoegingen aan SmartConnectArchiMate™ voor het importeren van het GEMMA model en het tonen van specifieke GEMMA concepten">
+  <properties
+      key="Object ID"
+      value="9a274fa4-2f7a-4aa2-b77a-0b4c188ab0e9"/>
+</archimate:ApplicationComponent>

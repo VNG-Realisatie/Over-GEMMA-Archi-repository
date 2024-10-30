@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View"
+    id="id-2e6e7eaa467a4ea5bf455fe41138702f"
+    documentation="Genereer een plaat in SVG formaat van gemeentelijke pakketten geplot op een bepaalde ArchiMate view">
+  <properties
+      key="Object ID"
+      value="ecede3b3-1f6e-452d-ab0b-7a922a53fe78"/>
+</archimate:ApplicationInterface>

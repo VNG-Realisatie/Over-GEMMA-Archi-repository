@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achitectuurprincipes"
+    id="id-889ee8c3"
+    documentation="Een principe is een normatieve eigenschap van alle systemen in een gegeven situatie of van de wijze waarop die systemen worden gerealiseerd.&#xA;&#xA;Bron: ArchiMate">
+  <properties
+      key="Object ID"
+      value="aa0d4980-e092-42f0-bc7f-c1cb8c3a99e7"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Strategie en motivatie"
+      value="ja"/>
+</archimate:BusinessObject>

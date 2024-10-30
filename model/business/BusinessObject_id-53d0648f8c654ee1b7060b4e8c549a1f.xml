@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiecomponenten en bedrijfsfuncties"
+    id="id-53d0648f8c654ee1b7060b4e8c549a1f"
+    documentation="Weergave van de in een gemeente gebruikte referentiecomponenten geordend binnen de bedrijfsfuncties de deze gebruiken">
+  <properties
+      key="Object ID"
+      value="91aa1607-38fe-4e96-8180-b13ecb3676e0"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Informatiearchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

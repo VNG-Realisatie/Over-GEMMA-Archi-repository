@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatie"
+    id="id-daba1b08f910413e82ae0e030caac799">
+  <properties
+      key="Latest Sync Date"
+      value="16/10/2024 10:26:13"/>
+  <properties
+      key="Kolom"
+      value="Functionaliteitgroep"/>
+  <properties
+      key="Object ID"
+      value="7f7e3bee-6f92-4eec-93c9-53c23a70f6fb"/>
+</archimate:ApplicationService>

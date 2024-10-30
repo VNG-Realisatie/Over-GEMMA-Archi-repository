@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data"
+    id="62f9f4e9"
+    documentation="Thema-architectuur die aspecten met betrekking tot data uitwerkt. &#xD;&#xA;Bijvoorbeeld: datamanagement en data-uitwisseling.">
+  <properties
+      key="Object ID"
+      value="41cd1254-cb22-4d0f-aa9a-0cec3fd48ae5"/>
+  <properties
+      key="Thema-architecturen"
+      value="ja"/>
+</archimate:BusinessObject>

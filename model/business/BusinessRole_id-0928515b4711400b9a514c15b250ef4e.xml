@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseur informatievoorziening"
+    id="id-0928515b4711400b9a514c15b250ef4e"
+    documentation="Adviserende rol">
+  <properties
+      key="Object ID"
+      value="03172151-8791-4aac-a242-85d2ba422a62"/>
+</archimate:BusinessRole>

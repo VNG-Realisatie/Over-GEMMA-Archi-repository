@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="remote Archi-repository"
+    id="id-9af5cb00e5a2419096a2222724054cec"
+    documentation="De fysieke opslag van het GEMMA architectuurmodel">
+  <properties
+      key="Object ID"
+      value="ccb3ee3b-5b4a-447c-a5ba-4c85bde485ae"/>
+</archimate:Artifact>

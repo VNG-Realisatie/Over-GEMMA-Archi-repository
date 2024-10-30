@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Softwarecatalogus database"
+    id="id-1eb9026109384ad58a8c4c61f90467d2"
+    documentation="Database met gemeentelijke pakketten ingedeeld volgens de GEMMA referentiearchitectuur">
+  <properties
+      key="Object ID"
+      value="af19526e-e2c6-49b5-9817-ead98ea011e7"/>
+</archimate:Artifact>

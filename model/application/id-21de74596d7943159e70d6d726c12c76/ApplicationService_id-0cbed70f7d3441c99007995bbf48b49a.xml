@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMate modellering"
+    id="id-0cbed70f7d3441c99007995bbf48b49a"
+    documentation="Applicatieservice voor het beschrijven, analyseren en visualiseren van de architectuur van bedrijfsdomeinen en IT">
+  <properties
+      key="Object ID"
+      value="309cebdd-6151-4d13-9e8e-9f69e1579eba"/>
+</archimate:ApplicationService>

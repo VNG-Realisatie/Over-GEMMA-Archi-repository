@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User story's voor informatiebeveiliging"
+    id="id-267ee6bc121e48a6968f0c5c7b333322"
+    documentation="Deze user story's kunnen worden gebruikt door ontwikkelteams (bij gemeenten of toeleveranciers) die oplossingen ontwikkelen in het kader van Common Ground. Zij kunnen de story's as-is gebruiken, of als leidraad dienen bij het opstellen van definitions of done. Bovendien kunnen de user stories bij inkoop van (software)producten of softwareontwikkeling door derden gebruikt worden als basis voor informatiebeveiligingseisen.">
+  <properties
+      key="Object ID"
+      value="be5b8847-9fae-4c70-a11e-86545ad62811"/>
+</archimate:BusinessObject>

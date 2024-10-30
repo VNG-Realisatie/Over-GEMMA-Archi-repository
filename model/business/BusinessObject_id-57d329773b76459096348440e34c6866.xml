@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroepen"
+    id="id-57d329773b76459096348440e34c6866">
+  <properties
+      key="Object ID"
+      value="69f191c4-cb7d-4341-a439-e414d3ceac83"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

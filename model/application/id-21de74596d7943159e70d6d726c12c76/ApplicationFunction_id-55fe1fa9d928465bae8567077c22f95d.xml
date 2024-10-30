@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toon kaart"
+    id="id-55fe1fa9d928465bae8567077c22f95d"
+    documentation="Tonen van gemeentelijke pakketten op een bepaalde view.">
+  <properties
+      key="Object ID"
+      value="1534179d-754d-4213-a10e-93e9848bd81f"/>
+</archimate:ApplicationFunction>

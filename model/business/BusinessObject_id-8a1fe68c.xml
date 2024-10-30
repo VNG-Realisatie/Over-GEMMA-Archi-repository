@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancy testset"
+    id="id-8a1fe68c"
+    documentation="Een compliancy testset beschrijft de testdekking en de testscenario’s die minimaal uitgevoerd moeten worden door een leverancier om compliancy van zijn softwareproduct op een standaard aan te tonen. De testen dienen voorafgaand aan in productiename van het softwareproduct uitgevoerd te worden. Een testscenario bestaat uit één of meerdere StUF berichten die tussen het StUF Testplatform en de geteste applicatie zijn uitgewisseld.&#xA;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="fd909066-22a8-4297-b6fc-5e7df13c9ee4"/>
+</archimate:BusinessObject>

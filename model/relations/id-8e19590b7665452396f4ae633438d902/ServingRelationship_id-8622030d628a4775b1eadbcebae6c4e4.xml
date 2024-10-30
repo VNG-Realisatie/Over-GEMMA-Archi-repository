@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="genereer view met pakketten"
+    id="id-8622030d628a4775b1eadbcebae6c4e4">
+  <properties
+      key="Object ID"
+      value="f4df8517-8cd8-4d49-940a-4a83549ce9e8"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-2e6e7eaa467a4ea5bf455fe41138702f.xml#id-2e6e7eaa467a4ea5bf455fe41138702f"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-55fe1fa9d928465bae8567077c22f95d.xml#id-55fe1fa9d928465bae8567077c22f95d"/>
+</archimate:ServingRelationship>

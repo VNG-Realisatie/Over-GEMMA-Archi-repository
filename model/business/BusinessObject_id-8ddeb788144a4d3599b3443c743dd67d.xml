@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kenniscentrum architectuur portfolio"
+    id="id-8ddeb788144a4d3599b3443c743dd67d"
+    documentation="Verzameling van producten die door het KCA worden geleverd">
+  <properties
+      key="Object ID"
+      value="09449b13-708c-41fd-b8e0-1da1e7c5a990"/>
+</archimate:BusinessObject>

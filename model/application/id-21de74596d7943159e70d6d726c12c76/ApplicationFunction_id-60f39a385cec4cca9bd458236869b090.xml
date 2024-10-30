@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues aanmaken en volgen"
+    id="id-60f39a385cec4cca9bd458236869b090"
+    documentation="Funcionaliteit voor het beschrijven en bediscussieren van wensen, wijzigingen en correcties ">
+  <properties
+      key="Object ID"
+      value="fbfcc752-d060-479c-aaf7-ba685c0e8672"/>
+</archimate:ApplicationFunction>

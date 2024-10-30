@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie en Autorisatie"
+    id="f84e171e"
+    documentation="Dit document beschrijft de visie van VNG Realisatie ten aanzien van authenticatie en autorisatie. ">
+  <properties
+      key="Object ID"
+      value="e81aef3e-4786-4298-9fe6-a7cb5b183cf1"/>
+</archimate:BusinessObject>

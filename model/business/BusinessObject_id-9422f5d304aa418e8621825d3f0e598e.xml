@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanleiding vernieuwing gemeentelijke informatievoorziening"
+    id="id-9422f5d304aa418e8621825d3f0e598e"
+    documentation="In het document aanleiding vernieuwing gemeentelijke informatievoorziening wordt een uitgebreid overzicht gegeven van de noodzaak tot het vernieuwen van de gemeentelijke informatievoorziening. ">
+  <properties
+      key="Object ID"
+      value="d013fbea-6c2b-4919-9ce5-3106ee540c39"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Informatiearchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNG-projecten"
+    id="id-46d5e6f90a2f445cbdb53e227df992fc"
+    documentation="Korte introductie van en verwijzigen naar (architectuur)projecten met relevantie voor de GEMMA&#xD;&#xA;- Wat is Common Ground en hoe sluit het aan op de GEMMA">
+  <properties
+      key="Object ID"
+      value="1964bbb2-7782-40ab-909f-d799fead051a"/>
+</archimate:BusinessObject>

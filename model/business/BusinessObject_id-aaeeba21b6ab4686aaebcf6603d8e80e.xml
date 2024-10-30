@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werken met GEMMA ArchiMate-model"
+    id="id-aaeeba21b6ab4686aaebcf6603d8e80e">
+  <properties
+      key="Object ID"
+      value="112949a0-2607-4d8d-ae82-d0e1d6fb0456"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

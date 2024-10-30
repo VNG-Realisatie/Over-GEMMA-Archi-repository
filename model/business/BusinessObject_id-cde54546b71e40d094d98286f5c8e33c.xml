@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsdoelen"
+    id="id-cde54546b71e40d094d98286f5c8e33c">
+  <properties
+      key="Object ID"
+      value="8b95e66a-9e79-430b-b479-d26ff055deeb"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Strategie en motivatie"
+      value="ja"/>
+</archimate:BusinessObject>

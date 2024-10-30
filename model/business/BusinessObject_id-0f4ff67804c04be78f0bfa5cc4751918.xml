@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurvisie"
+    id="id-0f4ff67804c04be78f0bfa5cc4751918"
+    documentation="Hoogover beschrijving van de gemaakte fundamentele keuzes voor ontwikkeling van de GEMMA">
+  <properties
+      key="Object ID"
+      value="3837577c-f078-4860-b7ee-0d8c01fda8e7"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Architectuurvisie"
+      value="ja"/>
+</archimate:BusinessObject>

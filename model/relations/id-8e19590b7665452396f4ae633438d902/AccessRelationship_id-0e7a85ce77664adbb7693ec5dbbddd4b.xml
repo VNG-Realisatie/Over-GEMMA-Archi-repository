@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="commit"
+    id="id-0e7a85ce77664adbb7693ec5dbbddd4b"
+    accessType="3">
+  <properties
+      key="Object ID"
+      value="c6b83e6e-f186-486e-95be-4a4cf5aeaf84"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7e23412dddfc44858dae70eeb3a55241.xml#id-7e23412dddfc44858dae70eeb3a55241"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-d084b0c5032c428da7beb1e2d40d1269.xml#id-d084b0c5032c428da7beb1e2d40d1269"/>
+</archimate:AccessRelationship>

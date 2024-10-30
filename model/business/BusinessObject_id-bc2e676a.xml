@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens- en berichtenstandaarden"
+    id="id-bc2e676a"
+    documentation="De gegevens- en berichtenarchitectuur geven we vorm met de GEMMA-gegevens- en -berichtenstandaarden. Deze richten zich op de uitwisseling van gegevens binnen een gemeente, tussen een gemeente en andere overheden en ten behoeve van de dienstverlening aan burgers en bedrijven.&#xD;&#xA;&#xD;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="be5201c2-fcd7-4ddd-9514-fb5c08dff685"/>
+</archimate:BusinessObject>

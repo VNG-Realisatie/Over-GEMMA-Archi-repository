@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingenlogging API ArchiMate-repository"
+    id="id-3c92f73e67f8490087b32eea00df3a6a"
+    documentation="Het thema Logging en verwerkingsactiviteiten beschrijft de architectuurproducten en standaarden die op voor zowel verwerkingsactiviteiten als voor verwerkingen zijn ontwikkeld. &#xA;&#xA;Vanuit de de Algemene Verordening Gegevensbescherming (AVG) en de Uitvoeringswet AVG zijn gemeenten verplicht dit gebruik van persoonsgegevens vast te leggen, en inzichtelijk te maken voor burgers. Door deze transparantie over het gebruik van persoonsgegevens heeft de burger de mogelijkheid om na te gaan of de gemeente zijn of haar gegevens rechtmatig gebruikt.">
+  <properties
+      key="Object ID"
+      value="47a4d4c4-43ee-4eca-9a9e-b3fdf0663080"/>
+</archimate:Artifact>

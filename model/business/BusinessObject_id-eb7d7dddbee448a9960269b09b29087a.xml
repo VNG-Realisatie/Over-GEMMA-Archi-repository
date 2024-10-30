@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-objecten"
+    id="id-eb7d7dddbee448a9960269b09b29087a"
+    documentation="Een beschrijving van de structuur van de belangrijkste soorten en bronnen van data binnen de organisatie.&#xD;&#xA;Binnen de GEMMA beschrijven we applicaties en data in samenhang als onderdeel van de informatiearchitectuur.&#xD;&#xA;Data-architectuur wordt niet apart gemodelleerd.">
+  <properties
+      key="Object ID"
+      value="e35cb89e-f1ac-40b9-b365-45f8a82bf39b"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Informatiearchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

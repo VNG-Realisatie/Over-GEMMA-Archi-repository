@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Import"
+    id="id-574cef1cb53842019bc0772ecdd56d8f"
+    accessType="1">
+  <properties
+      key="Object ID"
+      value="40e99929-97de-4c84-847e-50ab6ad81b32"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c84620fce2aa4c298e3b9cd254f8c452.xml#id-c84620fce2aa4c298e3b9cd254f8c452"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-2630e9305da149c1a85c1573df64cdac.xml#id-2630e9305da149c1a85c1573df64cdac"/>
+</archimate:AccessRelationship>

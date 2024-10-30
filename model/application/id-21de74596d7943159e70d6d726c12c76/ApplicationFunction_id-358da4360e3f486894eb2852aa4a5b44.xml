@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerken"
+    id="id-358da4360e3f486894eb2852aa4a5b44"
+    documentation="Functionaliteit voor het samenwerken aan de ontwikkeling van software en documentatie.">
+  <properties
+      key="Object ID"
+      value="31d103ed-55d0-4766-ab2b-b6c6af688c86"/>
+</archimate:ApplicationFunction>

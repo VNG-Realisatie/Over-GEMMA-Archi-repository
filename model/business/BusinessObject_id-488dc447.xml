@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemodel"
+    id="id-488dc447"
+    documentation="Een informatiemodel vormt de formele beschrijving van alle informatie die van belang is binnen een gegeven domein. Een informatiemodel beschrijft dit domein in termen van objecten, gegevens (attributen) daarvan en relaties daartussen en doet dat op een inhoudelijke manier. Met inhoudelijk (of semantisch) bedoelen we dat er geen enkele relatie is naar een mogelijke implementatie of toepassingsomgeving (software). Er worden geen regels toegepast die gerelateerd zijn aan de manier waarop de informatie ingewonnen, opgeslagen, beheerd en uitgewisseld wordt. Er wordt puur naar de semantiek gekeken.&#xA;&#xA;Voorbeelden zijn: RSGB, RGBZ en ImZTC.&#xA;&#xA;Bron: GEMMA Online">
+  <properties
+      key="Object ID"
+      value="bd947aec-8f53-42d1-bf60-14bb21e0bafe"/>
+</archimate:BusinessObject>

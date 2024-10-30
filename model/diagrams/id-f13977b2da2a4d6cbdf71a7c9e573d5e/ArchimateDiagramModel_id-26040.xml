@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Softwarecatalogus AMEFF export"
+    name="Softwarecatalogus modellering AMEFF-export"
     id="id-26040"
     documentation="Deze view documenteert de ArchiMate export  die de Softwarecatalogus genereert. Alle elementen en relaties die het exportbestand bevat worden in deze view getoond.">
   <children

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Algemene producten"
+    id="id-cb498abd313f4ba592a9df421c4d32d8"
+    documentation="Groep van producten die relevant zijn voor zowel de basisarchitectuur producten als de thema-architecturen">
+  <properties
+      key="Object ID"
+      value="a4d39187-6cb4-4d61-ae1b-43dac46759d3"/>
+  <properties
+      key="Algemene producten"
+      value="ja"/>
+</archimate:BusinessObject>

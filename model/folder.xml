@@ -1,8 +1,8 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA kennismodel"
+    name="GEMMA portfolio- en kennismodel"
     id="id-5af2e6f1-0ffa-403a-b8e5-1bf6153acfe1"
-    purpose="Het kennismodel toont de in de GEMMA toegepaste ArchiMate-concepten en de gehanteerde modelleerafspraken."
+    purpose="De ArchiMate-concepten die in de GEMMA worden toegepast, de modelleermethode die daarmee samenhangt, en de verzameling van gepubliceerde (architectuur)producten."
     version="5.0.0">
   <properties
       key="Publiceren"

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardisatieleidraad"
+    id="id-85febd9546674d45b066876c0b531e35"
+    documentation="De Standaardisatieleidraad biedt ondersteuning bij de ontwikkeling van standaarden om tot een ‘vastgestelde VNG uitwisselstandaarden’ te komen. Het wordt aanbevolen de stappen in deze leidraad bij de ontwikkeling van uitwisselstandaarden te volgen.">
+  <properties
+      key="Object ID"
+      value="bd751411-2f9d-4f5c-abc2-6a4dae239342"/>
+</archimate:BusinessObject>

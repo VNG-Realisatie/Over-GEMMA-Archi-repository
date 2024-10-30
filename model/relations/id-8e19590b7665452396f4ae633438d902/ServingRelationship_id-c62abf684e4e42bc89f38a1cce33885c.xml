@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="genereer AMEFF met pakketten"
+    id="id-c62abf684e4e42bc89f38a1cce33885c">
+  <properties
+      key="Object ID"
+      value="047c7e04-318e-4c9e-bda5-4c890d4f6b44"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-60d28a161f754bba880049e20985426c.xml#id-60d28a161f754bba880049e20985426c"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-179b44b03e8b4577bdaed1dcc27fad63.xml#id-179b44b03e8b4577bdaed1dcc27fad63"/>
+</archimate:ServingRelationship>

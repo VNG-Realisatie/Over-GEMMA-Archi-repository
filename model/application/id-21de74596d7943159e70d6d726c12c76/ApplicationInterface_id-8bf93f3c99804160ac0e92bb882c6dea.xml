@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="github.com/VNG-Realisatie"
+    id="id-8bf93f3c99804160ac0e92bb882c6dea"
+    documentation="Github landingspagina van VNG Realisatie voor de ontwikkeling van standaarden">
+  <properties
+      key="Object ID"
+      value="728731c6-baaa-44c5-9508-43d6623b330c"/>
+</archimate:ApplicationInterface>

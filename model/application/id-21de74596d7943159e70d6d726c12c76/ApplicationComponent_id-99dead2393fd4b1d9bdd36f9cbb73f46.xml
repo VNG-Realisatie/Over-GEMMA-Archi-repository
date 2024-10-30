@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic MediaWiki (SMW)"
+    id="id-99dead2393fd4b1d9bdd36f9cbb73f46"
+    documentation="Semantic MediaWiki (or SMW for short) is an extension to the well-known MediaWiki software. The purpose of SMW is to allow users to improve the structure and organization of the knowledge in a wiki by adding simple, machine-processable information to wiki articles. With this additional information, you can greatly improve searching, browsing, and sharing the wiki's knowledge; both within the wiki's pages and from external computer programs. ">
+  <properties
+      key="Object ID"
+      value="701bd75e-4c8f-413e-b9cf-f0f8708fea02"/>
+</archimate:ApplicationComponent>

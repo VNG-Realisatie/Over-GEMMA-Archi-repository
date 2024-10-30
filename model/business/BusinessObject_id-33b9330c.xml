@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesarchitectuur"
+    id="id-33b9330c"
+    documentation="De GEMMA Procesarchitectuur biedt gemeenten ondersteuning bij het inrichten van de gemeentelijke processen. ">
+  <properties
+      key="Object ID"
+      value="c21c52df-f626-49f0-847e-e2f24c924644"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Bedrijfsarchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

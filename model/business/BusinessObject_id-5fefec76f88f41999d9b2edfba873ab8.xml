@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thema-architecturen"
+    id="id-5fefec76f88f41999d9b2edfba873ab8"
+    documentation="Een binnen de GEMMA voor een bepaald thema uitgewerkte architectuur">
+  <properties
+      key="Object ID"
+      value="abf17d12-3b43-4134-bf1d-e4ebc5c141d1"/>
+  <properties
+      key="Thema-architecturen"
+      value="ja"/>
+</archimate:BusinessObject>

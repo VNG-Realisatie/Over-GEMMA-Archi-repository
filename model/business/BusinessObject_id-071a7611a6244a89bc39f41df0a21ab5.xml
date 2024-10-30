@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Globaal Programma van Eisen CG"
+    id="id-071a7611a6244a89bc39f41df0a21ab5"
+    documentation="Dit document bevat specificaties (eisen/wensen) voor softwarepakketten waarmee aan de architectuur van het GEMMA Gegevenslandschap kan worden voldaan.">
+  <properties
+      key="Object ID"
+      value="b634ad59-975f-46ce-a0b9-c357971ebe92"/>
+</archimate:BusinessObject>

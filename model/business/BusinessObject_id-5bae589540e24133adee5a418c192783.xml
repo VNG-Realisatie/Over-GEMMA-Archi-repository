@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctiemodel"
+    id="id-5bae589540e24133adee5a418c192783"
+    documentation="Een bedrijfsfunctiemodel beschrijft wat een organisatie doet onafhankelijk van hoe het wordt uitgevoerd. Het kijkt naar een organisatie als een verzameling van activiteiten die worden uitgevoerd en clustert deze tot logische eenheden die soortgelijke kennis en competenties vragen. &#xA;&#xA;De toepassingsmogelijkheden van een bedrijfsfunctiemodel zijn breed. Vanwege de stabiliteit van het model is het erg geschikt om gebruikt te worden als algemeen ankerpunt om andere modellen aan te relateren waarbij in eerste instantie nog niet gesproken wordt over organisatie- en IT-inrichting.">
+  <properties
+      key="Object ID"
+      value="0a17ea29-e5ca-44e4-a720-14d2e155b3f5"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Bedrijfsarchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

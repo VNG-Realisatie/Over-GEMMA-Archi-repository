@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenhang PDC, UPL, zaaktypen en verwerkingsregister"
+    id="id-1cce91bbb7694bd48e666cf8a64402f2"
+    documentation="Dit document beschrijft de visie van VNG Realisatie ten aanzien van de samenhang van de Uniforme Productnamenlijst, de zaaktypecatalogus en het register van verwerkingen.">
+  <properties
+      key="Object ID"
+      value="082d3898-9358-492e-a375-65dafa738e1a"/>
+</archimate:BusinessObject>

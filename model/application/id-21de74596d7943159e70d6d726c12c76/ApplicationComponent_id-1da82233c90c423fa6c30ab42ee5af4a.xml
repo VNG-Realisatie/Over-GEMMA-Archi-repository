@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SmartConnectArchiMate™"
+    id="id-1da82233c90c423fa6c30ab42ee5af4a"
+    documentation="SmartConnect™ biedt een koppelvlak voor het importeren en exporteren van ArchiMate™ modellen uit willekeurig welke architectuurtool, voor zover dat de ArchiMate Exchange Format standaard van The Open Group ondersteunt.">
+  <properties
+      key="Object ID"
+      value="37c06460-f0dc-4c02-b1f6-dfb6d051c14b"/>
+</archimate:ApplicationComponent>

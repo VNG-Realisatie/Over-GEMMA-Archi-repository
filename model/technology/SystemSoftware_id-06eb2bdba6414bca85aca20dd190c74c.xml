@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MySQL"
+    id="id-06eb2bdba6414bca85aca20dd190c74c"
+    documentation="MySQL is an open-source relational database management system (RDBMS)">
+  <properties
+      key="Object ID"
+      value="a9dd418f-0bef-4cb2-bb6a-e067bc36f607"/>
+</archimate:SystemSoftware>

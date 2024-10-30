@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA Online"
+    id="id-9ad74a5afb36493495fcce067c5af76d"
+    documentation="Publicatieomgeving voor de GEMMA en VNG projecten met een sterke architectuurcomponent">
+  <properties
+      key="Object ID"
+      value="01a4675a-9139-4133-b6a4-c3846a6c694e"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,14 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raadplegen aanbod"
+    id="id-945477508e0b44ba9195d75352f542ac">
+  <properties
+      key="Latest Sync Date"
+      value="16/10/2024 10:26:13"/>
+  <properties
+      key="Kolom"
+      value="Functionaliteit"/>
+  <properties
+      key="Object ID"
+      value="6d25c34b-ab6e-4f4b-ad39-d808cc4ae92e"/>
+</archimate:ApplicationService>

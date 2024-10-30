@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA redactie wiki"
+    id="id-0050969c4cf4454fa32a4c8bc38d785f"
+    documentation="Toegang tot de interne redactieomgeving. De redactieomgeving is voor de redacteuren om te schrijven en te ontwikkelen. ">
+  <properties
+      key="Object ID"
+      value="a2e37b6b-efac-4052-b7fd-291ea115760b"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versiebeheer"
+    id="id-29c3c936acf04786a08c28b61cfe69fb"
+    documentation="Het bijhouden van wijzigingen in een willekeurige verzameling van bestanden">
+  <properties
+      key="Object ID"
+      value="d07a194d-7bc9-49e8-8627-d4ef026f1ae8"/>
+</archimate:ApplicationFunction>

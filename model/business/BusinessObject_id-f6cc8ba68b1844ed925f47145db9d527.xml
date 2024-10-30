@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsarchitectuur"
+    id="id-f6cc8ba68b1844ed925f47145db9d527"
+    documentation="De bedrijfsarchitectuur beschrijft wat de gemeente doet en hoe de gemeente dat doet. De bedrijfsarchitectuur wordt ondersteund door de informatievoorziening. ">
+  <properties
+      key="Object ID"
+      value="9093dafd-35db-4ed4-adc1-02ed518eb063"/>
+  <properties
+      key="Basisarchitectuur"
+      value="ja"/>
+  <properties
+      key="Bedrijfsarchitectuur"
+      value="ja"/>
+</archimate:BusinessObject>

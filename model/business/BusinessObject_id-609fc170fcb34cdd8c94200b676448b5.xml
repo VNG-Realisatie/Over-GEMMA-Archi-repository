@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging en verwerkingsactiviteiten"
+    id="id-609fc170fcb34cdd8c94200b676448b5"
+    documentation="Thema-architectuur die uitwerkt hoe gemeenten in hun informatievoorziening verwerkingen kunnen loggen om te kunnen voldoen aan wet- en regelgeving.">
+  <properties
+      key="Object ID"
+      value="649516c3-2b93-4c13-9bcf-6164dfc3dc11"/>
+</archimate:BusinessObject>
