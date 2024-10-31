@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notificeren"
+    id="id-cb1b62053dc84876b8674131bcc415c8"
+    documentation="Het via notificaties informeren over een bepaalde gebeurtenissen ">
+  <properties
+      key="Object ID"
+      value="9bc9bb80-b149-4d4c-a62e-a0b67f930f2f"/>
+</archimate:BusinessObject>

@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domeinen"
-    id="id-86ad7ec21c154501b27f29ca1969719e">
+    id="id-86ad7ec21c154501b27f29ca1969719e"
+    documentation="Uit het Gemeentelijk Gegevensmodel overgenomen indeling van bedrijfsobjecten">
   <properties
       key="Object ID"
       value="ce5a8524-adaa-4f03-a59d-ae06ce785285"/>

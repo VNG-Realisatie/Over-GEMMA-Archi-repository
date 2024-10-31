@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Common Ground 5-lagenmodel"
+    name="Common Ground vijflaagsmodel"
     id="id-b1cb662eb9744f2692c64e6405cf15e3"
     documentation="Common Ground software is opgebouwd uit componenten in een architectuur op basis van het 5-lagen model. Hiermee creëren we meer flexibiliteit, spreiden we risico’s en wordt bovendien voorkomen dat een component meer doet dan waar het voor bedoeld is.">
   <properties

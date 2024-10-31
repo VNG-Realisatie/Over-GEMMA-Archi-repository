@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA portfolio compact"
     id="id-7c1509518724474c8af58d5bbe806ab4"
-    documentation="Op deze view staat het GEMMA porfolio nader toegelicht.">
+    documentation="Hoofdindeling van de GEMMA en de basisarchitectuur">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c01206b099054cf189a943ac7e72f3d2"

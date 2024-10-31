@@ -1,14 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Implicaties"
-    id="id-cde54546b71e40d094d98286f5c8e33c">
-  <properties
-      key="Object ID"
-      value="8b95e66a-9e79-430b-b479-d26ff055deeb"/>
+    name="Beleidsdomeinen"
+    id="id-9e78af6124d448bb8c7c59aa54434a74">
   <properties
       key="Basisarchitectuur"
       value="ja"/>
   <properties
-      key="Strategie en motivatie"
+      key="Bedrijfsarchitectuur"
       value="ja"/>
+  <properties
+      key="Object ID"
+      value="dc4ef824-70a5-447c-829c-f60ce85b98ca"/>
 </archimate:BusinessObject>

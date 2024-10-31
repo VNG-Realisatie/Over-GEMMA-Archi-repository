@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event-driven architectuur"
+    id="id-0825fc48ceb646e8a2d7fcf9ed46c2d5"
+    documentation="Event-driven architectuur (EDA) is een architectuurbenaderijng waarbij los gekoppelde componenten via 'events' informatie over plaatsgevonden gebeurtenissen met elkaar uitwisselen">
+  <properties
+      key="Object ID"
+      value="7992b401-a770-427c-ba66-c431d3daf6a5"/>
+</archimate:BusinessObject>

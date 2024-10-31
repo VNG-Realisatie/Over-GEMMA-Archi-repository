@@ -332,7 +332,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a8ace05763254eab8956d630f55cc934"
         targetConnections="id-6bd3df52ef0444a4ba758557a83f556c id-c68e7fa0474549db9827a102601d5cc2"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         fillColor="#daeef3">
       <bounds

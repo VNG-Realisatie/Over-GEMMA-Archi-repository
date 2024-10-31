@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kernwaarden"
-    id="id-f0a7228240014683a52a2a09c559c419">
+    name="Kernwaarden, beleidskaders en kwaliteitsdoelen"
+    id="id-f0a7228240014683a52a2a09c559c419"
+    documentation="De GEMMA volgt de NORA kernwaarden, beleidskaders en  kwaliteitsdoelen en voegt daar elementen vanuit gemeentelijk perspectief aan toe">
   <properties
       key="Object ID"
       value="ab397556-0c86-4443-a819-71e6dfd4cafb"/>
