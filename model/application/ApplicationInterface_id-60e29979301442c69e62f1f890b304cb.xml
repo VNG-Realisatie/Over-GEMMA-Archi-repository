@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanbod API"
+    name="Raadplegen aanbod API"
     id="id-60e29979301442c69e62f1f890b304cb">
   <properties
       key="Object ID"

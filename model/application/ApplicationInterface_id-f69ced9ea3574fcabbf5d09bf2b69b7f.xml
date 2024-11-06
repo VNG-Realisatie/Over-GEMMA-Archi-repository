@@ -1,8 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registreren gebruik API"
-    id="id-ba394adee6384b5882f94866ccf7d4e1">
+    name="Raadplegen gebruik API"
+    id="id-f69ced9ea3574fcabbf5d09bf2b69b7f">
   <properties
       key="Object ID"
-      value="82d316f7-2aa4-44d8-b8aa-17c065469b43"/>
+      value="2590a1d5-71a6-480b-94f3-4c302ef7cdb8"/>
 </archimate:ApplicationInterface>
