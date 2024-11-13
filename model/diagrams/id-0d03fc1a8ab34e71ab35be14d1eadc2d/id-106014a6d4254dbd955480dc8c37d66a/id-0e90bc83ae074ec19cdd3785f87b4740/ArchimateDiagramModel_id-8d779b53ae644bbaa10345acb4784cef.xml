@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering standaardenlijst"
     id="id-8d779b53ae644bbaa10345acb4784cef"
-    documentation="Deze view toont de verschillende manieren waarop de standaarden uit de GEMMA standaardenlijst kunnen worden voorgeschreven voor het realiseren van koppelingen, applicaties en services.&#xA;&#xA;API- en koppelingsstandaarden worden bij voorkeur voorgeschreven via een applicatie-interface. Voorschrijven via de applicatie-interface maakt expliciet of een applicatie de standaard ondersteund vanuit de rol aanbieder of afnemer.">
+    documentation="De relaties waarmee de standaarden worden voorgeschreven aan referentiecomponenten en applicatie-interfaces">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-71901ef9b60946c790549a5d6071a589"
@@ -309,7 +309,7 @@
   </children>
   <properties
       key="Toelichting"
-      value="De modelleerafspraken geven weer hoe het GEMMA 2 architectuurmodel is opgebouwd. De modelleerafspraken helpen bij het beheerbaar en controleerbaar houden van het model. Een voorbeeld van een afspraak is dat de GEMMA bedrijfsfuncties en applicatiefuncties als een hierarchie zijn opgezet, het is niet toegestaan een subfunctie te hergebruiken in meerdere hoofdfuncties. Het model met modelleerafspraken is tevens de documentatie voor het AMEFF exportbestand dat kan worden gedownload op GEMMA Online of met de Softwarecatalogus"/>
+      value="API- en koppelingsstandaarden worden bij voorkeur voorgeschreven via een applicatie-interface. Voorschrijven via de applicatie-interface maakt expliciet of een applicatie de standaard ondersteund vanuit de rol aanbieder of afnemer."/>
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>

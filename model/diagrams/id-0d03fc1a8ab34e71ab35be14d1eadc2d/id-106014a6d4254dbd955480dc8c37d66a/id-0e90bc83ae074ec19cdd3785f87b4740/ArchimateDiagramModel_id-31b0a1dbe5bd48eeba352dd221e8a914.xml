@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA-GGM kennismodel"
-    id="id-31b0a1dbe5bd48eeba352dd221e8a914">
+    id="id-31b0a1dbe5bd48eeba352dd221e8a914"
+    documentation="Kennismodel van het GEMMA-GGM model met de relatie tussen de GGM data-objecten en de GEMMA bedrijfsobjecten">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fda2d6c4194c42dc9d2f36f81173f189"

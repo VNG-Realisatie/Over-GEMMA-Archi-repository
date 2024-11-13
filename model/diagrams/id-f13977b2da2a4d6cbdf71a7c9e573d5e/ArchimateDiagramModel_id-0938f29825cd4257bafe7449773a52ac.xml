@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus modellering pakketten"
     id="id-0938f29825cd4257bafe7449773a52ac"
-    documentation="Deze view toont de modellering van pakketten in de Softwarecatalogus.">
+    documentation="Deze view toont de modellering van pakketten in het AMEFF exportbestand van de Softwarecatalogus.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-90dfdb72a48d493fa972c902a90becd1"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Releasen ArchiMate-model"
-    id="id-93360d96d4e44c86b9948a57cb5b45ba">
+    id="id-93360d96d4e44c86b9948a57cb5b45ba"
+    documentation="Proces voor het releasen van het GEMMA ArchiMate-model op GEMMA online en de Softwarecatalogus">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a9c47cd3bf9a4b4c9d331a759025e87d"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begrippen architectuurmodel voorbeeld"
-    id="id-9f6643cfae3b4312b03c6bbae7860362">
+    id="id-9f6643cfae3b4312b03c6bbae7860362"
+    documentation="De GEMMA architectuur onderdelen en hoe deze zijn samengesteld">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e9240d9ed8aa4b74bc22f3bc56ae385a"

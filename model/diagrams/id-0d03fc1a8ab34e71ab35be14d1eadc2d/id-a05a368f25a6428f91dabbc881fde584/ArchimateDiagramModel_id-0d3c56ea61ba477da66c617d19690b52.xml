@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koppeling wiki en Architectuurtool"
-    id="id-0d3c56ea61ba477da66c617d19690b52">
+    id="id-0d3c56ea61ba477da66c617d19690b52"
+    documentation="Hoe de architectuurtools Archi en het WikiXL platform architectuurmodellen uitwisselen">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dd6055b1d2254c7a8e805ac394b3465b">

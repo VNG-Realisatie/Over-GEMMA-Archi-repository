@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus Pakket van Eisen"
-    id="id-3f2d018b38fb4e008d7c142248459b29">
+    id="id-3f2d018b38fb4e008d7c142248459b29"
+    documentation="Overzicht van eisen en wensen voor vernieuwing Softwarecatalogus">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-c3cbdaef83274e0fa5c4fa939fe8ef65"
@@ -1945,4 +1946,7 @@
   <properties
       key="Object ID"
       value="565e6ea7-436a-4d07-824e-f556a9a8db14"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
 </archimate:ArchimateDiagramModel>

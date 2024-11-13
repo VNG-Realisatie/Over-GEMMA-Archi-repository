@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KCA kanalen"
-    id="id-91542b6ab67a4d38961c701e6e3b8e25">
+    id="id-91542b6ab67a4d38961c701e6e3b8e25"
+    documentation="Overzicht van de Websites waar GEMMA architectuurproducten getoond worden.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c0eb62b4631946a3a4cedd9ecb066902"

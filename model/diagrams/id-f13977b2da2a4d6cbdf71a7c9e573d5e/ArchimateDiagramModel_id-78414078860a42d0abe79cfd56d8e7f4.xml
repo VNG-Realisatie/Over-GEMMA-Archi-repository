@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Componentencatalogus"
-    id="id-78414078860a42d0abe79cfd56d8e7f4">
+    id="id-78414078860a42d0abe79cfd56d8e7f4"
+    documentation="Begrippen uit de componentencatalogus">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-24c9e232c6884768850d56dfc98e03f0"

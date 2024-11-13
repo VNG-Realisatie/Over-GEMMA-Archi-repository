@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werken met Archi en git"
     id="id-46d5386f788946e78d32471449dfc520"
-    documentation="Services voor het hosten van git repositories, samenwerkingsfunctionaliteit en devops">
+    documentation="Hoe werkt Archi met git">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-357c33f30923483cbbbc8b52a8e35fa8"

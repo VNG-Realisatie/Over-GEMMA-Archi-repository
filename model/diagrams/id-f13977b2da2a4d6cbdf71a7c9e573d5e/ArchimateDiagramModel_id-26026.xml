@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus afgeleide relaties"
     id="id-26026"
-    documentation="Deze view toont de modelleerafspraken die gehanteerd zijn bij het maken van de GEMMA 2. De modelleerafspraken zijn van belang om voor de Softwarecatalogus de afgeleide relaties te kunnen maken (getekend als gestreepte associatie relaties)">
+    documentation="De wiki maakt de getoonde afgeleide relaties en biedt deze aan aan de  SWC API voor de Softwarecatalogus (voor gebruik in o.a. de filtering)">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-5a18746857de4d47887a5d47ee2cafdc"
@@ -608,4 +608,7 @@
   <properties
       key="Object ID"
       value="9d269543-28ce-405f-9cd1-b1eb7c24f972"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
 </archimate:ArchimateDiagramModel>

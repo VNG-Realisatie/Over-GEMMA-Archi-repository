@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koppeling wiki en Softwarecatalogus"
-    id="id-1744f594c4764dada61383b06e2f2a0a">
+    id="id-1744f594c4764dada61383b06e2f2a0a"
+    documentation="Hoe de wiki het GEMMA ArchiMate-model beschikbaar stelt aan de Softwarecatalogus">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4f6414bc41184d8abe65761205eef36e"

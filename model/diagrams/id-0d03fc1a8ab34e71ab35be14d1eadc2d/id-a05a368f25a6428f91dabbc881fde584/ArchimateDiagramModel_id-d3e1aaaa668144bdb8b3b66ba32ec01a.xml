@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wiki technische architectuur"
-    id="id-d3e1aaaa668144bdb8b3b66ba32ec01a">
+    id="id-d3e1aaaa668144bdb8b3b66ba32ec01a"
+    documentation="Technische architectuur van het WikiXL-platform">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8eb22eff8e024ee28c9f71c05569867a"

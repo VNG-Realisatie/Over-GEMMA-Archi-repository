@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus technische architectuur"
-    id="id-d97590b3088c49fd9acb77a668b6603e">
+    id="id-d97590b3088c49fd9acb77a668b6603e"
+    documentation="Technische architectuur van de Softwarecatalogus">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-61f66ec013df4173a67dee2861646c96"
@@ -1195,4 +1196,7 @@
   <properties
       key="Object ID"
       value="29762fb3-3f66-4124-872d-4b792759efae"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
 </archimate:ArchimateDiagramModel>

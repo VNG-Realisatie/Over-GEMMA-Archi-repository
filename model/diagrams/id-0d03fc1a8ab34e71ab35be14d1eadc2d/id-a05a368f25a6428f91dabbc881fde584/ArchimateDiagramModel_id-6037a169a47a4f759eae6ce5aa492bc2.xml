@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wiki applicatiearchitectuur"
-    id="id-6037a169a47a4f759eae6ce5aa492bc2">
+    id="id-6037a169a47a4f759eae6ce5aa492bc2"
+    documentation="Welke functionaliteit bieden de verschillende onderdelen van het WikiXL platform ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-039ee04e00ce4079a0085afd1f40c682">

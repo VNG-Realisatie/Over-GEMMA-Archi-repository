@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering technische architectuur"
-    id="id-f99f3061bb5b4346aa5957fabc762343">
+    id="id-f99f3061bb5b4346aa5957fabc762343"
+    documentation="Modellering van de technische architectuur">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f103092618324de4ac9468a9e81e8568"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA kennismodel technologielaag"
-    id="id-831e51ab87df4a569bfa5c4c08f6ddad">
+    id="id-831e51ab87df4a569bfa5c4c08f6ddad"
+    documentation="Technische architectuur elementen en onderlinge relaties">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-3b10a896b3644deea4322a92efd944a3"

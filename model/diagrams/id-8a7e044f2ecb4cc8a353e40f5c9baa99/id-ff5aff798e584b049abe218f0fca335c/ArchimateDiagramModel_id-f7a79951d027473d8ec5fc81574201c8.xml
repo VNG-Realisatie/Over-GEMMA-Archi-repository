@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA doelgroepen en VNG persona's"
-    id="id-f7a79951d027473d8ec5fc81574201c8">
+    id="id-f7a79951d027473d8ec5fc81574201c8"
+    documentation="Mapping van de GEMMA doelgroepen op de VNG persona's">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5f232c28681a4ef3aab8b610508fe773"

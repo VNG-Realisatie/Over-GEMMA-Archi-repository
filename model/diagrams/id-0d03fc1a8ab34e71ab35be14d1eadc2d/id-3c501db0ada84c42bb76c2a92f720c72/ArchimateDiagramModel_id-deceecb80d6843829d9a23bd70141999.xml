@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begrippen architectuurmodel"
-    id="id-deceecb80d6843829d9a23bd70141999">
+    id="id-deceecb80d6843829d9a23bd70141999"
+    documentation="Begrippen voor de onderdelen waaruit een architectuur is samengesteld">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1ca7477c83574917b73742e217a570fe"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GitHub Archi-repositorie inrichting"
-    id="id-c9a4e1a5c4934657a734a03ac03879dd">
+    id="id-c9a4e1a5c4934657a734a03ac03879dd"
+    documentation="Autorisatiestructuur voor (schrijf)toegang tot de Archi-repositories">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-589e8bb377d642469237da15c9aeda5d"

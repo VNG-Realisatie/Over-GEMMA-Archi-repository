@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkelaar"
-    id="id-cd3726268d9f4779a49cf026705c54e9"/>
+    id="id-cd3726268d9f4779a49cf026705c54e9">
+  <properties
+      key="Object ID"
+      value="db15a710-bb9b-480b-9e1c-88ed2ac1019e"/>
+</archimate:BusinessRole>

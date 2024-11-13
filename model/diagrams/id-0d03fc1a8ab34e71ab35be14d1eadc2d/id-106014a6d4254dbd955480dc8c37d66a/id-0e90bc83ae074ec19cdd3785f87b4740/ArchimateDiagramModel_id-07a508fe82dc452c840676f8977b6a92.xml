@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering motivatie"
-    id="id-07a508fe82dc452c840676f8977b6a92">
+    id="id-07a508fe82dc452c840676f8977b6a92"
+    documentation="Modellering van de GEMMA architectuurprincipes en implicaties">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8cbb247976c24f7cb62526c2ff5baca1"
