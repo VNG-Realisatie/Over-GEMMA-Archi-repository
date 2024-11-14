@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="subBedrijfsfuncties"
+    id="id-386dd2937fba496dbc41f295d0e8fde6">
+  <properties
+      key="Object ID"
+      value="89a6ce26-f14c-4232-ab26-4bc50dc70a8d"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-81008.xml#id-81008"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-81008.xml#id-81008"/>
+</archimate:AggregationRelationship>

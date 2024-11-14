@@ -22,7 +22,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6b1c8090ea334cbda7e7de9b0c44a931"
-        targetConnections="id-81528"
         textAlignment="1"
         fillColor="#efefef"
         type="1">
@@ -160,7 +159,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c1d563b91fa14f0193ed9cae54543e26"
-          targetConnections="id-de38f324095048699ac64d36aa00f64f id-347722e70ecf4e5d9b61cd270a86bca1 id-cb7e78d0dd6e47ee8baa9fd55bdfdfa7 id-494c97d06e134336ad97ad48eea4ad02 id-81529 id-7c9c8eac901444d281882ed90304ace2"
+          targetConnections="id-de38f324095048699ac64d36aa00f64f id-347722e70ecf4e5d9b61cd270a86bca1 id-cb7e78d0dd6e47ee8baa9fd55bdfdfa7 id-494c97d06e134336ad97ad48eea4ad02 id-7c9c8eac901444d281882ed90304ace2"
           lineColor="#000000"
           fillColor="#ffffcc">
         <sourceConnections
@@ -219,22 +218,6 @@
           fillColor="#daeef3">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-81509"
-            lineWidth="3"
-            lineColor="#00ca00"
-            source="id-fdc8826fd84a43d18d380e3242359de6"
-            target="id-22707c378fd343ffa5b829dd28495c7b">
-          <bendpoints
-              startX="40"
-              startY="-290"
-              endX="-10"
-              endY="190"/>
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-81358.xml#id-81358"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-f58c8ff1027a44e6880afd9f044009c5"
             lineColor="#000000"
             source="id-fdc8826fd84a43d18d380e3242359de6"
@@ -275,22 +258,6 @@
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-81529"
-            lineWidth="3"
-            lineColor="#00ca00"
-            source="id-4900adca224548339886e739d593411e"
-            target="id-c1d563b91fa14f0193ed9cae54543e26">
-          <bendpoints
-              startX="-95"
-              startY="-410"
-              endX="105"
-              endY="80"/>
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-81383.xml#id-81383"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-3bae1f18a46e4ae699af465a4457c2c3"
             lineWidth="3"
             lineColor="#00ca00"
@@ -305,23 +272,6 @@
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-89159b2d90bd477daadf80ae7494531c.xml#id-89159b2d90bd477daadf80ae7494531c"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-81528"
-            lineWidth="3"
-            lineColor="#00ca00"
-            textPosition="0"
-            source="id-4900adca224548339886e739d593411e"
-            target="id-6b1c8090ea334cbda7e7de9b0c44a931">
-          <bendpoints
-              startX="-535"
-              startY="10"
-              endX="-170"
-              endY="820"/>
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-81382.xml#id-81382"/>
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
@@ -503,7 +453,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-22707c378fd343ffa5b829dd28495c7b"
-          targetConnections="id-6422ac5b5a4f4a97bf51758dcb2b58fe id-5f49c1661fbf4835821ab08609017570 id-802c871074634a818717e60fc9c2af0e id-81509 id-1fd5b3a9c49d403c8d49771d29281a23"
+          targetConnections="id-6422ac5b5a4f4a97bf51758dcb2b58fe id-5f49c1661fbf4835821ab08609017570 id-802c871074634a818717e60fc9c2af0e id-1fd5b3a9c49d403c8d49771d29281a23"
           lineColor="#000000"
           fillColor="#ccccff">
         <bounds

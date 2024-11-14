@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting service (open source, commercial, VNG Haven, ..)"
+    id="id-f43eed6b09dd4892b34912ec253008fa"
+    documentation="Indeling van hostingvormen waarin een component beschikbaar gesteld kan zijn&#xD;&#xA;* open source: source code beschikbaar gesteld in open source repository&#xD;&#xA;* commercial: een dienstenleverancier stelt component beschikbaar&#xD;&#xA;* VNG: centrale voorziening beschikbaar gesteld door VNG ..&#xD;&#xA;* ...">
+  <properties
+      key="Object ID"
+      value="92654212-1230-49ed-b652-7c35a95d8b91"/>
+</archimate:TechnologyService>

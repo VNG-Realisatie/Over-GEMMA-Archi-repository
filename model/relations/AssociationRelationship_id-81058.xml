@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mijn klanten"
+    id="id-81058">
+  <properties
+      key="Object ID"
+      value="1eebd9d5-8e9a-4918-a43b-83d23c9379bc"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+</archimate:AssociationRelationship>

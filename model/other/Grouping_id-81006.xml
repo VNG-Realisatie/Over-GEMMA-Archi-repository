@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domein (ruimtelijk domein, ..)"
+    id="id-81006"
+    documentation="Een domein is een afgebakende groep bedrijfsfuncties die in de gemeentelijke praktijk vaak in samenhang worden ingericht en gebruikt">
+  <properties
+      key="Toelichting"
+      value="Eigenchappen van domein * GEMMA type ='Groep' * GEMMA subtype ='Domein'"/>
+  <properties
+      key="Object ID"
+      value="3e35ecc6-2515-411f-92b8-adfaa8f2a2c3"/>
+</archimate:Grouping>

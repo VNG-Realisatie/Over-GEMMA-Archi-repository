@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pakketversie (Squit 20/20 VTH)"
+    id="id-80980"
+    documentation="De opeenvolgende fasen in de ontwikkeling van een pakket. Van iedere pakketversie wordt door de leverancier geregistreerd voor welke referentiecomponenten de versie geschikt is en wat de ondersteunde functionaliteit en standaarden zijn. De gemeente registreert voor welke referentiecomponenten en functionaliteit het pakket gebruikt wordt.">
+  <properties
+      key="Toelichting"
+      value="Een pakketversie bevat in de AMEFF export de volgende eigenschappen in zowel de export van een gemeente als van een leverancier. Algemene eigenschappen van een pakketversie * GEMMA type='Pakketversie' * Documentatie - Korte toelichting op deze versie van het pakket * Naam - Naam van het pakket met versieaanduiding * Versie-aanduiding - Versieaanduiding van het pakket * Object ID - Unieke sleutel van een pakketversie; GUID gegenereerd door Softwarecatalogus In de AMEFF export voor een leverancier worden van een pakketversie tevens de volgende eigenschappen meegegeven: * Pakketversie Status - lifecycle pakketversie zoals aangegeven door leverancier ** in ontwikkeling ** in test ** distributie ** einde ondersteuning * Start ontwikkeling * Start test * Start distributie * Ondersteunde technologie - Opsomming ondersteunde technologie, komma gescheiden In de AMEFF export voor een gemeente/samenwerking worden van een pakketversie de volgende eigenschappen meegegeven: * Extern pakket - 'ja/nee'; een externe pakketversie, is een door de gemeente in de softwarecatalogus geregistreerde (versie van een) applicatie. * Gebruik status - Lifecycle status van een door een gemeente geregistreerde pakketversie ** Gepland ** In productie ** Uit te faseren ** Uitgefaseerd * Gebruik datum - Datum waarop de gebruik status van een pakket of in gaat of in is gegaan * Gebruik mutatiedatum - Datum laatste wijziging gebruiksgegevens pakket(versie)"/>
+  <properties
+      key="Object ID"
+      value="26ec7e2a-49fd-4c69-a595-44c05cab0c08"/>
+</archimate:ApplicationComponent>

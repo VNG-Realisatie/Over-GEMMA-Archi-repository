@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product (registratienummer verhuur woning)"
+    id="id-7924540c58dd4756aab93e4727815adc"
+    documentation="A Product consists of a collection of Services, and a Contract that specifies the characteristics, rights, and requirements associated with the Product.">
+  <properties
+      key="Object ID"
+      value="2ddbc541-7096-44d3-a7bc-e5ca63ec9768"/>
+</archimate:Product>

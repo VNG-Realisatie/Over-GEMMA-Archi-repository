@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesinrichting"
+    id="id-4b06f1071a2544259f75536412e44992"
+    documentation="Groep van functionaliteit voor het ondersteunen van applicatieprocessen&#xA;">
+  <properties
+      key="Bron"
+      value="GEMMA gegevenslandschap"/>
+  <properties
+      key="Object ID"
+      value="a1f7f8ba-7722-4544-accd-ae7d6d9c91ba"/>
+</archimate:Grouping>

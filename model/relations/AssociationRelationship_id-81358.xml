@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Afgeleide standaard BG voorziening"
+    name="Afgeleide landelijke koppelvlakstandaard"
     id="id-81358"
     documentation="Dit is een afgeleide relatie die wordt aangemaakt en doorgeven aan de Softwarecatalogus.&#xA;&#xA;Regel voor afleiden:&#xA;* Maakt tussen de Buitengemeentelijke component een relatie met de standaard, wanneer geldt dat één van de buitengemeentelijke koppelvlakken deze standaard voorschrijft.&#xA;* Deze relatie bestaat niet in het model, alleen in de Softwarecatalogus">
   <properties
@@ -12,5 +12,5 @@
       href="ApplicationComponent_id-80971.xml#id-80971"/>
   <target
       xsi:type="archimate:Constraint"
-      href="Constraint_id-81077.xml#id-81077"/>
+      href="Constraint_id-80988.xml#id-80988"/>
 </archimate:AssociationRelationship>

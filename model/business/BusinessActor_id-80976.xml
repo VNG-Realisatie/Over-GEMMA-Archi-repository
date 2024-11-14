@@ -1,12 +1,12 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverancier"
+    name="Leverancier (Visma Roxit)"
     id="id-80976"
-    documentation="Aanbieders van standaard-software(pakketten) voor gemeentelijke taken">
+    documentation="Aanbieders van standaard-software(pakketten) voor gemeentelijke taken. Alleen leveranciers die het convenant met VNG/KING ondertekend hebben, mogen hun gegevens in de Softwarecatalogus zetten.">
+  <properties
+      key="Toelichting"
+      value="De AMEFF export bevat de leveranciers van de door de gemeente gebruikte pakketten; Eigenschappen van een leverancier * GEMMA type='Leverancier' * Object ID - Unieke sleutel van een leveranciers; GUID gegenereerd door Softwarecatalogus * URL - Website van de leverancier"/>
   <properties
       key="Object ID"
       value="fc44b9cf-d2d1-4b43-9ace-6bd7701fc572"/>
-  <properties
-      key="Bron"
-      value="Softwarecatalogus"/>
 </archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ondersteunt"
+    id="id-d6e7e77f50cb4513939b61647b52d4cb">
+  <properties
+      key="Object ID"
+      value="e927f534-767a-4527-9c80-f000b07e0d46"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-80988.xml#id-80988"/>
+</archimate:RealizationRelationship>

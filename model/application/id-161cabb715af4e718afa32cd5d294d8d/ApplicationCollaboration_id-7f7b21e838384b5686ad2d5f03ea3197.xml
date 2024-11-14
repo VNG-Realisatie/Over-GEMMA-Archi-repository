@@ -1,0 +1,9 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oplossing (OpenZaak)"
+    id="id-7f7b21e838384b5686ad2d5f03ea3197"
+    documentation="Deeloplossingen op basis van een set componenten. Het gaat om werkende software dat een oplossing biedt voor een bepaald onderdeel.">
+  <properties
+      key="Object ID"
+      value="ab91b5cc-1771-48ae-8d93-f13c01ad3edd"/>
+</archimate:ApplicationCollaboration>

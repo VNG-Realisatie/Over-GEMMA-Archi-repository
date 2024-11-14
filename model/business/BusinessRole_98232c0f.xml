@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account- en productmanager"
+    id="98232c0f"
+    documentation="&#xA;">
+  <properties
+      key="Object ID"
+      value="9f63efc9-91b8-4353-b621-753a792d8479"/>
+  <properties
+      key="Object ID"
+      value="6b710f1e-22df-484a-9866-8b7665ac5cf9"/>
+</archimate:BusinessRole>

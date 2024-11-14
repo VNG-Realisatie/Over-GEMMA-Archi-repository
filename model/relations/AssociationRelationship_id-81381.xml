@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroepfilter"
+    id="id-81381"
+    documentation="Dit is een afgeleide relatie die wordt aangemaakt en doorgeven aan de Softwarecatalogus.&#xA;&#xA;De functionaliteit toegewezen aan een referentiecomponent wordt gebruikt door één of meerdere doelgroepen">
+  <properties
+      key="Object ID"
+      value="b2c266bd-5d93-4473-9082-4449e5c01c2d"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80995.xml#id-80995"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-80999.xml#id-80999"/>
+</archimate:AssociationRelationship>

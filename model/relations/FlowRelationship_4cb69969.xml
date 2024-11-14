@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software aanbod"
+    id="4cb69969">
+  <properties
+      key="Object ID"
+      value="18bfa28a-c9cb-4c61-8f1e-66d5e1adf642"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1f58ee8f769f44b9a8f28e9a177097f4.xml#id-1f58ee8f769f44b9a8f28e9a177097f4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f21255fbf8d4463fb912ad145ab2258f.xml#id-f21255fbf8d4463fb912ad145ab2258f"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="één-op-één"
+    id="id-99fe503a28e442b2b2c17293208a979c">
+  <properties
+      key="Object ID"
+      value="6586a5c2-144d-4c30-a249-324797f9e65e"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80971.xml#id-80971"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79c8eed17ba24f43a8de1f4320dff465.xml#id-79c8eed17ba24f43a8de1f4320dff465"/>
+</archimate:AssociationRelationship>

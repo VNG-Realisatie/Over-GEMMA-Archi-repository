@@ -5,13 +5,10 @@
   <properties
       key="Object ID"
       value="5eb2be85-c9d6-43a1-8962-9356e3e454c9"/>
-  <properties
-      key="Bron"
-      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80971.xml#id-80971"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80982.xml#id-80982"/>
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
 </archimate:FlowRelationship>

@@ -1,0 +1,18 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Is geschikt voor"
+    id="id-a37a7de9c8b94b3cb8fcbe0a27046a31">
+  <properties
+      key="convertConcept"
+      value="Relationship type was &quot;specialization&quot;. Element &quot;Oplossing (Registratie toeristische verhuur woonruimte)&quot; converted from &quot;application-component&quot; to &quot;application-collaboration&quot;"/>
+  <properties
+      key="Object ID"
+      value="24b5f761-eafd-4df6-9cdd-27a38cedcb6d"/>
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-7f7b21e838384b5686ad2d5f03ea3197.xml#id-7f7b21e838384b5686ad2d5f03ea3197"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5bd98f3805424ffaad6fb962553632ff.xml#id-5bd98f3805424ffaad6fb962553632ff"/>
+</archimate:AssociationRelationship>

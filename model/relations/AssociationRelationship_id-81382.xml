@@ -9,8 +9,8 @@
       value="1f141914-a67c-49a1-b1d4-a6501a6a6c96"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
+      href="ApplicationComponent_id-80995.xml#id-80995"/>
   <target
       xsi:type="archimate:Grouping"
-      href="Grouping_id-81091.xml#id-81091"/>
+      href="Grouping_id-81006.xml#id-81006"/>
 </archimate:AssociationRelationship>

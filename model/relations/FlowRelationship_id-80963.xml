@@ -1,22 +1,19 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="interne koppeling"
+    name="binnengemeentelijke koppeling"
     id="id-80963"
     documentation="Een door de gemeente geregistreerde koppeling tussen twee pakketversie in het gemeentelijk pakketoverzicht">
   <properties
       key="Toelichting"
-      value="Een koppeling in de softwarecatalogus heeft relaties met de intermediair (een aangeschaft pakket) en de geïmplementeerde standaard. Deze relaties worden als eigenschappen aan de flow meegegeven en zijn daarmee niet meer gerelateerd aan echte objecten."/>
+      value="Een koppeling in de softwarecatalogus heeft relaties met de intermediair (een aangeschaft pakket) en de geïmplementeerde standaard. Deze relaties worden als eigenschappen aan de flow meegegeven en zijn daarmee niet meer gerelateerd aan echte objecten. Eigenschappen van een koppeling * GEMMA type = 'Koppeling' * GEMMA subtype = 'Binnengemeentelijk' * Documentatie - Vrij tekstveld waarin gemeente een toelichting kan geven op de koppeling * Naam - Label van de koppeling * Object ID - Unieke sleutel van een door een gemeente geregistreerde koppeling tussen twee pakketten, overgenomen uit de Softwarecatalogus * Datum - Datum waarop de koppeling status in gaat of in is gegaan * Intermediair - Naam van intermediair pakketversie waarmee koppeling is gerealiseerd * Intermediair ID - GUID van intermediair pakketversie waarmee koppeling is gerealiseerd * Richting - Richting van de gegevensuitwisseling; Links, rechts, beide (resp. left_to_right, right_to_left, bidirection) * Type - Is de koppeling gebaseerd op een standaard, maatwerk of is dit onbekend (resp norm, custom, unknown) * Standaardversie - Standaardversie waarop de koppeling gebaseerd is * Standaardversie ID - GUID van de standaardversie waarop de koppeling gebaseerd is * Status - Lifecycle status van de koppeling; In ontwikkeling; distributie; einde ondersteuning * Transportprotocol - Transportprotocol waarmee de koppeling geïmplementeerd is. Waardenlijst: ** Message Queue ** Webservices ** Upload naar portaal ** Digikoppeling-WUS ** Digikoppeling-grote-berichten ** Digikoppeling-ebMS ** Database koppeling ** Bestandsoverdracht"/>
   <properties
       key="Object ID"
       value="36dc7e02-c293-47bf-8624-7c0fce99ab1b"/>
-  <properties
-      key="Bron"
-      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80982.xml#id-80982"/>
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80982.xml#id-80982"/>
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
 </archimate:FlowRelationship>

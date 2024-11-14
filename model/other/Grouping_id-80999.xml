@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroep (gemeente, ..)"
+    id="id-80999"
+    documentation="De doelgroep is een ordening van de gemeentelijke applicatiefuncties. ">
+  <properties
+      key="Toelichting"
+      value="Eigenchappen van een doelgroep * GEMMA type ='Groep' * GEMMA subtype ='Doelgroep'"/>
+  <properties
+      key="Object ID"
+      value="4807ff94-8f06-4a1c-ae4c-fcc9955e4eda"/>
+</archimate:Grouping>

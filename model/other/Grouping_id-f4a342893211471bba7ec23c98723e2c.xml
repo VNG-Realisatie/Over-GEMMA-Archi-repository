@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperabiliteit"
+    id="id-f4a342893211471bba7ec23c98723e2c"
+    documentation="Groep van functionaliteit waarmee verschillende autonome, heterogene systemen, apparaten of andere eenheden (bijvoorbeeld organisaties of landen) met elkaar kunnen communiceren en interacteren.&#xA;">
+  <properties
+      key="Bron"
+      value="GEMMA gegevenslandschap"/>
+  <properties
+      key="Object ID"
+      value="b678d5c4-9b2b-4f53-bc90-e6c3a1680b41"/>
+</archimate:Grouping>

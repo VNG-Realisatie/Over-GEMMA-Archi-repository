@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component rol aanbieder (ZRC - Zaken API...)"
+    id="id-3fa2dc29a7164a04bb0a63294a049137"
+    documentation="Kleine brokjes herbruikbare code. Deze zijn ingedeeld volgens het 5-lagen model. Hiermee creëren we meer flexibiliteit, spreiden we risico’s en voorkomen we dat een component meer doet dan waar het voor bedoeld is.">
+  <properties
+      key="Object ID"
+      value="68d1870d-2d3c-4614-a215-07e7ff39bf85"/>
+</archimate:ApplicationComponent>

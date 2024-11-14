@@ -1,0 +1,15 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft versie"
+    id="id-8cf02658c339414983ed203b12747aa6">
+  <properties
+      key="Object ID"
+      value="1a652f93-76c0-442d-95b5-f21c607a257c"/>
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-80988.xml#id-80988"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-80988.xml#id-80988"/>
+</archimate:SpecializationRelationship>

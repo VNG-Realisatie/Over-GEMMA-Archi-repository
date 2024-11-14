@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-74b5f29350814819ace85901036aa893">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-9e8ae650b7e741c885b394499699049e.xml#id-9e8ae650b7e741c885b394499699049e"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_63fc1198.xml#63fc1198"/>
+</archimate:AssociationRelationship>

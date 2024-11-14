@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA taxonomie"
+    id="id-54330a3ff30048ba9f844fd30efa4fcd">
+  <properties
+      key="Object ID"
+      value="eaf9b988-6445-4f2a-bf44-4bf0af91d397"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-e484492b07194ba5a024455aaf83f7cd.xml#id-e484492b07194ba5a024455aaf83f7cd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-145f2b1921d6473c82a1eb9ae403926a.xml#id-145f2b1921d6473c82a1eb9ae403926a"/>
+</archimate:ServingRelationship>

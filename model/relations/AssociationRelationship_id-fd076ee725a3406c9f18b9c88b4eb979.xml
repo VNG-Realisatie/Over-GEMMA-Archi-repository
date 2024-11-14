@@ -1,16 +1,17 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
     id="id-fd076ee725a3406c9f18b9c88b4eb979">
   <properties
       key="convertConcept"
       value="Relationship type was &quot;composition&quot;. Element &quot;Oplossing (Registratie toeristische verhuur woonruimte)&quot; converted from &quot;application-component&quot; to &quot;application-collaboration&quot;"/>
   <properties
       key="Object ID"
-      value="96e63396-54e5-40b7-90ae-4db26ca0fd15"/>
+      value="e2afbe1e-f94d-405a-88df-190d964b56e3"/>
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-1449d37d6454490fa56bb38d8156982e.xml#id-1449d37d6454490fa56bb38d8156982e"/>
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-7f7b21e838384b5686ad2d5f03ea3197.xml#id-7f7b21e838384b5686ad2d5f03ea3197"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3fa2dc29a7164a04bb0a63294a049137.xml#id-3fa2dc29a7164a04bb0a63294a049137"/>

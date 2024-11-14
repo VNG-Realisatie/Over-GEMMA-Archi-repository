@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buitengemeentelijk component (MijnOverheid berichtenbox)"
+    id="id-80971"
+    documentation="De sectorale en landelijke voorzieningen waar gemeenten informatie ophalen, delen en of uitwisselen van gegevens met overheidsorganisaties, ketenpartners, burgers en bedrijven.">
+  <properties
+      key="Toelichting"
+      value="Eigenschappen van een buitengemeentelijke component * GEMMA type='buitengemeentelijke component' * Naam - Naam van de buitengemeentelijke component * Documentatie - definitie van de buitengemeentelijke component * Object ID - Unieke sleutel van buitengemeentelijke component, GUID overgenomen uit KING architectuurtool"/>
+  <properties
+      key="Object ID"
+      value="d81c2e96-3c58-43c4-9ff0-a5c2da7bc3bd"/>
+</archimate:ApplicationComponent>

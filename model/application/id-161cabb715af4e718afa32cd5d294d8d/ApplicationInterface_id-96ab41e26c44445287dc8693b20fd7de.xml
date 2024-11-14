@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GitHub / GitLab / ...  API "
+    id="id-96ab41e26c44445287dc8693b20fd7de"
+    documentation="&#xA;Continuous integration (CI) and continuous delivery (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably. The implementation is also known as the CI/CD pipeline. ">
+  <properties
+      key="Object ID"
+      value="89dfbc42-a8b9-4953-822e-69a342f4513a"/>
+  <properties
+      key="Object ID"
+      value="2a866074-7398-4902-a8ad-0144bb110bb7"/>
+</archimate:ApplicationInterface>

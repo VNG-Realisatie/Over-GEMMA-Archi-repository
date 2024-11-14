@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="één-op-één"
+    id="id-d283d3bfe7b640fdab1d595b32d92741">
+  <properties
+      key="Object ID"
+      value="cd8e85db-e307-4ef9-b555-d8f7310f3678"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-f2b92a08beca40449fa4cacd35ea4ab1.xml#id-f2b92a08beca40449fa4cacd35ea4ab1"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-81008.xml#id-81008"/>
+</archimate:AssociationRelationship>

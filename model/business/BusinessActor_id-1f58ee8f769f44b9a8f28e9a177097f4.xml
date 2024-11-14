@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverancier"
+    id="id-1f58ee8f769f44b9a8f28e9a177097f4"
+    documentation="Aanbieders van standaard-software(pakketten) voor gemeentelijke taken. Alleen leveranciers die het convenant met VNG/KING ondertekend hebben, mogen hun gegevens in de Softwarecatalogus zetten.">
+  <properties
+      key="Object ID"
+      value="541875b2-0364-4bbf-af01-3946167782ae"/>
+  <properties
+      key="Toelichting"
+      value="Basisgegevens * Leverancier id -> Object GUID * Supplier Name -> Naam * Beschrijving * Toelichting * Elementtype=''Leverancier'' Leverancier gegevens * Supplier Url -> Leverancier URL Leveranciergegevens gemeente * Zelf geregistreerd j/n (Rol=''Extern pakket'') SWC en persoonsgegevens die niet meegaan in het architectuurmodel * Supplier Contact -> Leverancier contact * Supplier E-mailadres -> Leverancier e-mail * Supplier Telefoon -> Leverancier telefoon * Supplier Last activity -> Leverancier laatste wijziging"/>
+</archimate:BusinessActor>

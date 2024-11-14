@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-402e2fdc71cf49c08312b9584690dee0">
+  <properties
+      key="convertConcept"
+      value="Relationship type was &quot;access&quot;. Element &quot;GitHub&quot; converted from &quot;application-component&quot; to &quot;application-service&quot;"/>
+  <properties
+      key="Object ID"
+      value="2351bc16-adcc-483e-b760-63ea61f0a921"/>
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-96ab41e26c44445287dc8693b20fd7de.xml#id-96ab41e26c44445287dc8693b20fd7de"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9446ce1ed00b4faf902b80dde63bead9.xml#id-9446ce1ed00b4faf902b80dde63bead9"/>
+</archimate:AssociationRelationship>

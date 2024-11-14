@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buitengemeentelijk component (LV-BAG)"
+    id="id-79c8eed17ba24f43a8de1f4320dff465"
+    documentation="De sectorale en landelijke voorzieningen waar gemeenten informatie ophalen, delen en of uitwisselen van gegevens met overheidsorganisaties, ketenpartners, burgers en bedrijven.">
+  <properties
+      key="Toelichting"
+      value="Eigenschappen van een buitengemeentelijke component * GEMMA type='buitengemeentelijke component' * Naam - Naam van de buitengemeentelijke component * Documentatie - definitie van de buitengemeentelijke component * Object ID - Unieke sleutel van buitengemeentelijke component, GUID overgenomen uit KING architectuurtool"/>
+  <properties
+      key="Object ID"
+      value="5ba1941c-f89e-429a-9aa2-8cdd2c31060c"/>
+</archimate:ApplicationComponent>

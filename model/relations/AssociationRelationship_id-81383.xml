@@ -1,15 +1,15 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsfunctiefilter"
+    name="Bedrijfsfunctiefilter (hierarchie)"
     id="id-81383">
   <properties
       key="Object ID"
       value="dcbf1dbc-cc7f-4d31-b186-2bb268cb5355"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
+      href="ApplicationComponent_id-80995.xml#id-80995"/>
   <target
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-44bbb0184dbb43adaca73495aaf7155f.xml#id-44bbb0184dbb43adaca73495aaf7155f"/>
+      href="BusinessFunction_id-81008.xml#id-81008"/>
 </archimate:AssociationRelationship>
