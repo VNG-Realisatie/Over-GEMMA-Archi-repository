@@ -21,4 +21,7 @@
   <properties
       key="Reden Eis"
       value="Wettelijke eis"/>
+  <properties
+      key="Object ID"
+      value="608d438f-7e9f-4ccf-aa5f-cf3c6c7d1958"/>
 </archimate:Requirement>

@@ -5,6 +5,9 @@
   <properties
       key="ReqID"
       value="30"/>
+  <properties
+      key="Object ID"
+      value="e36a453d-9907-4616-94c2-3013861ac806"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-0abf46c22dfb417daa69a6e8f33f9da2.xml#id-0abf46c22dfb417daa69a6e8f33f9da2"/>

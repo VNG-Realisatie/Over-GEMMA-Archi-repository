@@ -27,4 +27,7 @@
   <properties
       key="In huidige swc"
       value="Ja"/>
+  <properties
+      key="Object ID"
+      value="0b46ddce-36e1-4247-baee-4b20dddf35ba"/>
 </archimate:Requirement>

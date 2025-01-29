@@ -24,4 +24,7 @@
   <properties
       key="Prioriteit"
       value="Wens"/>
+  <properties
+      key="Object ID"
+      value="9492d613-9c4e-4bcc-b2df-6fbbd369380a"/>
 </archimate:Requirement>

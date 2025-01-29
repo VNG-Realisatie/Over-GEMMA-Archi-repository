@@ -5,4 +5,7 @@
   <properties
       key="Type requirement"
       value="Non functional"/>
+  <properties
+      key="Object ID"
+      value="b2b3dceb-a3b4-4a44-92e7-bd8b716cac07"/>
 </archimate:Grouping>

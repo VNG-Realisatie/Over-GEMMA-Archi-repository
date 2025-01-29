@@ -27,4 +27,7 @@
   <properties
       key="Gerelateerde stories"
       value="1"/>
+  <properties
+      key="Object ID"
+      value="bec4ef43-42ae-40cb-9ac6-2e2b172d0eae"/>
 </archimate:Requirement>

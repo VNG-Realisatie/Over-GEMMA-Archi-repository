@@ -30,4 +30,7 @@
   <properties
       key="Toelichting"
       value="Dit vereist een uitbreiding van de GEMMA. &#xA;Als IBD wil ik dat per referentiecomponent wordt vastgelegd welke BIO-eisen gelden en welke (beveiligings)maatregelen van toepassing zijn, zodat leveranciers en gemeenten in de softwarecatalogus conform de BIO kunnen registreren welke maatregelen zij hebben genomen."/>
+  <properties
+      key="Object ID"
+      value="b163ce0b-55e6-439d-a162-194dbcc3fd6b"/>
 </archimate:Requirement>

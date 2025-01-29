@@ -27,4 +27,7 @@
   <properties
       key="Toelichting"
       value="Dit vereist een uitbreiding van de GEMMA. &#xA;Als IBD wil ik dat de referentiecomponenten worden uitgebreid met verwerkingsgrondslag, verwerkingsverantwoordelijke en categorieën van (bijzondere) persoonsgegevens, zodat gemeenten in de softwarecatalogus een register van verwerkingen kunnen genereren."/>
+  <properties
+      key="Object ID"
+      value="0bde3126-754e-4822-b18b-49e887fd0b0a"/>
 </archimate:Requirement>

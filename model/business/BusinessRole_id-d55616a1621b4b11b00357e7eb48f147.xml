@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scrum master"
-    id="id-d55616a1621b4b11b00357e7eb48f147"/>
+    id="id-d55616a1621b4b11b00357e7eb48f147">
+  <properties
+      key="Object ID"
+      value="78616aee-00b9-4f17-a052-e4beaa59410b"/>
+</archimate:BusinessRole>

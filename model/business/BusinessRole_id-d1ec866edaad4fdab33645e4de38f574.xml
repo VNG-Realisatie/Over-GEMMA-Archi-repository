@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Common Ground ontwikkelteam"
-    id="id-d1ec866edaad4fdab33645e4de38f574"/>
+    id="id-d1ec866edaad4fdab33645e4de38f574">
+  <properties
+      key="Object ID"
+      value="4662cb54-a23f-4279-aa8b-7fb1154ef405"/>
+</archimate:BusinessRole>

@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Wensen</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Wensen</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-8f1c4e47d69a4c53ad84ffea1fe88b31.html" target="element"> Toegangsbeveiliging wensen </a> </td>
+											    <td> <a href="../elements/id-8f1c4e47d69a4c53ad84ffea1fe88b31.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-39e0de5d33c64ed28913fa41fa7867df.html" target="element"> Impersonatie </a> </td>
+													    <td> <a href="../elements/id-39e0de5d33c64ed28913fa41fa7867df.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+											    <td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-70b73539472848c0a3da8cb824b4a502.html" target="element"> Registreren en raadplegen diensten </a> </td>
+													    <td> <a href="../elements/id-70b73539472848c0a3da8cb824b4a502.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-92bf1566f4434e30917e486056b8eb96.html" target="element"> Registreren met tabel </a> </td>
+													    <td> <a href="../elements/id-92bf1566f4434e30917e486056b8eb96.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-36370d75e6fa4222ab3299cba8ded30e.html" target="element"> Tonen statistieken </a> </td>
+													    <td> <a href="../elements/id-36370d75e6fa4222ab3299cba8ded30e.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-173b67c766b34e23925be2abface2616.html" target="element"> Advisering op basis van AI </a> </td>
+													    <td> <a href="../elements/id-173b67c766b34e23925be2abface2616.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-a16e7327c02442658baa227db1d61858.html" target="element"> Exporteren en importeren </a> </td>
+													    <td> <a href="../elements/id-a16e7327c02442658baa227db1d61858.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+													    <td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-6b9bdddb61d54f34842191fbc269b0ec.html" target="element"> Tonen koppelingendiagram </a> </td>
+															    <td> <a href="../elements/id-6b9bdddb61d54f34842191fbc269b0ec.html" target="element" class="i18n-elementtype-ApplicationService">
+															    </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-377a67fdffb24747b693dfce70eeeccc.html" target="element"> Review-score pakketten </a> </td>
+															    <td> <a href="../elements/id-377a67fdffb24747b693dfce70eeeccc.html" target="element" class="i18n-elementtype-ApplicationService">
+															    </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-43574686df58458ab6ced7f8cfca670c.html" target="element"> AI advisering </a> </td>
+															    <td> <a href="../elements/id-43574686df58458ab6ced7f8cfca670c.html" target="element" class="i18n-elementtype-ApplicationService">
+															    </a> </td>
+															</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-309d0d5b964141a98760e77437a0a40f.html" target="element"> Importeren externe bronnen (CMDB) </a> </td>
+															    <td> <a href="../elements/id-309d0d5b964141a98760e77437a0a40f.html" target="element" class="i18n-elementtype-ApplicationService">
+															    </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-84b7b076b34042d38956429a29e740e4.html" target="element"> Aanbod wensen </a> </td>
+													    <td> <a href="../elements/id-84b7b076b34042d38956429a29e740e4.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+															<tr>
+															    <td> <a href="../elements/id-347f18e876a64450b8fb3d78037f196c.html" target="element"> Vergelijken pakketten </a> </td>
+															    <td> <a href="../elements/id-347f18e876a64450b8fb3d78037f196c.html" target="element" class="i18n-elementtype-ApplicationService">
+															    </a> </td>
+															</tr>
+
+													
+													<tr>
+													    <td> <a href="../elements/id-6e54218f01fc48c6b1786119fe1d9d31.html" target="element"> Registreren cloud-provider </a> </td>
+													    <td> <a href="../elements/id-6e54218f01fc48c6b1786119fe1d9d31.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element"> IBD wensen </a> </td>
+											    <td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-dfd26c380f3147049b6745322ce79363.html" target="element"> BIO eisen en compliancy </a> </td>
+													    <td> <a href="../elements/id-dfd26c380f3147049b6745322ce79363.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e7f235f5ed23424f98d11cfd248e3a1e.html" target="element"> Delen verklaringen en overeenkomsten </a> </td>
+													    <td> <a href="../elements/id-e7f235f5ed23424f98d11cfd248e3a1e.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-d0f58c625f0c4dce9c82a1bcff0508aa.html" target="element"> Genereren van register van verwerkingen </a> </td>
+													    <td> <a href="../elements/id-d0f58c625f0c4dce9c82a1bcff0508aa.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-d501c954dc7745468c63cd75fc3ec6a7.html" target="element"> Kwetsbaarheden notificatie </a> </td>
+													    <td> <a href="../elements/id-d501c954dc7745468c63cd75fc3ec6a7.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-e2a18227c7ff4540be71497bb264ad71.html" target="element"> Beheren content en configuratie wensen </a> </td>
+											    <td> <a href="../elements/id-e2a18227c7ff4540be71497bb264ad71.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-26685e4c2f914b87b1c8b6108132c767.html" target="element"> Zoeken configureren </a> </td>
+													    <td> <a href="../elements/id-26685e4c2f914b87b1c8b6108132c767.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-e4be25057d1e488698ef48b24225bf9f.html" target="element"> Startpagina doelgroep </a> </td>
+													    <td> <a href="../elements/id-e4be25057d1e488698ef48b24225bf9f.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-531b0f1beb174b8c8cf7a6850698104b.html" target="element"> Commen Ground wensen </a> </td>
+											    <td> <a href="../elements/id-531b0f1beb174b8c8cf7a6850698104b.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-8c5674f6bf894a91b0e4b5370aad673f.html" target="element"> Aansluiting op doelen en principes </a> </td>
+													    <td> <a href="../elements/id-8c5674f6bf894a91b0e4b5370aad673f.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b217f9e6af6f4638955acaec5b86b1a3.html" target="element"> Registreren softwarearchitectuur oplossing </a> </td>
+													    <td> <a href="../elements/id-b217f9e6af6f4638955acaec5b86b1a3.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-3fc4cfd9ade642f88bee62b6c91e946b.html" target="element"> GT inkoop wensen </a> </td>
+											    <td> <a href="../elements/id-3fc4cfd9ade642f88bee62b6c91e946b.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-72453465fcfe46e1a6688d69bb756db9.html" target="element"> Registreren collectieve afspraken met leveranciers </a> </td>
+													    <td> <a href="../elements/id-72453465fcfe46e1a6688d69bb756db9.html" target="element" class="i18n-elementtype-ApplicationService">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-f69ced9ea3574fcabbf5d09bf2b69b7f.html" target="element"> Raadplegen gebruik API </a> </td>
+											    <td> <a href="../elements/id-f69ced9ea3574fcabbf5d09bf2b69b7f.html" target="element" class="i18n-elementtype-ApplicationInterface">
+											    </a> </td>
+											</tr>
+
+									        <tr>
+									           <td> <a href="../objects/id-7b7f559fdf5646b583e56fce642056ab.html" target="element"> Could have </a> </td>
+									           <td> <a href="../objects/id-7b7f559fdf5646b583e56fce642056ab.html" target="element" class="i18n-elementtype-DiagramModelGroup"> </a> </td>
+									        </tr>
+
+													<tr>
+													    <td> <a href="../elements/id-ba394adee6384b5882f94866ccf7d4e1.html" target="element"> Registreren gebruik API </a> </td>
+													    <td> <a href="../elements/id-ba394adee6384b5882f94866ccf7d4e1.html" target="element" class="i18n-elementtype-ApplicationInterface">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-30e9ebd70d5a4f73a42e35f233f36613.html" target="element"> Registreren aanbod API </a> </td>
+													    <td> <a href="../elements/id-30e9ebd70d5a4f73a42e35f233f36613.html" target="element" class="i18n-elementtype-ApplicationInterface">
+													    </a> </td>
+													</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-4c6890880b8541ca8d5098e91f0e1e9f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-4c6890880b8541ca8d5098e91f0e1e9f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8f1c4e47d69a4c53ad84ffea1fe88b31.html" target="element"> Toegangsbeveiliging wensen </a> </td>
+																		<td> <a href="../elements/id-39e0de5d33c64ed28913fa41fa7867df.html" target="element"> Impersonatie </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-aeedc53b905f4f0d8cc97f4a38db5d13.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-aeedc53b905f4f0d8cc97f4a38db5d13.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-36370d75e6fa4222ab3299cba8ded30e.html" target="element"> Tonen statistieken </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-a02e276bc76a4bcc8c792ce47b32b756.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-a02e276bc76a4bcc8c792ce47b32b756.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-84b7b076b34042d38956429a29e740e4.html" target="element"> Aanbod wensen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-960c0088adc94c2aaad66f26edab67cd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-960c0088adc94c2aaad66f26edab67cd.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-a16e7327c02442658baa227db1d61858.html" target="element"> Exporteren en importeren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-bb8d5c59bfab464386845d53a96831ee.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-bb8d5c59bfab464386845d53a96831ee.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b2ca073e9f7b41bda5af7c8b882b6355.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b2ca073e9f7b41bda5af7c8b882b6355.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-6e54218f01fc48c6b1786119fe1d9d31.html" target="element"> Registreren cloud-provider </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c6facc81e2a0413e84c54957db6a817c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c6facc81e2a0413e84c54957db6a817c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-92bf1566f4434e30917e486056b8eb96.html" target="element"> Registreren met tabel </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-1f71194560474e11abe887cc12f5b3a1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-1f71194560474e11abe887cc12f5b3a1.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-70b73539472848c0a3da8cb824b4a502.html" target="element"> Registreren en raadplegen diensten </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2153f58e179c47b3a61e7015933584f9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2153f58e179c47b3a61e7015933584f9.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-66fed14a6f2a438597633851d83e2dbb.html" target="element"> Aanbod en gebruik wensen </a> </td>
+																		<td> <a href="../elements/id-173b67c766b34e23925be2abface2616.html" target="element"> Advisering op basis van AI </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-5bce1cc6f25642fc9d07169019c6b844.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-5bce1cc6f25642fc9d07169019c6b844.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+																				<td> <a href="../elements/id-309d0d5b964141a98760e77437a0a40f.html" target="element"> Importeren externe bronnen (CMDB) </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-d2597afbafc8432faf0260e08dc4d67f.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-d2597afbafc8432faf0260e08dc4d67f.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+																				<td> <a href="../elements/id-43574686df58458ab6ced7f8cfca670c.html" target="element"> AI advisering </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-7a6b6637871b45999cce6027dd26fe23.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-7a6b6637871b45999cce6027dd26fe23.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+																				<td> <a href="../elements/id-377a67fdffb24747b693dfce70eeeccc.html" target="element"> Review-score pakketten </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-bdeb2649bbfa4174ba6b11be70baebdd.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-bdeb2649bbfa4174ba6b11be70baebdd.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-739ebc41c7a946c2959e03f19e9af84f.html" target="element"> Gebruik wensen </a> </td>
+																				<td> <a href="../elements/id-6b9bdddb61d54f34842191fbc269b0ec.html" target="element"> Tonen koppelingendiagram </a> </td>
+																			</tr>
+
+													
+																			<tr>
+																				<td> <a href="../elements/id-a2e2d65effda4bc98d42d1e5c1596bf0.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-a2e2d65effda4bc98d42d1e5c1596bf0.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-84b7b076b34042d38956429a29e740e4.html" target="element"> Aanbod wensen </a> </td>
+																				<td> <a href="../elements/id-347f18e876a64450b8fb3d78037f196c.html" target="element"> Vergelijken pakketten </a> </td>
+																			</tr>
+
+													
+											
+																	<tr>
+																		<td> <a href="../elements/id-78957e6ad7c24d8a8b233c52358d43f0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-78957e6ad7c24d8a8b233c52358d43f0.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element"> IBD wensen </a> </td>
+																		<td> <a href="../elements/id-dfd26c380f3147049b6745322ce79363.html" target="element"> BIO eisen en compliancy </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-993755a9512a4b59965e68230eed0451.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-993755a9512a4b59965e68230eed0451.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element"> IBD wensen </a> </td>
+																		<td> <a href="../elements/id-d501c954dc7745468c63cd75fc3ec6a7.html" target="element"> Kwetsbaarheden notificatie </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-da442b44f61d4f71a10a4b729910a459.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-da442b44f61d4f71a10a4b729910a459.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element"> IBD wensen </a> </td>
+																		<td> <a href="../elements/id-e7f235f5ed23424f98d11cfd248e3a1e.html" target="element"> Delen verklaringen en overeenkomsten </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b2438c7729b94f9ba46406e308e6784c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b2438c7729b94f9ba46406e308e6784c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-551aefaf65b4415bb5bdf325da58103f.html" target="element"> IBD wensen </a> </td>
+																		<td> <a href="../elements/id-d0f58c625f0c4dce9c82a1bcff0508aa.html" target="element"> Genereren van register van verwerkingen </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-53fd214fcfa64083a0c58b1612b52d50.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-53fd214fcfa64083a0c58b1612b52d50.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-e2a18227c7ff4540be71497bb264ad71.html" target="element"> Beheren content en configuratie wensen </a> </td>
+																		<td> <a href="../elements/id-26685e4c2f914b87b1c8b6108132c767.html" target="element"> Zoeken configureren </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e749ceb73520467c80afe0ac35e129b6.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e749ceb73520467c80afe0ac35e129b6.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-e2a18227c7ff4540be71497bb264ad71.html" target="element"> Beheren content en configuratie wensen </a> </td>
+																		<td> <a href="../elements/id-e4be25057d1e488698ef48b24225bf9f.html" target="element"> Startpagina doelgroep </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-fd271a60d1ee471cb114bc02cbc062ca.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fd271a60d1ee471cb114bc02cbc062ca.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-531b0f1beb174b8c8cf7a6850698104b.html" target="element"> Commen Ground wensen </a> </td>
+																		<td> <a href="../elements/id-8c5674f6bf894a91b0e4b5370aad673f.html" target="element"> Aansluiting op doelen en principes </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-5ac382c552cf42d6bf95c5a022078075.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5ac382c552cf42d6bf95c5a022078075.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-531b0f1beb174b8c8cf7a6850698104b.html" target="element"> Commen Ground wensen </a> </td>
+																		<td> <a href="../elements/id-b217f9e6af6f4638955acaec5b86b1a3.html" target="element"> Registreren softwarearchitectuur oplossing </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-b124c324ea214566aeae07580b6b050e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b124c324ea214566aeae07580b6b050e.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-3fc4cfd9ade642f88bee62b6c91e946b.html" target="element"> GT inkoop wensen </a> </td>
+																		<td> <a href="../elements/id-72453465fcfe46e1a6688d69bb756db9.html" target="element"> Registreren collectieve afspraken met leveranciers </a> </td>
+																	</tr>
+
+											
+											<!-- DEBUG: Skipping element from class com.archimatetool.model.impl.DiagramModelGroup -->
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

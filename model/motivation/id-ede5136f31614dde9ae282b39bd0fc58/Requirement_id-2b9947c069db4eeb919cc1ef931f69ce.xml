@@ -24,4 +24,7 @@
   <properties
       key="Prioriteit"
       value="Could have"/>
+  <properties
+      key="Object ID"
+      value="786e450a-8e37-418f-b159-1f7413b40c33"/>
 </archimate:Requirement>

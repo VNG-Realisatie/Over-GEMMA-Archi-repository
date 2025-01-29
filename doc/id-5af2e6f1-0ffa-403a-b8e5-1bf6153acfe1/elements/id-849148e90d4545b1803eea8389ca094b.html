@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Informatiemanager</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Informatiemanager</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessRole"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessRole" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>Object ID</td><td class="convertlinks no-margin" style="white-space:pre-wrap">fb6969bd-23cc-45e1-bb84-59e540dfcf0a</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-f7a79951d027473d8ec5fc81574201c8">
+																	<td><a href="../views/id-f7a79951d027473d8ec5fc81574201c8.html" target="view" title="GEMMA doelgroepen en VNG persona's"> GEMMA doelgroepen en VNG persona's </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-5da89e1e858b46a19a0e99cbd45c5de8">
+																	<td><a href="../views/id-5da89e1e858b46a19a0e99cbd45c5de8.html" target="view" title="Informatiemanager"> Informatiemanager </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-377357a26e0740ada519ed5239df4903.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AccessRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-0f4ff67804c04be78f0bfa5cc4751918.html" target="element"> Architectuurvisie</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-b3bb79bb051d42c7892211ca53328b88.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AccessRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-46d5e6f90a2f445cbdb53e227df992fc.html" target="element"> VNG-projecten</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-ee5de0e7bd334bdeac7cee65440b640a.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AccessRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-5fefec76f88f41999d9b2edfba873ab8.html" target="element"> Thema-architecturen</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-fca7922dd00e419d8c6b0b65298b87bc.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AccessRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-3663d61b6d024c2a8b8df7a2ee576734.html" target="element"> Wat is GEMMA</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-fef6f934e476482fbb19ce83ccec05cc.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AccessRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-889ee8c3.html" target="element"> Achitectuurprincipes</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-77c17073bf1946148496588bf986c1e1.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-SpecializationRelationship" /></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+											<td><a href="../elements/id-d7869a8673a14683919898e8e714e017.html" target="element"> Sturende strateeg</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/id-06f6608c5e714154ab1f759e8a5dec96.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AssociationRelationship" /></td>
+											<td><a href="../elements/id-57d329773b76459096348440e34c6866.html" target="element"> Doelgroepen</a></td>
+											<td><a href="../elements/id-849148e90d4545b1803eea8389ca094b.html" target="element"> Informatiemanager</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

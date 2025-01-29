@@ -24,4 +24,7 @@
   <properties
       key="Prioriteit"
       value="Eis"/>
+  <properties
+      key="Object ID"
+      value="7bfcb713-cc18-4e95-84b0-b2a944bba8b3"/>
 </archimate:Requirement>

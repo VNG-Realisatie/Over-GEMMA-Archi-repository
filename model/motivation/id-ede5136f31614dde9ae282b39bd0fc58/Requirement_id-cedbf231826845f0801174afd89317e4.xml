@@ -27,4 +27,7 @@
   <properties
       key="Toelichting"
       value="Deze ligt mogelijk buiten scope van de Softwarecatalogus. Doelgroep van deze informatie is ontwikkelaars en technisch applicatie beheerders die bediend worden met GitHub en developer.overheid.nl. De softwarecatalogus is gericht op architecten, informatiemanagers en mogelijk CISO's en inkopers."/>
+  <properties
+      key="Object ID"
+      value="d89d8137-b11f-4a97-8201-605c3f7cb6a0"/>
 </archimate:Requirement>
