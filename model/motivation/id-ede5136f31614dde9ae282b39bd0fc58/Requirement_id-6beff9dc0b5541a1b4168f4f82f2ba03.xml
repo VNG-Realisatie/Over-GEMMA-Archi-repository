@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerking registreert"
+    id="id-6beff9dc0b5541a1b4168f4f82f2ba03"
+    documentation="Als gebruik-beheerder van een samenwerkingsverband wil ik softwarepakketten kunnen opvoeren voor de gemeenten waarvoor we werken, zodat deze gemeenten een volledig applicatieportfolio hebben, inclusief de uitbestede diensten.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="39"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren gebruikte pakketten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

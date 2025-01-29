@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoeken en raadplegen gebruikte pakketten"
+    id="id-8ed83c6799bb4450b98e145ea9677c4b"
+    documentation="Als gebruik-raadpleger wil ik kunnen zoeken en filteren in alle gebruikte pakketten, zodat ik inzicht krijg in wat andere gemeenten gebruiken en ik referenties kan vinden voor het stellen van vragen">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="32"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Raadplegen gebruik"/>
+  <properties
+      key="Rol"
+      value="Gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband, VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

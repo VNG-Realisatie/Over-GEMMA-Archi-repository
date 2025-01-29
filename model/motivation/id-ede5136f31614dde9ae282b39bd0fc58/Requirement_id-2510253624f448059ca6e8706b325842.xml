@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review-score pakketten (46)"
+    id="id-2510253624f448059ca6e8706b325842"
+    documentation="Als gebruik-beheerder wil ik aan pakketten een rating en/of testimonial (score) kunnen geven,  zodat andere (potentiele) gebruiker deze kunnen meenemen bij het maken van een keuze">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="46"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Review-score pakketten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

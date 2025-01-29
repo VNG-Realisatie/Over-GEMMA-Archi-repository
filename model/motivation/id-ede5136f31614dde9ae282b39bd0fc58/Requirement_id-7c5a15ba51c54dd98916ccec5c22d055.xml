@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen statistieken gebruik"
+    id="id-7c5a15ba51c54dd98916ccec5c22d055"
+    documentation="Als gebruik-raadpleger wil ik statistieken kunnen zien over mijn pakketoverzicht en hoe dit zich verhoudt tot andere gemeenten, zodat ik mijn informatievoorziening kan verbeteren. Suggesties voor statistieken zijn: aantal pakketten met einde ondersteuning, pakketoverzichten die op het mijne lijken, voortgang van de cloudtransitie, aantal sterren, etc.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="42"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Tonen statistieken gebruik"/>
+  <properties
+      key="Rol"
+      value="Gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

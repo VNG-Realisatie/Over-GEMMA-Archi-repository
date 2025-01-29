@@ -1,0 +1,36 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eerste account voor organisatie"
+    id="id-0538f99acc29477598dcb381368accd9"
+    documentation="Als functioneel beheerder wil ik het eerste (beheer)account aanmaken of fiateren voor een organisatie, opdat de relevante gebruikers de juiste toegangsrechten hebben tot de softwarecatalogus">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="80"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegangsbeveiliging"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren gebruikers en rollen"/>
+  <properties
+      key="Rol"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="Gerelateerde stories"
+      value="1"/>
+  <properties
+      key="In huidige swc"
+      value="Ja"/>
+  <properties
+      key="Reden Eis"
+      value="Huidige swc"/>
+</archimate:Requirement>

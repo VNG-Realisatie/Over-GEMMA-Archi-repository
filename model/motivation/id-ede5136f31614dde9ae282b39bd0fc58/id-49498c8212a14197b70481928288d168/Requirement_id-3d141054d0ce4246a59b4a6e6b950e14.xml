@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modulariteit"
+    id="id-3d141054d0ce4246a59b4a6e6b950e14"
+    documentation="Proceslogica en bedrijfsregels zijn los van elkaar en los van de interactie naar gebruikers instelbaar.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="96"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Onderhoudbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Modulariteit"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren met tabel (19)"
+    id="id-f6450d3357424fa993b65f354541e138"
+    documentation="Als aanbod- en gebruik-beheerder wil ik mijn pakketoverzicht, koppelingen, en portfolio kunnen beheren in een overzichtelijke tabel, zodat ik met minimale inspanning en goed overzicht wijzigingen kan aanbrengen.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="19"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren met tabel"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+  <properties
+      key="Gerelateerde stories"
+      value="3"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanpasbaarheid"
+    id="id-214ff30470f84fa6a4f74095a8500694"
+    documentation="Softwareplatform&#xA;- De Softwarecatalogus wordt gerealiseerd met open source software componenten&#xA;- De gebruikte ‘technologie stack’ bestaat uit gangbare componenten met een levendige community&#xA;- Er wordt altijd gebruik gemaakt van door de community supported versies.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="99"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Overdraagbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Aanpasbaarheid"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

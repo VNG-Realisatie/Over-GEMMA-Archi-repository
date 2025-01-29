@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren ondersteuning standaarden"
+    id="id-938fcb0f22c14916871070f01215ae9b"
+    documentation="Als aanbod-beheerder wil ik kunnen registreren welke standaarden door mijn pakket worden ondersteund en eventueel testrapporten beschikbaar stellen, zodat gebruikers deze informatie kunnen inzien en erop kunnen zoeken en filteren.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="4"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren aangeboden pakketten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren content"
+    id="id-4f2ccb972ca74b218bcbf8372bc6472b"
+    documentation="Als functioneel beheerder wil ik verschillende soorten content (tekst, video, nieuwsberichten, documenten, etc.) kunnen publiceren, zodat ik gebruikers kan informeren over de softwarecatalogus en hen uitleg kan geven over hoe deze te gebruiken.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="24"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Beheren content en configuratie"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren content"/>
+  <properties
+      key="Rol"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren gebruik API (107)"
+    id="id-7df5c627e5774495ab303bd6feabf5b7"
+    documentation="Als ontwikkelaar wil ik via een beveiligde, besloten API gebruiksinformatie in de Softwarecatalogus kunnen registreren, zodat ik deze informatie vanuit bestaande bronnen kan repliceren of bijwerken">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="107"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="API's"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren gebruik API"/>
+  <properties
+      key="Rol"
+      value="Ontwikkelaar"/>
+  <properties
+      key="Organisatie"
+      value="Geïnteresseerde organisatie"/>
+  <properties
+      key="Prioriteit"
+      value="Could have"/>
+  <properties
+      key="Gerelateerde stories"
+      value="8"/>
+</archimate:Requirement>

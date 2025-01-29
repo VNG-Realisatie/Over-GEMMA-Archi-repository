@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren koppelingen"
+    id="id-fec3e05dc2fa4a3dba3d3a718f2ceb23"
+    documentation="Als gebruik-beheerder wil ik koppelingen kunnen registreren tussen applicaties en/of buitengemeentelijke voorzieningen, zodat ik kan zien over welke koppelingen data wordt gedeeld en de kennis over bestaande koppelingen kan worden gedeeld.  Let op! Op dit moment worden koppelingen geregistreerd tussen pakketversie, registreren op versies geeft veel beheer en weinig extra inzicht">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="40"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren koppelingen"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

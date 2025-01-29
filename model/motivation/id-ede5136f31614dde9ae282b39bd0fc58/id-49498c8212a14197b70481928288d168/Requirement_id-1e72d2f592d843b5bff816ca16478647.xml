@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Techniek toekomstvast"
+    id="id-1e72d2f592d843b5bff816ca16478647"
+    documentation="De techniek (programmeertaal, packages, tooling) die gebruikt wordt voor de ontwikkeling van de nieuwe softwarecatalogus, is toekomstvast. Er zijn in Nederland minimaal 100  ontwikkelaars die deze tooling gebruikt en hier kennis van heeft">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="98"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Onderhoudbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Techniek"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

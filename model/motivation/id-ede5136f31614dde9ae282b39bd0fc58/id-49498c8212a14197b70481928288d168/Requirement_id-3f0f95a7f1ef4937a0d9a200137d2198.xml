@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Testen"
+    id="id-3f0f95a7f1ef4937a0d9a200137d2198"
+    documentation="De opgeleverde software wordt door de ontwikkelpartij eerst getest volledig getest,  zodat bij oplevering alle (eerder) ontwikkelde functionaliteit werkt.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="103"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Werkwijze"/>
+  <properties
+      key="Functionaliteit"
+      value="Testen"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raadplegen aanbod API (104)"
+    id="id-eb546d6b82804fbc9842abf5ea12a595"
+    documentation="Als ontwikkelaar wil ik via een veilige, publieke API toegang hebben tot aanbodinformatie uit de Softwarecatalogus—zoals aanbiedende organisaties, aangeboden softwarepakketten, ondersteunde standaarden en andere relevante eigenschappen—zodat ik deze informatie in mijn eigen toepassingen kan integreren en benutten.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="104"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="API's"/>
+  <properties
+      key="Functionaliteit"
+      value="Raadplegen aanbod API"/>
+  <properties
+      key="Rol"
+      value="Ontwikkelaar"/>
+  <properties
+      key="Organisatie"
+      value="Geïnteresseerde organisatie"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

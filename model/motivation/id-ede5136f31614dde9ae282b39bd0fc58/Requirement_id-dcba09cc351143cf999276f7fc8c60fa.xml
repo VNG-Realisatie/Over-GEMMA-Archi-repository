@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raadplegen aanbod (1)"
+    id="id-dcba09cc351143cf999276f7fc8c60fa"
+    documentation="Als aanbod-raadpleger wil ik pakketten kunnen zoeken en filteren op ondersteuning van verplichte en aanbevolen standaarden, zodat ik pakketten kan selecteren die goed samenwerken met de door mij gebruikte pakketten en voorzieningen.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="1"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod"/>
+  <properties
+      key="Functionaliteit"
+      value="Raadplegen aanbod"/>
+  <properties
+      key="Rol"
+      value="Aanbod-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeenten, publiek"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

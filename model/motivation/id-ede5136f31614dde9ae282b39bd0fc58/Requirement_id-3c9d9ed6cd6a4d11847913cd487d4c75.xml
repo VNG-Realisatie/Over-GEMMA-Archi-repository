@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren koppelingen met standaard"
+    id="id-3c9d9ed6cd6a4d11847913cd487d4c75"
+    documentation="Als gebruik-beheerder wil ik bij een koppeling kunnen aangeven of er gebruik wordt gemaakt van een standaard en een toelichting kunnen toevoegen, zodat ik kennis over de koppeling kan delen met collega's en andere gemeenten.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="41"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren koppelingen"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

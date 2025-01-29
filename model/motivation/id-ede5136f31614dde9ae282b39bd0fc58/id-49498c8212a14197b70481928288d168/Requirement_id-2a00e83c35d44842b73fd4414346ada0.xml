@@ -1,0 +1,24 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webstatistieken"
+    id="id-2a00e83c35d44842b73fd4414346ada0"
+    documentation="Als functioneel beheerder wil ik inzicht in het gebruik van de softwarecatalogus door middel van een open source en confrom privacy omgeving ingericht webstatistiekenpakket, zoals Matomo.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="97"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Onderhoudbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Techniek"/>
+  <properties
+      key="Organisatie"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

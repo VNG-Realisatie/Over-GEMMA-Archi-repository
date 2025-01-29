@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren en raadplegen diensten (18)"
+    id="id-1c1ee2efc52c4dda84817f3ea2d23f3e"
+    documentation="Als gebruik-beheerder wil ik mijn dienstverleners een rating of testimonial kunnen geven, zodat andere gebruikers dit kunnen meenemen bij het kiezen van een leverancier.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="18"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren en raadplegen diensten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

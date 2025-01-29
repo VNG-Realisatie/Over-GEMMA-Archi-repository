@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren en raadplegen diensten (16)"
+    id="id-1ab3c2d78f2041b49074118985ed2f5e"
+    documentation="Als aanbod-beheerder wil ik voor een pakket, van mezelf of een andere aanbieder, kunnen vastleggen welke diensten ik bied voor dit pakket, zodat aan gebruikers per pakket een overzicht kan worden getoond van beschikbare diensten en dienstverleners">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="16"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren en raadplegen diensten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

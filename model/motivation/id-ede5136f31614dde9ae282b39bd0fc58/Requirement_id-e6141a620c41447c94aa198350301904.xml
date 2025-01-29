@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren filters"
+    id="id-e6141a620c41447c94aa198350301904"
+    documentation="Als functioneel beheerder wil ik filteropties in overzichten kunnen toevoegen, aanpassen, of verwijderen, evenals de volgorde hiervan kunnen bepalen, zodat ik de gebruikerservaring kan verbeteren.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="25"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Beheren content en configuratie wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren configuratie"/>
+  <properties
+      key="Rol"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

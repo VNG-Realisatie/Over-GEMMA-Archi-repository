@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsbeveiliging"
+    id="id-b1436a24c83748fb88a2514445947b1f"
+    documentation="Voor het beheren van gegevens hebben alleen geautoriseerde gebruikers toegang tot de Softwarecatalogus&#xA;Inloggen met 2 factor authenticatie&#xA;- Een username, password (iets weten)&#xA;- Een (TOTP) token, gegenereerd met een app op eigen telefoon of laptop (iets hebben)&#xD;&#xA;&#xA;Ondersteuning voor role based access control.&#xA;- Beheerders krijgen toegang tot de beheerschermen op basis van een rol én een organisatie&#xA;Mogelijke rollen zijn bijvoorbeeld: Aanbod- en gebruik-beheerder, Ciso, …">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="92"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

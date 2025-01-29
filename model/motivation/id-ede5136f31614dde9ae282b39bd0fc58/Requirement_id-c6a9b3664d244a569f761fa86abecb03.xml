@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren gebruikers delegeren naar organisatie"
+    id="id-c6a9b3664d244a569f761fa86abecb03"
+    documentation="Als beheerder wil ik dat nieuwe gebruikers van bestaande organisaties zich kunnen aanmelden bij die organisatie, zodat de beheerder van de organisatie hun aanmelding kan fiatteren. Hierdoor wordt de beheerlast geminimaliseerd, wordt misbruik voorkomen, kunnen aanmeldingen snel worden verwerkt, en wordt de kwaliteit van informatie verbeterd.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="82"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegangsbeveiliging"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren gebruikers en rollen"/>
+  <properties
+      key="Rol"
+      value="Functioneel, aanbod en gebruiks beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband , VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="Gerelateerde stories"
+      value="1"/>
+</archimate:Requirement>

@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delen verklaringen en overeenkomsten (57)"
+    id="id-5727a58d85814cfd89ef089783a9b030"
+    documentation="Als IBD-beheerder wil ik kunnen monitoren of er voor door gemeenten gebruikte pakketten met een DPIA verplichting ook een (gedeelde) DPIA verklaring beschikbaar is, opdat ik gemeenten bij het maken van DPIA's  kan ondersteunen">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="57"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Delen verklaringen en overeenkomsten"/>
+  <properties
+      key="Rol"
+      value="IBD-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+  <properties
+      key="Gerelateerde stories"
+      value="5"/>
+</archimate:Requirement>

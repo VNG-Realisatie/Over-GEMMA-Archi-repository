@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorverwijzen naar GEMMA online"
+    id="id-42df8b2cec9246d2ac468647adbed4cc"
+    documentation="Als gebruiker van de Softwarecatalogus wil ik vanuit de GEMMA architectuurconcepten (referentiecomponenten, standaarden, etc) worden doorverwezen naar GEMMA online, opdat ik direct toegang heb tot de detail architectuurinformatie">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="76"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Referentiearchitectuur"/>
+  <properties
+      key="Functionaliteit"
+      value="Ontsluiten architectuur concepten"/>
+  <properties
+      key="Rol"
+      value="Alle"/>
+  <properties
+      key="Organisatie"
+      value="Alle"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

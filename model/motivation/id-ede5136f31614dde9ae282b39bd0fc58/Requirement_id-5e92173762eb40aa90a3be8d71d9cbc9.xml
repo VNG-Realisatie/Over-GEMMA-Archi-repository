@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwetsbaarheden notificatie (61)"
+    id="id-5e92173762eb40aa90a3be8d71d9cbc9"
+    documentation="Als IBD-beheerder wil ik de door gemeenten geregistreerde pakketten van een uniek ID voorzien (gebaseerd op NIST CVE), opdat wij eenduidig naar software kunnen verwijzen als we kwetsbaarheden melden of willen bespreken">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="61"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Kwetsbaarheden notificatie"/>
+  <properties
+      key="Rol"
+      value="IBD-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

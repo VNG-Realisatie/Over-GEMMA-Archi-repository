@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filteren pakketoverzicht"
+    id="id-43f8d6f515f747e995c9df0d9f40a200"
+    documentation="Als gebruik-raadpleger wil ik mijn pakketoverzicht kunnen filteren op meerdere eigenschappen, zodat ik een overzichtelijk lijst heb die ik kan plotten op architectuurplaten of kan exporteren. Het filteren van producten die tot een samenwerkingsverband behoren is een expliciete wens van gemeenten.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="31"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Filteren pakketoverzicht"/>
+  <properties
+      key="Rol"
+      value="Gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

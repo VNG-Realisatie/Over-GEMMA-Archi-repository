@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overnemen toegevoegd gebruik"
+    id="id-e3a8e03be7784cdf9c0b7d6ff8fd537a"
+    documentation="Als aanbod-beheerder zie ik de door gebruik-beheerders onder mijn organisatie toegevoegde pakketten, opdat ik het beheer van deze registratie kan overnemen, aanvullen en verbeteren.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="6"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren aangeboden pakketten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="Gerelateerde stories"
+      value="4"/>
+</archimate:Requirement>

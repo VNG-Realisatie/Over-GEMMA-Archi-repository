@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren aanvullende organisatieinformatie"
+    id="id-bfc325674848400fb4c0077f91c65bb4"
+    documentation="Als aanbod-beheerder wil ik aanvullende informatie over mijn organisatie kunnen delen, een overzicht van de diensten, en links naar ondersteunende pagina's (zoals het support-portaal en handleidingen), zodat gebruikers een compleet beeld krijgen van onze organisatie en de kwaliteit van ons aanbod.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="71"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Organisatie"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren extra organisatieinformatie"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, open source community"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

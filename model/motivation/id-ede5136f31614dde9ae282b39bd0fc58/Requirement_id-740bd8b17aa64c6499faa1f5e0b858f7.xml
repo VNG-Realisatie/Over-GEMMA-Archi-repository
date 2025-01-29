@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren cloud-provider (14)"
+    id="id-740bd8b17aa64c6499faa1f5e0b858f7"
+    documentation="Als aanbod-beheerder wil ik bij SaaS voorzieningen kunnen aangeven bij  welke cloud-provider (Microsoft, Azure, de Gemeente,etc.) deze draait, zodat ik kan aantonen waar de data van mijn pakketten is opgeslagen en kan aantonen dat we voldoen aan de wetgeving.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="14"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren cloud-provider"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

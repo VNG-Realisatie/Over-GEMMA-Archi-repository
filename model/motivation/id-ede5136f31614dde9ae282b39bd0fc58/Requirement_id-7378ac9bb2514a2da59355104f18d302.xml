@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers gekoppeld aan organisatie"
+    id="id-7378ac9bb2514a2da59355104f18d302"
+    documentation="Als functioneel beheerder wil ik dat aanbod, gebruik-beheerder en gebruik-raadpleger altijd gekoppeld zijn aan een organisatie, zodat duidelijk is  waar deze gebruiker van is. Een ongekoppelde gebruiker heeft dezelfde toegang als een bezoeker zonder gebruikersaccount.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="81"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegangsbeveiliging"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren gebruikers en rollen"/>
+  <properties
+      key="Rol"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

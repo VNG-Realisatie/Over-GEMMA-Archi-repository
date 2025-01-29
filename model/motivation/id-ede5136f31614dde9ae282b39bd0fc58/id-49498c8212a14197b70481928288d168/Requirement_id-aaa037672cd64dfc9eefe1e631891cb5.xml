@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Installeerbaarheid"
+    id="id-aaa037672cd64dfc9eefe1e631891cb5"
+    documentation="Componenten zijn out-of-the-box geschikt voor installatie binnen een gestandaardiseerde (cloud-)infrastructuur platform (bijvoorbeeld Haven[1]). &#xA;- De componenten zijn geautomatiseerd te testen en deployen middels een CI/CD pipeline&#xA;- Het doorlopen van de pipeline duurt max 1 uur&#xA;- De voorziening dient als container op (bijvoorbeeld een kubernetes) infrastructuur te kunnen worden gedeployed">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="100"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Overdraagbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Installeerbaarheid"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

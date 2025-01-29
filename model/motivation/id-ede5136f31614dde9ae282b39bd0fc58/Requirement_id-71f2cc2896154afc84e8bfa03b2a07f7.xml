@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen statistieken (20)"
+    id="id-71f2cc2896154afc84e8bfa03b2a07f7"
+    documentation="Als raadpleger wil ik statistieken zien over de inhoud van de Softwarecatalogus, opdat ik inzicht krijg in het aanbod en het gebruik van pakketten. Gebruik-raadplegers mogen gemeente-specifieke informatie zien, aanbod-raadplegers niet.&#xA;Denk aan aantal bezoekers (per pakket), aantal leveranciers, aantal gemeenten/samenwerking, voortgang gemeenten (sterren), marktverdeling leveranciers, adoptie van standaarden, etc.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="20"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Tonen statistieken"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband, VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

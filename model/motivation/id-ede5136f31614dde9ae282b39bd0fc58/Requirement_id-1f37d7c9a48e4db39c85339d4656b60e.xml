@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren contactpersoon pakket"
+    id="id-1f37d7c9a48e4db39c85339d4656b60e"
+    documentation="Als aanbod-beheerder wil ik voor elk pakket een contactpersoon kunnen aanwijzen, zodat gemeenten direct in contact kunnen komen met de verantwoordelijke persoon voor dat pakket.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="3"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren aangeboden pakketten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

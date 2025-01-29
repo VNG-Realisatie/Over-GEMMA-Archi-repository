@@ -1,0 +1,33 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIO eisen en compliancy (49)"
+    id="id-7d45287d9b7e48e7b76addff1677ce02"
+    documentation="Als aanbod-beheerder wil ik per pakket registreren welke (beveiligings)maatregelen ik heb genomen voor de van toepassing zijn de BIO eisen, opdat ik kan aantonen dat mijn pakket voldoet aan de BIO">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="49"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="BIO eisen en compliancy"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband, Leverancier"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+  <properties
+      key="Gerelateerde stories"
+      value="7"/>
+  <properties
+      key="Toelichting"
+      value="Dit vereist een uitbreiding van de GEMMA. &#xA;Als IBD wil ik dat per referentiecomponent wordt vastgelegd welke BIO-eisen gelden en welke (beveiligings)maatregelen van toepassing zijn, zodat leveranciers en gemeenten in de softwarecatalogus conform de BIO kunnen registreren welke maatregelen zij hebben genomen."/>
+</archimate:Requirement>

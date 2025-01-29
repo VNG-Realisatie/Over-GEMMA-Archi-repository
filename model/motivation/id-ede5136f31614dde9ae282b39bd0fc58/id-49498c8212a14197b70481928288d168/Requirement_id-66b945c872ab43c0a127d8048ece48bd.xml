@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik informatiemodel voorzieningencatalogus"
+    id="id-66b945c872ab43c0a127d8048ece48bd"
+    documentation="De Softwarecatalogus en de Softwarecatalogus API worden gebaseerd op het informatiemodel voorzieningencatalogus">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="93"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Informatiemodel"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

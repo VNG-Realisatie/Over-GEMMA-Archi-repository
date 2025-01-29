@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker toegang tot meerdere organisaties"
+    id="id-ef61d50ed5954460bc14e97acd510300"
+    documentation="Als gebruik-beheerder wil ik voor meerdere organisaties met één account de pakketoverzichten kunnen bewerken, opdat ik zonder uit -en inloggen kan schakelen tussen organisaties.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="83"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegangsbeveiliging"/>
+  <properties
+      key="Functionaliteit"
+      value="Beheren gebruikers en rollen"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

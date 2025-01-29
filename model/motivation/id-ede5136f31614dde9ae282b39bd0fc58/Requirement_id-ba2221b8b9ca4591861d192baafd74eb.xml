@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migreren data huidige SWC naar nieuwe database"
+    id="id-ba2221b8b9ca4591861d192baafd74eb"
+    documentation="Als aanbod- en gebruik-beheerder van de huidige Softwarecatalogus wil ik mijn reeds geregistreerde gegevens weer zien in de nieuwe Softwarecatalogus, zodat ik deze niet opnieuw hoef in te voeren.&#xA;&#xA;De data-migratie is beschreven in het Word-document Programma van Eisen Softwarecatalogus">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="30"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Data-migratie"/>
+  <properties
+      key="Functionaliteit"
+      value="Migreren data huidige SWC naar nieuwe database"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

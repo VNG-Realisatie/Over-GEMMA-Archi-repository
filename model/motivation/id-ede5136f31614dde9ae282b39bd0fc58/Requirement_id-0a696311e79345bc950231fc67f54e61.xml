@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren cloud-provider (15)"
+    id="id-0a696311e79345bc950231fc67f54e61"
+    documentation="Als gebruik-beheerder wil ik kunnen registreren waar mijn pakketten draaien (on-premise, bij gecontracteerde cloud-providers), opdat er inzicht is in de cloud-transitie van gemeenten en samenwerkingen en de Ciso kan aantonen dat we voldoen aan wetgeving">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="15"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren cloud-provider"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

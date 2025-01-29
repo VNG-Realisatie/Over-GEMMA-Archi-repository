@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-mail standaarden"
+    id="id-3a5c4e75d378434da1955b5ade852d3d"
+    documentation="De standaarden DKIM en DMARC zijn vereist voor het versturen van e-mails. Bijvoorbeeld voor het ondersteunen van het proces voor als je je wachtwoord bent vergeten&#xD;&#xA;&#xA;- DKIM faciliteert van het vaststellen van organisatorische herkomst voor e-mail afkomstig van overheidsdomeinen, als deze over een onbeveiligde, publieke internetverbinding wordt verstuurd wanneer verdere authenticatie ontbreekt.&#xD;&#xA;&#xA;- DMARC is een standaard die het voor organisaties mogelijk maakt om te bepalen hoe e-mailproviders, omgaan met e-mail waarvan niet kan worden vastgesteld dat deze afkomstig is van het eigen domein. Hierdoor kunnen organisaties voorkomen dat anderen e-mails versturen namens het e-maildomein van de organisatie.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="94"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Mail"/>
+  <properties
+      key="Functionaliteit"
+      value="Standaarden"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

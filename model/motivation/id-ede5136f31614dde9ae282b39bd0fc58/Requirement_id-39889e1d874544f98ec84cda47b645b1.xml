@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI advisering (43)"
+    id="id-39889e1d874544f98ec84cda47b645b1"
+    documentation="Als gebruik-raadpleger wil ik middels AI advisering op mijn applicatielandschap, opdat ik wordt geadviseerd in welke vervolgacties ik kan ondernemen (bijvoorbeeld een gezamenlijke inkoopactie,welke gemeente lijkt op mijn gemeente, advisering op passende pakketten voor onze organisatie, voor welke referentiecomponenten of functionaliteit ik nog geen pakketten heb , ..)">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="43"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="AI advisering"/>
+  <properties
+      key="Rol"
+      value="Gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dubbel met 68"
+    id="id-166d2c953d354112b1e37c22a33ed177"
+    documentation="Als gebruik-raadpleger wil ik een overzicht met zoek- en filteropties van alle organisaties die pakketten of diensten gebruiken, opdat ik deze kan selecteren en het gebruik kan bekijken.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="69"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Organisatie"/>
+  <properties
+      key="Functionaliteit"
+      value="Ontsluiten organisaties"/>
+  <properties
+      key="Rol"
+      value="Gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

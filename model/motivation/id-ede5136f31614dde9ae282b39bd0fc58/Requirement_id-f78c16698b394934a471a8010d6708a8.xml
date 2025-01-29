@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impersonatie (85)"
+    id="id-f78c16698b394934a471a8010d6708a8"
+    documentation="Als functioneel beheerder wil ik me kunnen voordoen als een ander account, opdat ik ondersteuning kan bieden aan een organisatie, zonder te hoeven uit -en in te loggen. (Impersonation)">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="85"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegangsbeveiliging wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Impersonatie"/>
+  <properties
+      key="Rol"
+      value="Functioneel beheerder"/>
+  <properties
+      key="Organisatie"
+      value="VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

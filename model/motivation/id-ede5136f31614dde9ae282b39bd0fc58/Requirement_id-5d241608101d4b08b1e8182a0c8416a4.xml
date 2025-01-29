@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwetsbaarheden notificatie (59)"
+    id="id-5d241608101d4b08b1e8182a0c8416a4"
+    documentation="Als CISO wil ik ons gemeentelijk pakketoverzicht kunnen controleren en vervolgens fiatteren, opdat ik de IBD kan laten weten dat ons pakketoverzicht actueel, juist en compleet is.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="59"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Kwetsbaarheden notificatie"/>
+  <properties
+      key="Rol"
+      value="CISO"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

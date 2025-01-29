@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren aanbod API (106)"
+    id="id-2b9947c069db4eeb919cc1ef931f69ce"
+    documentation="Als ontwikkelaar wil ik via een beveiligde, besloten API aanbodinformatie in de Softwarecatalogus kunnen registreren, zodat ik deze informatie vanuit bestaande bronnen kan repliceren of bijwerken">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="106"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="API's"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren aanbod API"/>
+  <properties
+      key="Rol"
+      value="Ontwikkelaar"/>
+  <properties
+      key="Organisatie"
+      value="Geïnteresseerde organisatie"/>
+  <properties
+      key="Prioriteit"
+      value="Could have"/>
+</archimate:Requirement>

@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren pakketten vanuit aanbod"
+    id="id-0851c2f8cd934342a5f636d6ddef9633"
+    documentation="Als gebruik-beheerder wil ik geregistreerde pakketten kunnen selecteren en toevoegen aan mijn pakketoverzicht, opdat ik inzicht heb en dit kan delen met andere afnemers">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="35"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren gebruikte pakketten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

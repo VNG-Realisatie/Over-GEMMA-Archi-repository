@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren en raadplegen diensten (17)"
+    id="id-56f91a7502a0434e97f042bb0cab59a9"
+    documentation="Als gebruik-beheerder wil ik kunnen registreren welke diensten ik afneem voor de pakketten in mijn pakketoverzicht, zodat ik overzicht heb en kennis over dienstverlening kan delen met andere afnemers.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="17"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren en raadplegen diensten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

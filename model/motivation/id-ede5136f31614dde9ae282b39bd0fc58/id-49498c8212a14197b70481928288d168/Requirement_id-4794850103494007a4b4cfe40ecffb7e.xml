@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback na fout"
+    id="id-4794850103494007a4b4cfe40ecffb7e"
+    documentation="Als gebruiker wil ik op een juiste manier geïnformeerd worden door het systeem wanneer er een fout optreedt en wat de oorzaak hier van is, zodat ik op basis van deze informatie de juiste actie kan inzetten.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="102"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Toegankelijkheid"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren collectieve afspraken met leveranciers (47)"
+    id="id-e9fffdebdd374d95936573a367160fd5"
+    documentation="Als aanbod-raadpleger wil ik kunnen zoeken naar leveranciers en producten waarmee collectieve afspraken zijn gemaakt, zodat ik zekerheid heb. Voor meer informatie over de afspraken worden gemeenten doorverwezen naar de website van GT Inkoop.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="47"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="GT inkoop wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren collectieve afspraken met leveranciers"/>
+  <properties
+      key="Rol"
+      value="Aanbod-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

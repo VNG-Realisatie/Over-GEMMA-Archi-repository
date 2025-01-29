@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren geschikt voor referentiearchitectuur"
+    id="id-90b49e36b36548d19c6a69225f785f0c"
+    documentation="Als aanbod-beheerder wil ik mijn pakketten eenmalig registreren en classificeren op basis van de referentiearchitecturen van de voor mij relevante sector(en), opdat mijn pakket vindbaar is voor afnemers uit meerdere sectoren met hun eigen filteringangen">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="2"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren aangeboden pakketten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

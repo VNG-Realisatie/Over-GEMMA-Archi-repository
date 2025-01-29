@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plotten op views"
+    id="id-661f72e61a5744f4aaf8098aee1ae924"
+    documentation="Als gebruiker wil ik de pakketoverzichten of portfolio's die ik mag inzien, kunnen plotten op een GEMMA-view waarop ik kan inzoomen en die ik kan downloaden als SVG, zodat ik een duidelijk overzicht heb en deze kan gebruiken ter ondersteuning van gesprekken.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="77"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Referentiearchitectuur"/>
+  <properties
+      key="Functionaliteit"
+      value="Plotten op views"/>
+  <properties
+      key="Rol"
+      value="Alle"/>
+  <properties
+      key="Organisatie"
+      value="Alle"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="In huidige swc"
+      value="Ja"/>
+</archimate:Requirement>

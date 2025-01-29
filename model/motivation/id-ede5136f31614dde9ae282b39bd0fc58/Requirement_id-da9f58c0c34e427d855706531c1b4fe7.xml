@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exporteren en importeren (13)"
+    id="id-da9f58c0c34e427d855706531c1b4fe7"
+    documentation="Als aanbod- en gebruik-beheerder wil ik uit de Softwarecatalogus geëxporteerde- en door mij aangepaste gegevens weer kunnen importeren, zodat ik wijzigingen efficiënt kan doorvoeren.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="13"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Exporteren en importeren"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+  <properties
+      key="Gerelateerde stories"
+      value="3"/>
+</archimate:Requirement>

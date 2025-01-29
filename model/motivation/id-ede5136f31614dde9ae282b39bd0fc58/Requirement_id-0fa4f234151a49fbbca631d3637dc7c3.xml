@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren informatie gebruikte pakketten"
+    id="id-0fa4f234151a49fbbca631d3637dc7c3"
+    documentation="Als gebruik-beheerder wil ik alle informatie over mijn applicaties in de softwarecatalogus kunnen invoeren, zodat ik een volledig overzicht heb van mijn applicatielandschap, dat ik kan gebruiken voor marktoriëntatie, architectuur, inkoop en leveranciersvraagstukken.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="37"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Gebruik"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren gebruikte pakketten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

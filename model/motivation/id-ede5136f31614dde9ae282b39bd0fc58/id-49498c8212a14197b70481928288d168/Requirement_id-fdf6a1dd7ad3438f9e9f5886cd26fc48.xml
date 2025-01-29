@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.internet standaarden"
+    id="id-fdf6a1dd7ad3438f9e9f5886cd26fc48"
+    documentation="De site softwarecatalogus.nl gebruikt alle door https://nl.internet.nl/ geteste internetstandaarden op de juiste manier. In de nl.internet.nl websitetest scoort de domeinnaam Softwarecatalogus.nl 100%.">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="91"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Informatiebeveiliging"/>
+  <properties
+      key="Functionaliteit"
+      value="Standaarden"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

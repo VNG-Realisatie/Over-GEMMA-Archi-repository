@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delen verklaringen en overeenkomsten (54)"
+    id="id-30816d595583404488ea70940baca411"
+    documentation="Als aanbod-beheerder wil ik de EDPB/AP-criteria kunnen aanvinken bij mijn pakketten, zodat duidelijk is of er voor mijn pakket sprake is van een DPIA-verplichting volgens de richtlijnen van de European Data Protection Board en de Autoriteit Persoonsgegevens.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="54"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Delen verklaringen en overeenkomsten"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, open source community"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

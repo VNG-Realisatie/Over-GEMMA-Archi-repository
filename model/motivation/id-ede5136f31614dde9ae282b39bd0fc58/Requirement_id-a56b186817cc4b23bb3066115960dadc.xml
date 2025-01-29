@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delen verklaringen en overeenkomsten (55)"
+    id="id-a56b186817cc4b23bb3066115960dadc"
+    documentation="Als gebruik-beheerder wil ik relevante documenten zoals DPIA's, verwerkersovereenkomsten en pentesten kunnen delen, zodat andere gemeenten hier eenvoudig gebruik van kunnen maken om hun eigen processen te verbeteren en te ondersteunen.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="55"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="IBD wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Delen verklaringen en overeenkomsten"/>
+  <properties
+      key="Rol"
+      value="Gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+  <properties
+      key="Gerelateerde stories"
+      value="5"/>
+</archimate:Requirement>

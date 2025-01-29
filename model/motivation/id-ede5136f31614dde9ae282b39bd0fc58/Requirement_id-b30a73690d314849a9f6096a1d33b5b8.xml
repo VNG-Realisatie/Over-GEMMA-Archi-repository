@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren contactpersonen"
+    id="id-b30a73690d314849a9f6096a1d33b5b8"
+    documentation="Als aanbod-beheerder wil ik meerdere contactpersonen kunnen registreren en deze aan specifieke pakketten kunnen koppelen, zodat gebruikersvragen direct bij de juiste persoon terechtkomen en sneller afgehandeld kunnen worden.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="70"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Organisatie"/>
+  <properties
+      key="Functionaliteit"
+      value="Registreren extra organisatieinformatie"/>
+  <properties
+      key="Rol"
+      value="Aanbod-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

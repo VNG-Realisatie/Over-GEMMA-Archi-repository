@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exporteren"
+    id="id-4fbcea92401f4a34bb0fe95568f8b49e"
+    documentation="Als aanbod- en gebruik-beheerder wil ik data vanuit de softwarecatalogus kunnen exporteren , zodat ik deze in een spreadsheet kan bewerken en/of kan gebruiken voor een andere toepassing.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="12a"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Exporteren"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-beheerder"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="Gerelateerde stories"
+      value="3"/>
+</archimate:Requirement>

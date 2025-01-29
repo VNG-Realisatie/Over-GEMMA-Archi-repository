@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advisering op basis van AI (11)"
+    id="id-87b6b32607314734ab119e2b35a7502f"
+    documentation="Als raadpleger wil ik middels AI inzicht krijgen in leveranciers en pakketten, zodat ik advies krijg over ondersteunde standaarden, vaak gebruikte pakketten, en andere relevante inzichten. Voorwaarde is dat er geen inzicht wordt gegeven in het specifieke gebruik van pakketten door gemeenten en samenwerkingsverbanden.">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="11"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Aanbod en gebruik wensen"/>
+  <properties
+      key="Functionaliteit"
+      value="Advisering op basis van AI"/>
+  <properties
+      key="Rol"
+      value="Aanbod- en gebruik-raadpleger"/>
+  <properties
+      key="Organisatie"
+      value="Leverancier, Gemeente, Samenwerkingsverband, VNGR"/>
+  <properties
+      key="Prioriteit"
+      value="Wens"/>
+</archimate:Requirement>

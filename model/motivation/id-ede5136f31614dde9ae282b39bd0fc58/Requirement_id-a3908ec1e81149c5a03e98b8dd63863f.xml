@@ -1,0 +1,27 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen beschrijving bij concept (tooltip/glossary)"
+    id="id-a3908ec1e81149c5a03e98b8dd63863f"
+    documentation="Als gebruiker van de Softwarecatalogus  wil ik waar GEMMA-concepten worden getoond, wil ik dat GEMMA-concepten worden uitgelegd of verklaard, zodat ik in één keer kan zien wat deze inhoud. (Glossary)">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="75"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Referentiearchitectuur"/>
+  <properties
+      key="Functionaliteit"
+      value="Ontsluiten architectuur concepten"/>
+  <properties
+      key="Rol"
+      value="Alle"/>
+  <properties
+      key="Organisatie"
+      value="Alle"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+</archimate:Requirement>

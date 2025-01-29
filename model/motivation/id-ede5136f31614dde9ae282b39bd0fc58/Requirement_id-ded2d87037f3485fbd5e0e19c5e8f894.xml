@@ -1,0 +1,30 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiten architectuur concepten "
+    id="id-ded2d87037f3485fbd5e0e19c5e8f894"
+    documentation="Als gebruiker van de Softwarecatalogus  wil ik beschikken over de GEMMA architectuurconcepten (referentiecomponenten, standaarden, applicatieservices, etc), opdat deze beschikbaar zijn voor het meta-dateren, zoeken en filteren van pakketten en diensten">
+  <properties
+      key="Type requirement"
+      value="Functional"/>
+  <properties
+      key="ReqID"
+      value="74"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Referentiearchitectuur"/>
+  <properties
+      key="Functionaliteit"
+      value="Ontsluiten architectuur concepten"/>
+  <properties
+      key="Rol"
+      value="Alle"/>
+  <properties
+      key="Organisatie"
+      value="Alle"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="In huidige swc"
+      value="Ja"/>
+</archimate:Requirement>

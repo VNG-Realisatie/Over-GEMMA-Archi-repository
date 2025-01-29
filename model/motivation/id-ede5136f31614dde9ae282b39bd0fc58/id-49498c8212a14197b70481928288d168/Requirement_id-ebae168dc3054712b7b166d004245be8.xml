@@ -1,0 +1,24 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegankelijkheid"
+    id="id-ebae168dc3054712b7b166d004245be8"
+    documentation="De softwarecatalogus voldoet aan de eisen van digitoegankelijk (https://www.digitoegankelijk.nl/)">
+  <properties
+      key="Type requirement"
+      value="Non functional"/>
+  <properties
+      key="ReqID"
+      value="89"/>
+  <properties
+      key="Functionaliteitgroep"
+      value="Bruikbaarheid"/>
+  <properties
+      key="Functionaliteit"
+      value="Toegankelijkheid"/>
+  <properties
+      key="Prioriteit"
+      value="Eis"/>
+  <properties
+      key="Reden Eis"
+      value="Wettelijke eis"/>
+</archimate:Requirement>
