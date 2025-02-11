@@ -1,9 +1,0 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheerrol (applicatie-, technisch beheer)"
-    id="id-f3695774d69849c2ba11abcc5566a8e2"
-    documentation="Indeling van het type (beheer)diensten die een leverancier levert&#xD;&#xA;&#xD;&#xA;Voorbeelden: Applicatiebeheer, Technisch beheer, Consultancy, ...">
-  <properties
-      key="Object ID"
-      value="141881f8-34a6-4a1d-8a26-49bd40d9fd6a"/>
-</archimate:BusinessRole>

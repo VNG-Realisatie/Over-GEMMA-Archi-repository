@@ -1,9 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business capability"
-    id="id-68a6eb922ade4d359ed72bb2e90a8cbd"
-    documentation="A Capability focuses on business outcomes. It provides a high-level view of the current and desired abilities of an organization, in relation to its strategy and its environment. They are realized by various elements (people, processes, systems). Capabilities may also have serving relationships; for example, to denote that one capability contributes to another.&#xD;&#xA;&#xD;&#xA;Examples:&#xD;&#xA;&#xD;&#xA;Digital Customer Management, Data Analysis, Product Management, Productise Open Source Software.&#xD;&#xA;">
-  <properties
-      key="Object ID"
-      value="cb02e38e-b814-4079-ad41-fc92ee4a4ff5"/>
-</archimate:Capability>

@@ -50,18 +50,6 @@
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-f1748015d76e49888033f6d1102997d5">
-      <bounds
-          x="20"
-          y="50"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-26026.xml#id-26026"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-33258401a521468dab2986d603fae68e">
       <bounds
           x="181"
@@ -83,18 +71,6 @@
         y="500"
         width="461"
         height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-b5ca1507f007433ea47001dd87b17c37">
-      <bounds
-          x="20"
-          y="60"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-e0f5f2226e764a9cbc934184a361826d.xml#id-e0f5f2226e764a9cbc934184a361826d"/>
-    </children>
   </children>
   <properties
       key="drivingView"

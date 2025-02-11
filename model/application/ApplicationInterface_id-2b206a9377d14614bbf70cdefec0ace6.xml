@@ -1,9 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BAG bevragen API (Kadaster)"
-    id="id-2b206a9377d14614bbf70cdefec0ace6"
-    documentation="Voorbeeld van een landelijke API standaard. &#xD;&#xA;&#xD;&#xA;De BAG bevragen API wordt beheerd en beschikbaar gesteld door het Kadaster (ontwikkelt in programma Haal Centraal)">
-  <properties
-      key="Object ID"
-      value="b8d4202c-8d68-43d9-9f24-a8e54d40aabc"/>
-</archimate:ApplicationInterface>
