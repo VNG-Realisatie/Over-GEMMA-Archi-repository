@@ -1,14 +1,15 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-9c49690cd8af40e2be8892efacc610cd">
+    id="id-9c49690cd8af40e2be8892efacc610cd"
+    directed="true">
   <properties
       key="Object ID"
       value="9af2840c-172f-4b7c-9546-9a64721700b0"/>
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-57d329773b76459096348440e34c6866.xml#id-57d329773b76459096348440e34c6866"/>
-  <target
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-77dfb7725879423f8751b9ba19d397ac.xml#id-77dfb7725879423f8751b9ba19d397ac"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-57d329773b76459096348440e34c6866.xml#id-57d329773b76459096348440e34c6866"/>
 </archimate:AssociationRelationship>
