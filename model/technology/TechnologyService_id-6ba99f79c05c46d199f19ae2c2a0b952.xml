@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technologielaag"
     id="id-6ba99f79c05c46d199f19ae2c2a0b952"
-    documentation="Lagen binnen cloud computing die technologieservices bieden voor het opzetten, beheren en ontwikkelen van IT-omgevingen"/>
+    documentation="Lagen binnen cloud computing die technologieservices bieden voor het opzetten, beheren en ontwikkelen van IT-omgevingen">
+  <properties
+      key="Object ID"
+      value="4ac5ea2d-f94c-4c27-bcb4-0f713a264e9d"/>
+</archimate:TechnologyService>

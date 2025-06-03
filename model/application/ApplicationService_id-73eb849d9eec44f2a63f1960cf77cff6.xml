@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenwerken en versiebeheer"
-    id="id-73eb849d9eec44f2a63f1960cf77cff6"/>
+    id="id-73eb849d9eec44f2a63f1960cf77cff6">
+  <properties
+      key="Object ID"
+      value="83bade7c-3b25-40aa-b0a7-668aa047690f"/>
+</archimate:ApplicationService>

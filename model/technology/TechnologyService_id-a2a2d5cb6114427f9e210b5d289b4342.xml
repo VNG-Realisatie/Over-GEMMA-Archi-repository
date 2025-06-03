@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cloud dienstverleningslaag"
     id="id-a2a2d5cb6114427f9e210b5d289b4342"
-    documentation="Indeling van technologieservices waarop clouddiensten worden aangeboden, ook wel de cloud computing stack genoemd. "/>
+    documentation="Indeling van technologieservices waarop clouddiensten worden aangeboden, ook wel de cloud computing stack genoemd. ">
+  <properties
+      key="Object ID"
+      value="866891e3-2365-4543-b680-e7c0fe7bbf3c"/>
+</archimate:TechnologyService>
