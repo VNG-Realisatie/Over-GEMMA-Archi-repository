@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis Centrum Architectuur | Mark Backer |
+<hr/>
+
 # GEMMA kennis- en portfolio Archi-repository
 
 Dit is de repository van het GEMMA kennis- en portfolio ArchiMate-model. 
