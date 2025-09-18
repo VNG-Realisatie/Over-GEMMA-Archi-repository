@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="zie ook"
+    id="id-580cb1c9dfec4ec8b90ffa198dd9619c"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="b0147a3e-341f-4617-9ebc-6e2f2f14ee87"/>
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-81079.xml#id-81079"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-81079.xml#id-81079"/>
+</archimate:AssociationRelationship>

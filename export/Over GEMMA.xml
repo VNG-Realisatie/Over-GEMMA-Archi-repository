@@ -13,7 +13,7 @@
       <value xml:lang="nl">7382f25e-04b1-443e-abe5-00fa6e7212c4</value>
     </property>
     <property propertyDefinitionRef="propid-20">
-      <value xml:lang="nl">2025-07-02</value>
+      <value xml:lang="nl">2025-09-18</value>
     </property>
   </properties>
   <elements>
@@ -5069,6 +5069,14 @@ Eigenschappen van de relatie 'aanbevolen of verplichte standaard'
         </property>
       </properties>
     </relationship>
+    <relationship identifier="id-580cb1c9dfec4ec8b90ffa198dd9619c" source="id-81079" target="id-81079" xsi:type="Association" isDirected="true">
+      <name xml:lang="nl">zie ook</name>
+      <properties>
+        <property propertyDefinitionRef="propid-2">
+          <value xml:lang="nl">b0147a3e-341f-4617-9ebc-6e2f2f14ee87</value>
+        </property>
+      </properties>
+    </relationship>
     <relationship identifier="id-0248a259fa6f42d8b64b2ddb79c8beba" source="id-027ca74a87f24797b01cb31028133fd6" target="id-3663d61b6d024c2a8b8df7a2ee576734" xsi:type="Access" accessType="Read">
       <properties>
         <property propertyDefinitionRef="propid-2">
@@ -9252,6 +9260,7 @@ Eigenschappen van de relatie 'aanbevolen of verplichte standaard'
       <item identifierRef="id-b635f65c07c84fb99ed68208faf25de5" />
       <item identifierRef="id-bfaea678c87c4843adac175dbfde52e4" />
       <item identifierRef="id-c7d5eaab9c2b41fd80f3abde89925f2f" />
+      <item identifierRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" />
     </item>
     <item>
       <label xml:lang="nl">Views</label>
@@ -12785,6 +12794,17 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </font>
           </style>
         </connection>
+        <connection identifier="id-f8b00f7a3f2042a8af7286627c677c64" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-8cbb247976c24f7cb62526c2ff5baca1" target="id-8cbb247976c24f7cb62526c2ff5baca1">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="125" y="275" />
+          <bendpoint x="125" y="230" />
+          <bendpoint x="200" y="230" />
+        </connection>
         <connection identifier="id-afbc5c3504a243618c8877e6fc29b597" relationshipRef="id-2fe6efb62a144f608e9ec310cae29def" xsi:type="Relationship" source="id-613486c3559f422283b88390f05185c2" target="id-cb9f8c22c2084bf0bbf73386497ae302">
           <style>
             <lineColor r="29" g="29" b="29" />
@@ -15734,6 +15754,17 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </font>
           </style>
         </connection>
+        <connection identifier="id-52d9cb36b96c499b9f7c1b51d762497b" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-e8d67d082f564f808cc3f793fd98eb84" target="id-e8d67d082f564f808cc3f793fd98eb84">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="80" y="665" />
+          <bendpoint x="80" y="620" />
+          <bendpoint x="140" y="620" />
+        </connection>
         <connection identifier="id-7b89b2244da2412385b355abc121a2e9" relationshipRef="id-2fe6efb62a144f608e9ec310cae29def" xsi:type="Relationship" source="id-a4b5dc1acce043129c5837edfd6cb976" target="id-0c59d51d31de4dbabe35c7e6d1cc511b">
           <style>
             <lineColor r="29" g="29" b="29" />
@@ -16128,7 +16159,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-3c4f33527e954ed783abdbc8f4b6af60" elementRef="id-81077" xsi:type="Element" x="145" y="820" w="141" h="61">
+          <node identifier="id-3c4f33527e954ed783abdbc8f4b6af60" elementRef="id-81077" xsi:type="Element" x="145" y="765" w="141" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16169,15 +16200,6 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
               <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-d368a91c75c24564876c430dce07e1a7" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="145" y="715" w="141" h="61">
-            <style>
-              <fillColor r="204" g="204" b="251" a="100" />
-              <lineColor r="0" g="0" b="0" a="100" />
-              <font name=".AppleSystemUIFont" size="9">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -16370,9 +16392,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="115" y="840" />
-          <bendpoint x="115" y="800" />
-          <bendpoint x="175" y="800" />
+          <bendpoint x="115" y="785" />
+          <bendpoint x="115" y="745" />
+          <bendpoint x="175" y="745" />
         </connection>
         <connection identifier="id-8f20b42e82ab4de099a5ec58e9af880f" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-8e20cbddb52d47aca9735628225b30d1" target="id-1d47a8544b8848c28494565da5a62e62">
           <style>
@@ -16381,6 +16403,17 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
+        </connection>
+        <connection identifier="id-69f1e45582124c0a8df60d11836c4409" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-8e20cbddb52d47aca9735628225b30d1" target="id-8e20cbddb52d47aca9735628225b30d1">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="110" y="635" />
+          <bendpoint x="110" y="595" />
+          <bendpoint x="170" y="595" />
         </connection>
         <connection identifier="id-a750fff3f4fa472e9d69327af4786456" relationshipRef="id-2fe6efb62a144f608e9ec310cae29def" xsi:type="Relationship" source="id-fa4b5bd6a6dd43f3822978d472882e93" target="id-1d47a8544b8848c28494565da5a62e62">
           <style>
@@ -16391,14 +16424,6 @@ Voor groepen geldt:&#xD;
           </style>
         </connection>
         <connection identifier="id-1e87c6caf30f454292ca79c681f2e399" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-03378fb81c084aeeb39371305990de73" target="id-1d47a8544b8848c28494565da5a62e62">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </connection>
-        <connection identifier="id-6d301deb30444bd880eb988b38d04c37" relationshipRef="id-fa5198ede5504bd69fb17304901ee886" xsi:type="Relationship" source="id-d368a91c75c24564876c430dce07e1a7" target="id-8e20cbddb52d47aca9735628225b30d1">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -16596,7 +16621,7 @@ Voor groepen geldt:&#xD;
             <value xml:lang="nl">6dcbc5fb-a3e6-4bb8-b5e1-b528d5ffccb6</value>
           </property>
         </properties>
-        <node identifier="id-cc03a857bee84263a2133f247bf37a05" x="10" y="40" w="461" h="357" xsi:type="Container">
+        <node identifier="id-cc03a857bee84263a2133f247bf37a05" x="10" y="40" w="461" h="271" xsi:type="Container">
           <label xml:lang="nl">Motivatie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16605,7 +16630,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-9276ac2e88724764bb7a7d8a647d469e" elementRef="id-81079" xsi:type="Element" x="300" y="190" w="141" h="61">
+          <node identifier="id-9276ac2e88724764bb7a7d8a647d469e" elementRef="id-81079" xsi:type="Element" x="300" y="225" w="141" h="61">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16632,20 +16657,11 @@ Voor groepen geldt:&#xD;
               </font>
             </style>
           </node>
-          <node identifier="id-0109541ccb44465bb872c874ddefa60b" elementRef="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f" xsi:type="Element" x="40" y="190" w="141" h="61">
+          <node identifier="id-0109541ccb44465bb872c874ddefa60b" elementRef="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f" xsi:type="Element" x="40" y="225" w="141" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
               <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-0098415f4d5747308a7a364876e51374" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="300" y="304" w="141" h="61">
-            <style>
-              <fillColor r="204" g="204" b="251" a="100" />
-              <lineColor r="0" g="0" b="0" a="100" />
-              <font name=".AppleSystemUIFont" size="9">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -16659,6 +16675,17 @@ Voor groepen geldt:&#xD;
             </font>
           </style>
         </connection>
+        <connection identifier="id-d16d6aa783c5411d9ef5a19ec58e48a4" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-9276ac2e88724764bb7a7d8a647d469e" target="id-9276ac2e88724764bb7a7d8a647d469e">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="265" y="250" />
+          <bendpoint x="265" y="210" />
+          <bendpoint x="325" y="210" />
+        </connection>
         <connection identifier="id-f3db07c7b9c7405ebab89f7b0d0ddcec" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-a436ed8c1678415e9e15d4bf0b13d3d2" target="id-9b6e9cbd459d4af7b4d6d1d84d5d349b">
           <style>
             <lineColor r="29" g="29" b="29" />
@@ -16668,14 +16695,6 @@ Voor groepen geldt:&#xD;
           </style>
         </connection>
         <connection identifier="id-bcf9b69e4fe64946ac73d6ff074f6873" relationshipRef="id-2fe6efb62a144f608e9ec310cae29def" xsi:type="Relationship" source="id-0109541ccb44465bb872c874ddefa60b" target="id-9b6e9cbd459d4af7b4d6d1d84d5d349b">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </connection>
-        <connection identifier="id-1cbaeaa38028418ba53d6653be08bc22" relationshipRef="id-fa5198ede5504bd69fb17304901ee886" xsi:type="Relationship" source="id-0098415f4d5747308a7a364876e51374" target="id-9276ac2e88724764bb7a7d8a647d469e">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">

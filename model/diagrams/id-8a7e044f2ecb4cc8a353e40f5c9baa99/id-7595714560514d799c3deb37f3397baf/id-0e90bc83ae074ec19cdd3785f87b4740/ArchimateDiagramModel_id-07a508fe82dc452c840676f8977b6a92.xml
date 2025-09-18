@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8cbb247976c24f7cb62526c2ff5baca1"
-      targetConnections="id-dccb3264008c469f96d138acbd3bc706"
+      targetConnections="id-dccb3264008c469f96d138acbd3bc706 id-f8b00f7a3f2042a8af7286627c677c64"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -17,6 +17,30 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-5022c3d0351646299cdcb8ff36319879.xml#id-5022c3d0351646299cdcb8ff36319879"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f8b00f7a3f2042a8af7286627c677c64"
+        source="id-8cbb247976c24f7cb62526c2ff5baca1"
+        target="id-8cbb247976c24f7cb62526c2ff5baca1">
+      <bendpoints
+          startX="-130"
+          startY="-5"
+          endX="-130"
+          endY="-5"/>
+      <bendpoints
+          startX="-130"
+          startY="-50"
+          endX="-130"
+          endY="-50"/>
+      <bendpoints
+          startX="-55"
+          startY="-50"
+          endX="-55"
+          endY="-50"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-580cb1c9dfec4ec8b90ffa198dd9619c.xml#id-580cb1c9dfec4ec8b90ffa198dd9619c"/>
     </sourceConnections>
     <bounds
         x="170"
