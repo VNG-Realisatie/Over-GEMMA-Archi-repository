@@ -1,8 +1,9 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realiseert"
-    id="id-fa5198ede5504bd69fb17304901ee886">
+    name="ondersteunt"
+    id="id-fa5198ede5504bd69fb17304901ee886"
+    documentation="De implicatie zorgt dat het principe praktisch en toepasbaar wordt.">
   <properties
       key="Object ID"
       value="b7bb0c0b-bd9a-4d38-a73a-103456fe0432"/>

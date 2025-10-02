@@ -1,8 +1,9 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realiseert"
-    id="id-5022c3d0351646299cdcb8ff36319879">
+    name="draagt bij aan"
+    id="id-5022c3d0351646299cdcb8ff36319879"
+    documentation="Het principe helpt het kwaliteitsdoel daadwerkelijk te realiseren.">
   <properties
       key="Object ID"
       value="a1936c06-00cb-4de8-a097-f5031a5979d0"/>

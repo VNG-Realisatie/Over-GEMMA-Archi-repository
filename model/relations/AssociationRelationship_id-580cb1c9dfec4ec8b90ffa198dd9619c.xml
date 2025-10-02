@@ -1,8 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="zie ook"
+    name="bouwt voort op"
     id="id-580cb1c9dfec4ec8b90ffa198dd9619c"
+    documentation="Het ene principe bouwt voort op het andere en zorgt voor samenhang in beleid en uitvoering"
     directed="true">
   <properties
       key="Object ID"

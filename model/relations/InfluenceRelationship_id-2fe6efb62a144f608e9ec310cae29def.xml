@@ -1,8 +1,9 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="beïnvloedt"
-    id="id-2fe6efb62a144f608e9ec310cae29def">
+    name="geeft grondslag aan"
+    id="id-2fe6efb62a144f608e9ec310cae29def"
+    documentation="Het beleidskader vormt de bindende basis voor het kwaliteitsdoel en bepaalt welke eisen en normen het doel moet vervullen">
   <properties
       key="Object ID"
       value="266ca84a-2fa7-4f53-b43b-c796220c70df"/>

@@ -1,8 +1,9 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="beïnvloedt"
-    id="id-8be5f84db04a434ea049f3269b56e038">
+    name="motiveert"
+    id="id-8be5f84db04a434ea049f3269b56e038"
+    documentation="De kernwaarde inspireert en motiveert het opstellen van het kwaliteitsdoel.">
   <properties
       key="Object ID"
       value="3fe5d53f-c499-489d-9a48-3db2f0a90301"/>
