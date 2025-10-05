@@ -13,7 +13,7 @@
       <value xml:lang="nl">7382f25e-04b1-443e-abe5-00fa6e7212c4</value>
     </property>
     <property propertyDefinitionRef="propid-20">
-      <value xml:lang="nl">2025-10-03</value>
+      <value xml:lang="nl">2025-10-05</value>
     </property>
   </properties>
   <elements>
@@ -15124,16 +15124,51 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             <value xml:lang="nl">530b5bb4-e452-4dc6-8db2-36113e2f3cda</value>
           </property>
         </properties>
-        <node identifier="id-16688c38ad2f42db9c0fdae7743aac2c" x="35" y="20" w="356" h="396" xsi:type="Container">
-          <label xml:lang="nl">Architectuurprinicpes</label>
+        <node identifier="id-b44abf58a0654c68ba4213ad9f515019" xsi:type="Label" x="20" y="25" w="551" h="296">
           <style>
-            <fillColor r="255" g="255" b="255" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="11" style="bold">
+            <fillColor r="244" g="244" b="244" a="100" />
+            <lineColor r="128" g="128" b="255" a="0" />
+            <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-78cbfc64e5ee48ada6e25e475100f85c" elementRef="id-81079" xsi:type="Element" x="115" y="285" w="176" h="81">
+        </node>
+        <node identifier="id-d05d4165da4a42b3b77d910eb9ab8c3b" xsi:type="Label" x="250" y="170" w="306" h="136">
+          <style>
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="255" g="255" b="255" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-69575e48e2334ae6bc4f7f121da68637" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="300" y="70" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-d3bcfd5d7f844691a3bfef57afd75f82" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="30" y="70" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-0cf035e9226c44e38780dd160ca483c8" elementRef="id-81079" xsi:type="Element" x="300" y="185" w="176" h="81">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="0" g="0" b="0" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-e6daeca9ad10462792f6fdf279884677" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="325" y="220" w="121" h="31">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15141,45 +15176,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-fd68e8d296e14106a70868a8cb399908" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="140" y="320" w="121" h="31">
-              <style>
-                <fillColor r="204" g="204" b="255" a="100" />
-                <lineColor r="0" g="0" b="0" a="100" />
-                <font name="Segoe UI" size="9">
-                  <color r="0" g="0" b="0" />
-                </font>
-              </style>
-            </node>
-          </node>
-          <node identifier="id-75fb1e6133be48baaba9c82ba83f3e53" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="115" y="170" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-fedc626feb2c49059f283ec9d7c67049" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="115" y="55" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
           </node>
         </node>
-        <node identifier="id-fe4bcb9190344dbbb4d2c26e116b6d06" xsi:type="Label" x="52" y="270" w="321" h="136">
+        <node identifier="id-b253df98b4644986ad78e01a525ef155" xsi:type="Label" x="250" y="170" w="306" h="136">
           <style>
-            <fillColor r="255" g="0" b="0" a="0" />
-            <lineColor r="128" g="128" b="255" a="100" />
+            <fillColor r="255" g="255" b="255" a="0" />
+            <lineColor r="255" g="0" b="0" a="100" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <connection identifier="id-cd378320972742ad9507a8359acf873f" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-78cbfc64e5ee48ada6e25e475100f85c" target="id-75fb1e6133be48baaba9c82ba83f3e53">
+        <connection identifier="id-e96ac8cf65df44b088fa7a5f96b7b383" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-d3bcfd5d7f844691a3bfef57afd75f82" target="id-69575e48e2334ae6bc4f7f121da68637">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15187,18 +15195,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </font>
           </style>
         </connection>
-        <connection identifier="id-72be368d2c5a4a98a56a3ee5751ca003" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-78cbfc64e5ee48ada6e25e475100f85c" target="id-78cbfc64e5ee48ada6e25e475100f85c">
+        <connection identifier="id-fe9b8526dcc34a6781b9e1bc814660e2" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-0cf035e9226c44e38780dd160ca483c8" target="id-0cf035e9226c44e38780dd160ca483c8">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="320" y="345" />
-          <bendpoint x="320" y="385" />
-          <bendpoint x="255" y="385" />
+          <bendpoint x="505" y="245" />
+          <bendpoint x="505" y="285" />
+          <bendpoint x="440" y="285" />
         </connection>
-        <connection identifier="id-ea76009b50664d38a506443b5a5bba6c" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-fedc626feb2c49059f283ec9d7c67049" target="id-75fb1e6133be48baaba9c82ba83f3e53">
+        <connection identifier="id-be9da849fda14c87abbbf84bfad504d4" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-0cf035e9226c44e38780dd160ca483c8" target="id-69575e48e2334ae6bc4f7f121da68637">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15218,25 +15226,51 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             <value xml:lang="nl">4dabc12f-7905-437c-be05-521535ae4db9</value>
           </property>
         </properties>
-        <node identifier="id-4e857e02ea584b07898f9f77e3943437" x="35" y="25" w="356" h="396" xsi:type="Container">
-          <label xml:lang="nl">Architectuurprinicpes en kwaliteitsdoelen</label>
+        <node identifier="id-c06c9737ff1d4ae78ab01d167b3e8f33" xsi:type="Label" x="25" y="35" w="551" h="296">
           <style>
-            <fillColor r="255" g="255" b="255" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="11" style="bold">
+            <fillColor r="244" g="244" b="244" a="100" />
+            <lineColor r="128" g="128" b="255" a="0" />
+            <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-77de2517b5904dcb9c2c7c52cf8aa716" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="120" y="185" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-a97a31b133484950a428798fb4a5333a" elementRef="id-81079" xsi:type="Element" x="120" y="300" w="176" h="81">
+        </node>
+        <node identifier="id-83edcbf548be48aa8cfa4c9e9ff04901" xsi:type="Label" x="268" y="120" w="251" h="106">
+          <style>
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="255" g="255" b="255" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-e07daaef8c6842f79e24ab0e8b2caf64" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="305" y="80" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-eb879c8c56854dec890eb884f2e940d7" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="35" y="80" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-fb062ce91c244c0b9582d900a9ab0ec8" elementRef="id-81079" xsi:type="Element" x="305" y="195" w="176" h="81">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="0" g="0" b="0" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-9c0a422c6c7845e597de283dcccd5df0" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="330" y="230" w="121" h="31">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15244,36 +15278,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-2b888431b5594a2eb8718e1ce4e590ff" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="145" y="335" w="121" h="31">
-              <style>
-                <fillColor r="204" g="204" b="255" a="100" />
-                <lineColor r="0" g="0" b="0" a="100" />
-                <font name="Segoe UI" size="9">
-                  <color r="0" g="0" b="0" />
-                </font>
-              </style>
-            </node>
-          </node>
-          <node identifier="id-16ec70dca0fb487bb3abbfd9a3a39793" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="120" y="70" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
           </node>
         </node>
-        <node identifier="id-c189f538333c42efb78998b61b5a56fc" xsi:type="Label" x="55" y="230" w="321" h="96">
+        <node identifier="id-9d6f30362aec438e89b4d02e8104b4b7" xsi:type="Label" x="268" y="120" w="251" h="106">
           <style>
-            <fillColor r="255" g="0" b="0" a="0" />
-            <lineColor r="128" g="128" b="255" a="100" />
+            <fillColor r="255" g="255" b="255" a="0" />
+            <lineColor r="255" g="0" b="0" a="100" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <connection identifier="id-4e6afcb415eb47b29325cafb44b1a1a5" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-a97a31b133484950a428798fb4a5333a" target="id-77de2517b5904dcb9c2c7c52cf8aa716">
+        <connection identifier="id-e8df6f1ac6634093a414ee64db964ce2" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-eb879c8c56854dec890eb884f2e940d7" target="id-e07daaef8c6842f79e24ab0e8b2caf64">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15281,18 +15297,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </font>
           </style>
         </connection>
-        <connection identifier="id-47b1ee7017a84a5593ea2fde2cce47c9" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-a97a31b133484950a428798fb4a5333a" target="id-a97a31b133484950a428798fb4a5333a">
+        <connection identifier="id-b77de7ae2d1a4135a8a68b2ebecda513" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-fb062ce91c244c0b9582d900a9ab0ec8" target="id-fb062ce91c244c0b9582d900a9ab0ec8">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="325" y="360" />
-          <bendpoint x="325" y="400" />
-          <bendpoint x="260" y="400" />
+          <bendpoint x="510" y="255" />
+          <bendpoint x="510" y="295" />
+          <bendpoint x="445" y="295" />
         </connection>
-        <connection identifier="id-5ae1eb4922454e13816991ef7b2c29c0" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-16ec70dca0fb487bb3abbfd9a3a39793" target="id-77de2517b5904dcb9c2c7c52cf8aa716">
+        <connection identifier="id-d838b5fc42f84ce39d4973bee8a80844" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-fb062ce91c244c0b9582d900a9ab0ec8" target="id-e07daaef8c6842f79e24ab0e8b2caf64">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15312,25 +15328,51 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             <value xml:lang="nl">a1f2f62e-b057-4a78-9c28-4fb0f6a61059</value>
           </property>
         </properties>
-        <node identifier="id-c780752b93be4744bffd263915f76f86" x="35" y="30" w="356" h="396" xsi:type="Container">
-          <label xml:lang="nl">Kwaliteitsdoelen</label>
+        <node identifier="id-fd1f8f11dda84fafa3665bc715eed3fc" xsi:type="Label" x="15" y="20" w="546" h="281">
           <style>
-            <fillColor r="255" g="255" b="255" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="11" style="bold">
+            <fillColor r="244" g="244" b="244" a="100" />
+            <lineColor r="128" g="128" b="255" a="0" />
+            <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-460c5e6e97084cc987f5a73597c801fa" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="125" y="195" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-4c3c13aa23e94208a45dd2c57d04d2a6" elementRef="id-81079" xsi:type="Element" x="125" y="310" w="176" h="81">
+        </node>
+        <node identifier="id-5248d304fbd74a83a1b61f26450fc642" xsi:type="Label" x="160" y="35" w="341" h="171">
+          <style>
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="255" g="255" b="255" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-76ea84e143ed4a6298947afe7e0411de" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="295" y="65" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-e684aeaebdb6475ba45db3dd8f31ffd2" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="25" y="65" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-120d4be9784841b988527aae7360a6c3" elementRef="id-81079" xsi:type="Element" x="295" y="180" w="176" h="81">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="0" g="0" b="0" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-73b7a7551b4f4ad0aaf82a55d5af7f7c" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="320" y="215" w="121" h="31">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15338,36 +15380,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-3ca0a2362737493e88bf21f194422830" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="150" y="345" w="121" h="31">
-              <style>
-                <fillColor r="204" g="204" b="255" a="100" />
-                <lineColor r="0" g="0" b="0" a="100" />
-                <font name="Segoe UI" size="9">
-                  <color r="0" g="0" b="0" />
-                </font>
-              </style>
-            </node>
-          </node>
-          <node identifier="id-c22a80c582194ae982b17386d861dec0" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="125" y="80" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
           </node>
         </node>
-        <node identifier="id-6ae2dadd4a5442efa932f45e3f06ecd0" xsi:type="Label" x="52" y="120" w="321" h="216">
+        <node identifier="id-dec6ee5a05a8455fa4a6124ee91ef7d3" xsi:type="Label" x="160" y="35" w="341" h="171">
           <style>
-            <fillColor r="255" g="0" b="0" a="0" />
-            <lineColor r="128" g="128" b="255" a="100" />
+            <fillColor r="255" g="255" b="255" a="0" />
+            <lineColor r="255" g="0" b="0" a="100" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <connection identifier="id-bb04dd7d9268444baf035e9ce457771a" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-4c3c13aa23e94208a45dd2c57d04d2a6" target="id-460c5e6e97084cc987f5a73597c801fa">
+        <connection identifier="id-095800a963564482ba01e58e734efe98" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-e684aeaebdb6475ba45db3dd8f31ffd2" target="id-76ea84e143ed4a6298947afe7e0411de">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15375,18 +15399,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </font>
           </style>
         </connection>
-        <connection identifier="id-dea8a844ffed4bdc91db707b85b44476" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-4c3c13aa23e94208a45dd2c57d04d2a6" target="id-4c3c13aa23e94208a45dd2c57d04d2a6">
+        <connection identifier="id-1b232187d74d4935a7cac9b47dbfc0bc" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-120d4be9784841b988527aae7360a6c3" target="id-120d4be9784841b988527aae7360a6c3">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="330" y="370" />
-          <bendpoint x="330" y="410" />
-          <bendpoint x="265" y="410" />
+          <bendpoint x="500" y="240" />
+          <bendpoint x="500" y="280" />
+          <bendpoint x="435" y="280" />
         </connection>
-        <connection identifier="id-b70396e9af884128baef779290807599" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-c22a80c582194ae982b17386d861dec0" target="id-460c5e6e97084cc987f5a73597c801fa">
+        <connection identifier="id-3e9f5bb269024218940af4550f9e388f" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-120d4be9784841b988527aae7360a6c3" target="id-76ea84e143ed4a6298947afe7e0411de">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15406,16 +15430,51 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             <value xml:lang="nl">3c9f0971-dd02-4b4d-b013-3ee4832e9d60</value>
           </property>
         </properties>
-        <node identifier="id-3b564f39c9ed41a8afe24b20a90e8602" x="35" y="15" w="356" h="396" xsi:type="Container">
-          <label xml:lang="nl">Kernwaarden</label>
+        <node identifier="id-8a357bc2314a493aa46cd7b57a011825" xsi:type="Label" x="15" y="30" w="566" h="281">
           <style>
-            <fillColor r="255" g="255" b="255" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="11" style="bold">
+            <fillColor r="244" g="244" b="244" a="100" />
+            <lineColor r="128" g="128" b="255" a="0" />
+            <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-f605a1bee06549929f6378c5e64eb950" elementRef="id-81079" xsi:type="Element" x="120" y="295" w="176" h="81">
+        </node>
+        <node identifier="id-53ee8740c0d947469e45a9a99ee54e76" xsi:type="Label" x="30" y="45" w="311" h="121">
+          <style>
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="255" g="255" b="255" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-dd6c0fd4bff342eea5ad761d7c6cf4ac" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="315" y="75" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-a65c1cca3c734c5080225bea8dc586f4" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="45" y="75" w="176" h="61">
+          <style>
+            <fillColor r="202" g="181" b="234" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-afa9836cf0c0435081e6b81d5e167226" elementRef="id-81079" xsi:type="Element" x="315" y="190" w="176" h="81">
+          <style>
+            <fillColor r="204" g="204" b="255" a="100" />
+            <lineColor r="0" g="0" b="0" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-25ecca58b2cf47919ec6815734865551" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="340" y="225" w="121" h="31">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15423,56 +15482,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-2fd678656ffb4f71ad35c10eb9dc6f30" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="145" y="330" w="121" h="31">
-              <style>
-                <fillColor r="204" g="204" b="255" a="100" />
-                <lineColor r="0" g="0" b="0" a="100" />
-                <font name="Segoe UI" size="9">
-                  <color r="0" g="0" b="0" />
-                </font>
-              </style>
-            </node>
-          </node>
-          <node identifier="id-8c8dedeffcc1457c9736170891f6e11b" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="120" y="65" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-6c61bb89700b4202bc553edef42cfa90" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="120" y="180" w="176" h="61">
-            <style>
-              <fillColor r="202" g="181" b="234" a="100" />
-              <lineColor r="79" g="79" b="79" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-ae3c69c843194be4aa54d7f774fca4c8" xsi:type="Label" x="47" y="50" w="321" h="146">
-            <style>
-              <fillColor r="255" g="0" b="0" a="0" />
-              <lineColor r="128" g="128" b="255" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
           </node>
         </node>
-        <connection identifier="id-ed8d7ca3eea24fce9fdf28485e470f59" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-f605a1bee06549929f6378c5e64eb950" target="id-f605a1bee06549929f6378c5e64eb950">
+        <node identifier="id-0d26d0b78cdc40769dde4da66edddf59" xsi:type="Label" x="30" y="45" w="311" h="121">
           <style>
-            <lineColor r="29" g="29" b="29" />
+            <fillColor r="255" g="255" b="255" a="0" />
+            <lineColor r="255" g="0" b="0" a="100" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="325" y="355" />
-          <bendpoint x="325" y="395" />
-          <bendpoint x="260" y="395" />
-        </connection>
-        <connection identifier="id-6faae81918ea4e2993fd50b2215466d4" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-f605a1bee06549929f6378c5e64eb950" target="id-6c61bb89700b4202bc553edef42cfa90">
+        </node>
+        <connection identifier="id-407ef9e34f7e45f083f389f87248fe6e" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-a65c1cca3c734c5080225bea8dc586f4" target="id-dd6c0fd4bff342eea5ad761d7c6cf4ac">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15480,7 +15501,18 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </font>
           </style>
         </connection>
-        <connection identifier="id-d1226778907d4482851ded0acc7146c8" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-8c8dedeffcc1457c9736170891f6e11b" target="id-6c61bb89700b4202bc553edef42cfa90">
+        <connection identifier="id-901f688c52394636bafa4aab38151ffe" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-afa9836cf0c0435081e6b81d5e167226" target="id-afa9836cf0c0435081e6b81d5e167226">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="520" y="250" />
+          <bendpoint x="520" y="290" />
+          <bendpoint x="455" y="290" />
+        </connection>
+        <connection identifier="id-fad37879f33a43f299e365f691320e38" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-afa9836cf0c0435081e6b81d5e167226" target="id-dd6c0fd4bff342eea5ad761d7c6cf4ac">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -15504,7 +15536,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             <value xml:lang="nl">b11939ec-2df0-46f0-8b22-2e92464509ce</value>
           </property>
         </properties>
-        <node identifier="id-9899ee185a08437c9fa35d158f5beb40" xsi:type="Label" x="30" y="70" w="1631" h="141">
+        <node identifier="id-9899ee185a08437c9fa35d158f5beb40" xsi:type="Label" x="25" y="35" w="1631" h="141">
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
             <lineColor r="79" g="79" b="79" a="0" />
@@ -15513,7 +15545,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </font>
           </style>
         </node>
-        <node identifier="id-d6ee6109083140aaaf14c2d1df38aeb5" x="400" y="230" w="1261" h="411" xsi:type="Container">
+        <node identifier="id-d6ee6109083140aaaf14c2d1df38aeb5" x="395" y="195" w="1261" h="411" xsi:type="Container">
           <label xml:lang="nl">Bedrijfslaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15522,7 +15554,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="128" g="128" b="128" />
             </font>
           </style>
-          <node identifier="id-716556f329a24fb0b4caa84eb35495b4" elementRef="id-81158" xsi:type="Element" x="1350" y="400" w="141" h="61">
+          <node identifier="id-716556f329a24fb0b4caa84eb35495b4" elementRef="id-81158" xsi:type="Element" x="1345" y="365" w="141" h="61">
             <style>
               <fillColor r="254" g="254" b="180" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15531,7 +15563,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-676f97f655f249c79df17d3c752ab4ed" elementRef="id-81174" xsi:type="Element" x="1500" y="260" w="141" h="61">
+          <node identifier="id-676f97f655f249c79df17d3c752ab4ed" elementRef="id-81174" xsi:type="Element" x="1495" y="225" w="141" h="61">
             <style>
               <fillColor r="234" g="234" b="234" a="50" />
               <lineColor r="0" g="0" b="0" a="50" />
@@ -15540,7 +15572,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-3f035d1ecd324ef3beaf4828c6e43f29" elementRef="id-0a46b46d497d437e9865c794d3708152" xsi:type="Element" x="650" y="260" w="141" h="61">
+          <node identifier="id-3f035d1ecd324ef3beaf4828c6e43f29" elementRef="id-0a46b46d497d437e9865c794d3708152" xsi:type="Element" x="645" y="225" w="141" h="61">
             <style>
               <fillColor r="234" g="234" b="234" a="50" />
               <lineColor r="0" g="0" b="0" a="50" />
@@ -15549,7 +15581,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-3a854669f91d4486b465dcfffb7c72f4" elementRef="id-81155" xsi:type="Element" x="930" y="260" w="231" h="61">
+          <node identifier="id-3a854669f91d4486b465dcfffb7c72f4" elementRef="id-81155" xsi:type="Element" x="925" y="225" w="231" h="61">
             <style>
               <fillColor r="234" g="234" b="234" a="50" />
               <lineColor r="0" g="0" b="0" a="50" />
@@ -15558,7 +15590,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-319561c59efd4b4eb3ee2693a903299d" elementRef="id-81166" xsi:type="Element" x="410" y="440" w="141" h="61">
+          <node identifier="id-319561c59efd4b4eb3ee2693a903299d" elementRef="id-81166" xsi:type="Element" x="460" y="405" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15567,7 +15599,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-4b6a527cc06e4fc6a49899e94b3a24d5" elementRef="id-81162" xsi:type="Element" x="410" y="350" w="141" h="61">
+          <node identifier="id-4b6a527cc06e4fc6a49899e94b3a24d5" elementRef="id-81162" xsi:type="Element" x="460" y="315" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15576,7 +15608,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-78c1aa12a4554fed863828855656f99b" elementRef="id-81136" xsi:type="Element" x="650" y="530" w="141" h="61">
+          <node identifier="id-78c1aa12a4554fed863828855656f99b" elementRef="id-81136" xsi:type="Element" x="645" y="495" w="141" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15585,7 +15617,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-b5233d88fed841c784d5082c4100cb49" elementRef="id-81182" xsi:type="Element" x="650" y="400" w="141" h="61">
+          <node identifier="id-b5233d88fed841c784d5082c4100cb49" elementRef="id-81182" xsi:type="Element" x="645" y="365" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="221" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15594,7 +15626,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-24f9940c172f4cc691e98e50bebcad38" elementRef="id-44bbb0184dbb43adaca73495aaf7155f" xsi:type="Element" x="1030" y="400" w="191" h="61">
+          <node identifier="id-24f9940c172f4cc691e98e50bebcad38" elementRef="id-44bbb0184dbb43adaca73495aaf7155f" xsi:type="Element" x="1025" y="365" w="191" h="61">
             <style>
               <fillColor r="255" g="255" b="204" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15603,7 +15635,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-1b082a6f1ccf48afbcbbd12ada3b836d" elementRef="id-81137" xsi:type="Element" x="890" y="530" w="191" h="61">
+          <node identifier="id-1b082a6f1ccf48afbcbbd12ada3b836d" elementRef="id-81137" xsi:type="Element" x="885" y="495" w="191" h="61">
             <style>
               <fillColor r="255" g="255" b="204" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15613,7 +15645,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </style>
           </node>
         </node>
-        <node identifier="id-095e491433a24722b5d540b45985ba1f" x="30" y="360" w="351" h="1111" xsi:type="Container">
+        <node identifier="id-095e491433a24722b5d540b45985ba1f" x="25" y="325" w="351" h="1111" xsi:type="Container">
           <label xml:lang="nl">Motivatie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15622,7 +15654,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-b503194e82ba4e9ea21f295e5a036a34" elementRef="id-1550bdff3a5a40c5a256e21ca75311f2" xsi:type="Element" x="103" y="1010" w="176" h="61">
+          <node identifier="id-b503194e82ba4e9ea21f295e5a036a34" elementRef="id-1550bdff3a5a40c5a256e21ca75311f2" xsi:type="Element" x="98" y="975" w="176" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15631,7 +15663,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-07e43acb169d443e85d3d45b75c4566c" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="103" y="555" w="176" h="61">
+          <node identifier="id-07e43acb169d443e85d3d45b75c4566c" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="98" y="520" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15640,7 +15672,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-4b74f7ac44754c2c94c1df0e0f480407" elementRef="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f" xsi:type="Element" x="40" y="435" w="141" h="61">
+          <node identifier="id-4b74f7ac44754c2c94c1df0e0f480407" elementRef="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f" xsi:type="Element" x="35" y="400" w="141" h="61">
             <style>
               <fillColor r="234" g="234" b="234" a="50" />
               <lineColor r="0" g="0" b="0" a="50" />
@@ -15649,7 +15681,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-198f8f324095405199697c0452ea2d6b" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="218" y="435" w="141" h="61">
+          <node identifier="id-198f8f324095405199697c0452ea2d6b" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="213" y="400" w="141" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15658,7 +15690,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-736e49a546da4b9da7350ff30f1c6c85" elementRef="id-81077" xsi:type="Element" x="103" y="880" w="176" h="61">
+          <node identifier="id-736e49a546da4b9da7350ff30f1c6c85" elementRef="id-81077" xsi:type="Element" x="98" y="845" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15667,7 +15699,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-f15ef54fcfbe4a7a9d1461725a15f33b" elementRef="id-81079" xsi:type="Element" x="103" y="675" w="176" h="81">
+          <node identifier="id-f15ef54fcfbe4a7a9d1461725a15f33b" elementRef="id-81079" xsi:type="Element" x="98" y="640" w="176" h="81">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15675,7 +15707,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-5e4419d764f141d788ce0e8ab9fcc8e2" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="128" y="710" w="121" h="31">
+            <node identifier="id-5e4419d764f141d788ce0e8ab9fcc8e2" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="123" y="675" w="121" h="31">
               <style>
                 <fillColor r="204" g="204" b="255" a="100" />
                 <lineColor r="0" g="0" b="0" a="100" />
@@ -15686,7 +15718,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </node>
           </node>
         </node>
-        <node identifier="id-a0c80a3a922d4f408264b28063a33e6d" x="400" y="1110" w="1261" h="361" xsi:type="Container">
+        <node identifier="id-a0c80a3a922d4f408264b28063a33e6d" x="395" y="1075" w="1261" h="361" xsi:type="Container">
           <label xml:lang="nl">Technologielaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15695,7 +15727,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-3d214c6f6b1c40c5819a66834e7658e6" elementRef="id-17e47c37b848424b98b4b394b73ddda0" xsi:type="Element" x="871" y="1380" w="141" h="61">
+          <node identifier="id-3d214c6f6b1c40c5819a66834e7658e6" elementRef="id-17e47c37b848424b98b4b394b73ddda0" xsi:type="Element" x="866" y="1345" w="141" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15704,7 +15736,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-57331e7d8d1d4fcbb67bb79e5d1bc195" elementRef="id-7af7c441c35e4cc69cd8e48282fa57a5" xsi:type="Element" x="1041" y="1270" w="201" h="61">
+          <node identifier="id-57331e7d8d1d4fcbb67bb79e5d1bc195" elementRef="id-7af7c441c35e4cc69cd8e48282fa57a5" xsi:type="Element" x="1036" y="1235" w="201" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15713,7 +15745,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-829f3115dc3743baae53d68e40bf20a7" elementRef="id-daa817da8ea5439ba8b5cae576798392" xsi:type="Element" x="650" y="1170" w="591" h="61">
+          <node identifier="id-829f3115dc3743baae53d68e40bf20a7" elementRef="id-daa817da8ea5439ba8b5cae576798392" xsi:type="Element" x="645" y="1135" w="591" h="61">
             <style>
               <fillColor r="198" g="239" b="206" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15722,7 +15754,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-eca692f39d68418295cee70c4c6a7913" elementRef="id-961628a9518c45ad869d1d5ba2c1f9c5" xsi:type="Element" x="1371" y="1270" w="141" h="61">
+          <node identifier="id-eca692f39d68418295cee70c4c6a7913" elementRef="id-961628a9518c45ad869d1d5ba2c1f9c5" xsi:type="Element" x="1366" y="1235" w="141" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15731,7 +15763,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-7317c71747f047899185bfde4c7a9c54" elementRef="id-295f575bc5d14c5a994a32f7d237492e" xsi:type="Element" x="770" y="1270" w="171" h="61">
+          <node identifier="id-7317c71747f047899185bfde4c7a9c54" elementRef="id-295f575bc5d14c5a994a32f7d237492e" xsi:type="Element" x="765" y="1235" w="171" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15740,7 +15772,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-f1920b60f69a4b769b4b13c94a4fe160" elementRef="id-c41c2dd8b2ac49c99b7a1b0c64bd075f" xsi:type="Element" x="650" y="1380" w="141" h="61">
+          <node identifier="id-f1920b60f69a4b769b4b13c94a4fe160" elementRef="id-c41c2dd8b2ac49c99b7a1b0c64bd075f" xsi:type="Element" x="645" y="1345" w="141" h="61">
             <style>
               <fillColor r="222" g="246" b="227" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15750,7 +15782,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </style>
           </node>
         </node>
-        <node identifier="id-442126a3064d4fa48cd2bda5d9c755b0" x="400" y="660" w="1261" h="431" xsi:type="Container">
+        <node identifier="id-442126a3064d4fa48cd2bda5d9c755b0" x="395" y="625" w="1261" h="431" xsi:type="Container">
           <label xml:lang="nl">Applicatielaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15759,7 +15791,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-5f01ec90bd454390b80408075c4d9082" elementRef="id-81341" xsi:type="Element" x="650" y="880" w="141" h="61">
+          <node identifier="id-5f01ec90bd454390b80408075c4d9082" elementRef="id-81341" xsi:type="Element" x="645" y="845" w="141" h="61">
             <style>
               <fillColor r="218" g="238" b="243" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15768,7 +15800,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-c881af1d527748cea4da5686563b1b13" elementRef="id-5bd137c910cd4964987a57aedcfe9a6e" xsi:type="Element" x="940" y="1010" w="191" h="61">
+          <node identifier="id-c881af1d527748cea4da5686563b1b13" elementRef="id-5bd137c910cd4964987a57aedcfe9a6e" xsi:type="Element" x="935" y="975" w="191" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15777,7 +15809,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-4fba9de3b6f84d57b4265d01d4fbe68e" elementRef="id-81273" xsi:type="Element" x="1040" y="870" w="191" h="61">
+          <node identifier="id-4fba9de3b6f84d57b4265d01d4fbe68e" elementRef="id-81273" xsi:type="Element" x="1035" y="835" w="191" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15786,7 +15818,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-af4385a2ccdc4d92a322a92ccc5211f5" elementRef="id-81344" xsi:type="Element" x="650" y="730" w="141" h="61">
+          <node identifier="id-af4385a2ccdc4d92a322a92ccc5211f5" elementRef="id-81344" xsi:type="Element" x="645" y="695" w="141" h="61">
             <style>
               <fillColor r="218" g="238" b="243" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15795,7 +15827,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-b0dca794a20e4c9c9ea86eb3e70f1f1d" elementRef="id-4f16f7a92c264761b1fb72f6c6d0fc4c" xsi:type="Element" x="730" y="1010" w="141" h="61">
+          <node identifier="id-b0dca794a20e4c9c9ea86eb3e70f1f1d" elementRef="id-4f16f7a92c264761b1fb72f6c6d0fc4c" xsi:type="Element" x="725" y="975" w="141" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15804,7 +15836,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-fa65c0360332448dbb2e1bb3b76d2ae2" elementRef="id-81265" xsi:type="Element" x="930" y="730" w="231" h="61">
+          <node identifier="id-fa65c0360332448dbb2e1bb3b76d2ae2" elementRef="id-81265" xsi:type="Element" x="925" y="695" w="231" h="61">
             <style>
               <fillColor r="183" g="222" b="232" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15813,7 +15845,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-9527edeafffe406dbd249ff1af2984ba" elementRef="id-81269" xsi:type="Element" x="1371" y="868" w="141" h="61">
+          <node identifier="id-9527edeafffe406dbd249ff1af2984ba" elementRef="id-81269" xsi:type="Element" x="1366" y="833" w="141" h="61">
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15823,7 +15855,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </style>
           </node>
         </node>
-        <node identifier="id-b65c28ffde7e49c6b5c6e6547f022fa9" x="1450" y="70" w="211" h="141" xsi:type="Container">
+        <node identifier="id-b65c28ffde7e49c6b5c6e6547f022fa9" x="1445" y="35" w="211" h="141" xsi:type="Container">
           <label xml:lang="nl">Legenda</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15832,7 +15864,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-dace399ec50a494e892700e330ee7504" xsi:type="Label" x="1490" y="100" w="142" h="44">
+          <node identifier="id-dace399ec50a494e892700e330ee7504" xsi:type="Label" x="1485" y="65" w="142" h="44">
             <label xml:lang="nl">In projectarchitectuur, niet in GEMMA</label>
             <style>
               <fillColor r="255" g="224" b="224" a="100" />
@@ -15842,7 +15874,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-96267bf33657435fb344accdb77ee262" xsi:type="Label" x="1490" y="150" w="142" h="44">
+          <node identifier="id-96267bf33657435fb344accdb77ee262" xsi:type="Label" x="1485" y="115" w="142" h="44">
             <label xml:lang="nl">Wens, nu niet in GEMMA</label>
             <style>
               <fillColor r="234" g="234" b="234" a="50" />
@@ -15853,7 +15885,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </style>
           </node>
         </node>
-        <node identifier="id-50cbfce7bb3e4f80854663f8a704b338" x="30" y="70" w="511" h="141" xsi:type="Container">
+        <node identifier="id-50cbfce7bb3e4f80854663f8a704b338" x="25" y="35" w="511" h="141" xsi:type="Container">
           <label xml:lang="nl">Groeperen</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15862,7 +15894,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-d9b541e28a68419f8cccf17af5ccd538" xsi:type="Label" x="50" y="100" w="271" h="91">
+          <node identifier="id-d9b541e28a68419f8cccf17af5ccd538" xsi:type="Label" x="45" y="65" w="271" h="91">
             <label xml:lang="nl">Voor een overzichtelijker kennismodel wordt het gebruik van groepen niet getoond. Voor groepen geldt:&#xD;
 * Een groep kan alle concepten groeperen&#xD;
 * Alle concepten kunnen zichzelf groeperen</label>
@@ -15874,7 +15906,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               </font>
             </style>
           </node>
-          <node identifier="id-5bf3dc857cdf46b386fdbba599f76879" elementRef="id-bd33c6c868514f7780d80f62179cb315" xsi:type="Element" x="350" y="100" w="141" h="61">
+          <node identifier="id-5bf3dc857cdf46b386fdbba599f76879" elementRef="id-bd33c6c868514f7780d80f62179cb315" xsi:type="Element" x="345" y="65" w="141" h="61">
             <style>
               <fillColor r="239" g="239" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -15884,7 +15916,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
             </style>
           </node>
         </node>
-        <node identifier="id-a13f25afed404e36867ab5d9e3688d04" x="30" y="230" w="351" h="111" xsi:type="Container">
+        <node identifier="id-a13f25afed404e36867ab5d9e3688d04" x="25" y="195" w="351" h="111" xsi:type="Container">
           <label xml:lang="nl">Strategie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -15893,7 +15925,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-4735330d7d344eb8bcbbe2ab5f7015a3" elementRef="id-110929539adf4eda91f50d11bf5ad833" xsi:type="Element" x="105" y="270" w="176" h="61">
+          <node identifier="id-4735330d7d344eb8bcbbe2ab5f7015a3" elementRef="id-110929539adf4eda91f50d11bf5ad833" xsi:type="Element" x="100" y="235" w="176" h="61">
             <style>
               <fillColor r="249" g="194" b="104" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -15910,9 +15942,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1530" y="410" />
-          <bendpoint x="1530" y="380" />
-          <bendpoint x="1470" y="380" />
+          <bendpoint x="1525" y="375" />
+          <bendpoint x="1525" y="345" />
+          <bendpoint x="1465" y="345" />
         </connection>
         <connection identifier="id-7337acecb58044f889dc18e54b029564" relationshipRef="id-821997e066244005811bb0b897fa3778" xsi:type="Relationship" source="id-716556f329a24fb0b4caa84eb35495b4" target="id-716556f329a24fb0b4caa84eb35495b4">
           <style>
@@ -15921,9 +15953,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1470" y="470" />
-          <bendpoint x="1530" y="470" />
-          <bendpoint x="1530" y="440" />
+          <bendpoint x="1465" y="435" />
+          <bendpoint x="1525" y="435" />
+          <bendpoint x="1525" y="405" />
         </connection>
         <connection identifier="id-ff07a86ce1d9482e8a27f2cc9fb065e2" relationshipRef="id-81173" xsi:type="Relationship" source="id-676f97f655f249c79df17d3c752ab4ed" target="id-3a854669f91d4486b465dcfffb7c72f4">
           <style>
@@ -15940,7 +15972,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1575" y="750" />
+          <bendpoint x="1570" y="715" />
         </connection>
         <connection identifier="id-802579600e0d46a8bd4d151cd5ee402d" relationshipRef="id-4dc1a622b8f14205831db0da2c472e4d" xsi:type="Relationship" source="id-676f97f655f249c79df17d3c752ab4ed" target="id-829f3115dc3743baae53d68e40bf20a7">
           <style>
@@ -15949,7 +15981,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1590" y="1190" />
+          <bendpoint x="1585" y="1155" />
         </connection>
         <connection identifier="id-f09fed62c40e495f9534397e5456897e" relationshipRef="id-7c5a668434b54a77806bae40cae513cf" xsi:type="Relationship" source="id-3f035d1ecd324ef3beaf4828c6e43f29" target="id-3a854669f91d4486b465dcfffb7c72f4">
           <style>
@@ -15974,7 +16006,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="975" y="420" />
+          <bendpoint x="970" y="385" />
         </connection>
         <connection identifier="id-d8258ed41d7e479fa2c3c5bf9d0a3d89" relationshipRef="id-81181" xsi:type="Relationship" source="id-319561c59efd4b4eb3ee2693a903299d" target="id-b5233d88fed841c784d5082c4100cb49">
           <style>
@@ -16007,9 +16039,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="128" g="128" b="128" />
             </font>
           </style>
-          <bendpoint x="750" y="360" />
-          <bendpoint x="1280" y="360" />
-          <bendpoint x="1380" y="360" />
+          <bendpoint x="745" y="325" />
+          <bendpoint x="1275" y="325" />
+          <bendpoint x="1375" y="325" />
         </connection>
         <connection identifier="id-06c528a3c42d4475b346d58295553ea6" relationshipRef="id-119c32e6c66545b088da3546a2d92a9d" xsi:type="Relationship" source="id-b5233d88fed841c784d5082c4100cb49" target="id-1b082a6f1ccf48afbcbbd12ada3b836d">
           <style>
@@ -16026,9 +16058,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="840" y="410" />
-          <bendpoint x="840" y="380" />
-          <bendpoint x="780" y="380" />
+          <bendpoint x="835" y="375" />
+          <bendpoint x="835" y="345" />
+          <bendpoint x="775" y="345" />
         </connection>
         <connection identifier="id-0e2ecdb367104066b188d59673ea4a17" relationshipRef="id-6c1f13408b574f5c917aa72e50ef93df" xsi:type="Relationship" source="id-b5233d88fed841c784d5082c4100cb49" target="id-24f9940c172f4cc691e98e50bebcad38">
           <style>
@@ -16037,7 +16069,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="128" g="128" b="128" />
             </font>
           </style>
-          <bendpoint x="910" y="440" />
+          <bendpoint x="905" y="405" />
         </connection>
         <connection identifier="id-c09da65c777c43889fb3c6c2a095757b" relationshipRef="id-81171" xsi:type="Relationship" source="id-24f9940c172f4cc691e98e50bebcad38" target="id-716556f329a24fb0b4caa84eb35495b4">
           <style>
@@ -16054,7 +16086,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1050" y="490" />
+          <bendpoint x="1045" y="455" />
         </connection>
         <connection identifier="id-bf43154072ae481ab5fe99f39af93293" relationshipRef="id-a284cd0bef9c47a796e0fc36d333687e" xsi:type="Relationship" source="id-24f9940c172f4cc691e98e50bebcad38" target="id-3a854669f91d4486b465dcfffb7c72f4">
           <style>
@@ -16063,7 +16095,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1130" y="360" />
+          <bendpoint x="1125" y="325" />
         </connection>
         <connection identifier="id-da3b242c6f3a43e4840b1cca1916d753" relationshipRef="id-81138" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-1b082a6f1ccf48afbcbbd12ada3b836d">
           <style>
@@ -16072,9 +16104,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="930" y="609" />
-          <bendpoint x="870" y="609" />
-          <bendpoint x="870" y="580" />
+          <bendpoint x="925" y="574" />
+          <bendpoint x="865" y="574" />
+          <bendpoint x="865" y="545" />
         </connection>
         <connection identifier="id-c0338ce0198a4c15a181454e9d1a6956" relationshipRef="id-81180" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-1b082a6f1ccf48afbcbbd12ada3b836d">
           <style>
@@ -16083,9 +16115,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1101" y="580" />
-          <bendpoint x="1101" y="609" />
-          <bendpoint x="1041" y="609" />
+          <bendpoint x="1096" y="545" />
+          <bendpoint x="1096" y="574" />
+          <bendpoint x="1036" y="574" />
         </connection>
         <connection identifier="id-5fff16cbbd0b42ba967f37601798f611" relationshipRef="id-81135" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-78c1aa12a4554fed863828855656f99b">
           <style>
@@ -16094,7 +16126,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="845" y="540" />
+          <bendpoint x="840" y="505" />
         </connection>
         <connection identifier="id-db33b0e47c0947a8b51130294e86e155" relationshipRef="id-81185" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-3a854669f91d4486b465dcfffb7c72f4">
           <style>
@@ -16103,7 +16135,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="945" y="400" />
+          <bendpoint x="940" y="365" />
         </connection>
         <connection identifier="id-6c7fff64b9d5411286b8ad825038c2c0" relationshipRef="id-85a1b4df49e541a8a3c8ffabfbc6baf0" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-24f9940c172f4cc691e98e50bebcad38">
           <style>
@@ -16112,7 +16144,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1060" y="500" />
+          <bendpoint x="1055" y="465" />
         </connection>
         <connection identifier="id-4c004d4a89c2450f9fdf94f9fa1c8391" relationshipRef="id-81157" xsi:type="Relationship" source="id-1b082a6f1ccf48afbcbbd12ada3b836d" target="id-716556f329a24fb0b4caa84eb35495b4">
           <style>
@@ -16121,7 +16153,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="128" g="128" b="128" />
             </font>
           </style>
-          <bendpoint x="1380" y="560" />
+          <bendpoint x="1375" y="525" />
         </connection>
         <connection identifier="id-d3681246a2cd407a8afbbd19dde56814" relationshipRef="id-2fe6efb62a144f608e9ec310cae29def" xsi:type="Relationship" source="id-4b74f7ac44754c2c94c1df0e0f480407" target="id-07e43acb169d443e85d3d45b75c4566c">
           <style>
@@ -16146,9 +16178,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="243" y="960" />
-          <bendpoint x="298" y="960" />
-          <bendpoint x="298" y="925" />
+          <bendpoint x="238" y="925" />
+          <bendpoint x="293" y="925" />
+          <bendpoint x="293" y="890" />
         </connection>
         <connection identifier="id-2fe90d8d90d74044adb74fa99332948c" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-f15ef54fcfbe4a7a9d1461725a15f33b" target="id-f15ef54fcfbe4a7a9d1461725a15f33b">
           <style>
@@ -16157,9 +16189,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="308" y="735" />
-          <bendpoint x="308" y="775" />
-          <bendpoint x="243" y="775" />
+          <bendpoint x="303" y="700" />
+          <bendpoint x="303" y="740" />
+          <bendpoint x="238" y="740" />
         </connection>
         <connection identifier="id-86faf7ca63a94e3a9508b63597d51770" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-f15ef54fcfbe4a7a9d1461725a15f33b" target="id-07e43acb169d443e85d3d45b75c4566c">
           <style>
@@ -16184,7 +16216,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1084" y="1240" />
+          <bendpoint x="1079" y="1205" />
         </connection>
         <connection identifier="id-1351138bcecc4aee8d9334e656172719" relationshipRef="id-56b50c9ac2d64a32a31add85a8f04088" xsi:type="Relationship" source="id-57331e7d8d1d4fcbb67bb79e5d1bc195" target="id-eca692f39d68418295cee70c4c6a7913">
           <style>
@@ -16201,7 +16233,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="128" g="128" b="128" />
             </font>
           </style>
-          <bendpoint x="1180" y="1050" />
+          <bendpoint x="1175" y="1015" />
         </connection>
         <connection identifier="id-678a5eecc10744fe94992565e04b7158" relationshipRef="id-a8ad6a2a32384b2abd892106a7c0f4e4" xsi:type="Relationship" source="id-829f3115dc3743baae53d68e40bf20a7" target="id-57331e7d8d1d4fcbb67bb79e5d1bc195">
           <style>
@@ -16218,7 +16250,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1400" y="1210" />
+          <bendpoint x="1395" y="1175" />
         </connection>
         <connection identifier="id-7afdbe0253aa4d14925fd9a52e03c51e" relationshipRef="id-aa6803f00f8849fe9eeb0b0e7456903a" xsi:type="Relationship" source="id-829f3115dc3743baae53d68e40bf20a7" target="id-7317c71747f047899185bfde4c7a9c54">
           <style>
@@ -16227,7 +16259,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="877" y="1260" />
+          <bendpoint x="872" y="1225" />
         </connection>
         <connection identifier="id-fed7d7120a074033ba05e6c504157836" relationshipRef="id-83f9c031df1141a3ab52b31a82887c7c" xsi:type="Relationship" source="id-829f3115dc3743baae53d68e40bf20a7" target="id-5f01ec90bd454390b80408075c4d9082">
           <style>
@@ -16292,7 +16324,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="740" y="835" />
+          <bendpoint x="735" y="800" />
         </connection>
         <connection identifier="id-87139172adf64bd6b3c45da9ca0588f9" relationshipRef="id-e8da80df96ee4de589d9740cb8f72046" xsi:type="Relationship" source="id-5f01ec90bd454390b80408075c4d9082" target="id-5f01ec90bd454390b80408075c4d9082">
           <style>
@@ -16301,9 +16333,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="820" y="890" />
-          <bendpoint x="820" y="860" />
-          <bendpoint x="770" y="860" />
+          <bendpoint x="815" y="855" />
+          <bendpoint x="815" y="825" />
+          <bendpoint x="765" y="825" />
         </connection>
         <connection identifier="id-31e1bf01ad9c48c99eb6df05b1e1d709" relationshipRef="id-81346" xsi:type="Relationship" source="id-5f01ec90bd454390b80408075c4d9082" target="id-4fba9de3b6f84d57b4265d01d4fbe68e">
           <style>
@@ -16312,7 +16344,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="910" y="920" />
+          <bendpoint x="905" y="885" />
         </connection>
         <connection identifier="id-2d3646c1a6a04794b16b1c70a6957d99" relationshipRef="id-79fd0c4932f343ad97895c852855ead2" xsi:type="Relationship" source="id-5f01ec90bd454390b80408075c4d9082" target="id-b503194e82ba4e9ea21f295e5a036a34">
           <style>
@@ -16329,7 +16361,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="780" y="990" />
+          <bendpoint x="775" y="955" />
         </connection>
         <connection identifier="id-8214c52a03fc4e0f9a79611de9ccf451" relationshipRef="id-81348" xsi:type="Relationship" source="id-5f01ec90bd454390b80408075c4d9082" target="id-fa65c0360332448dbb2e1bb3b76d2ae2">
           <style>
@@ -16338,7 +16370,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="955" y="900" />
+          <bendpoint x="950" y="865" />
         </connection>
         <connection identifier="id-0dc7455dff964d36a15de4bf878aaee9" relationshipRef="id-b063e1e54f8f44f1948469ebcfc5529d" xsi:type="Relationship" source="id-5f01ec90bd454390b80408075c4d9082" target="id-736e49a546da4b9da7350ff30f1c6c85">
           <style>
@@ -16347,7 +16379,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="465" y="905" />
+          <bendpoint x="460" y="870" />
         </connection>
         <connection identifier="id-2dde963fac9e4c2294fe2c7ec754190d" relationshipRef="id-4ff675c551f9452b8da297c62f936554" xsi:type="Relationship" source="id-c881af1d527748cea4da5686563b1b13" target="id-fa65c0360332448dbb2e1bb3b76d2ae2">
           <style>
@@ -16356,7 +16388,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="990" y="905" />
+          <bendpoint x="985" y="870" />
         </connection>
         <connection identifier="id-d360cdcbe39046adafffb7561136f245" relationshipRef="id-bfaea678c87c4843adac175dbfde52e4" xsi:type="Relationship" source="id-c881af1d527748cea4da5686563b1b13" target="id-c881af1d527748cea4da5686563b1b13">
           <style>
@@ -16365,9 +16397,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="930" y="1020" />
-          <bendpoint x="930" y="990" />
-          <bendpoint x="975" y="990" />
+          <bendpoint x="925" y="985" />
+          <bendpoint x="925" y="955" />
+          <bendpoint x="970" y="955" />
         </connection>
         <connection identifier="id-cbd6575a257143cea90d7e7d6bf662a7" relationshipRef="id-1e143a25ce8a4a3b9daeb48af826740e" xsi:type="Relationship" source="id-c881af1d527748cea4da5686563b1b13" target="id-b0dca794a20e4c9c9ea86eb3e70f1f1d">
           <style>
@@ -16376,7 +16408,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="899" y="1051" />
+          <bendpoint x="894" y="1016" />
         </connection>
         <connection identifier="id-e010ff77263c4bdc8f157b674163b91a" relationshipRef="id-fcb578fed2744f9e941d996bc99b1c22" xsi:type="Relationship" source="id-4fba9de3b6f84d57b4265d01d4fbe68e" target="id-c881af1d527748cea4da5686563b1b13">
           <style>
@@ -16385,7 +16417,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1107" y="975" />
+          <bendpoint x="1102" y="940" />
         </connection>
         <connection identifier="id-6c8301edeac7483e8b97710ea67be294" relationshipRef="id-81315" xsi:type="Relationship" source="id-4fba9de3b6f84d57b4265d01d4fbe68e" target="id-fa65c0360332448dbb2e1bb3b76d2ae2">
           <style>
@@ -16394,7 +16426,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1045" y="830" />
+          <bendpoint x="1040" y="795" />
         </connection>
         <connection identifier="id-49875027de8c4f008e5a5c61987d3e7f" relationshipRef="id-873fdce6308c4deabdfe353edae67046" xsi:type="Relationship" source="id-4fba9de3b6f84d57b4265d01d4fbe68e" target="id-c881af1d527748cea4da5686563b1b13">
           <style>
@@ -16403,7 +16435,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1057" y="965" />
+          <bendpoint x="1052" y="930" />
         </connection>
         <connection identifier="id-9a139b09125d429587a9a6da6d161e32" relationshipRef="id-a4e4f21ab0b94a43a7805ac861ae48a2" xsi:type="Relationship" source="id-4fba9de3b6f84d57b4265d01d4fbe68e" target="id-9527edeafffe406dbd249ff1af2984ba">
           <style>
@@ -16428,7 +16460,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="670" y="825" />
+          <bendpoint x="665" y="790" />
         </connection>
         <connection identifier="id-44be382fb9a841949b7f8c1fc2e68047" relationshipRef="id-404eef7a1cc74936b59a506d83e40609" xsi:type="Relationship" source="id-af4385a2ccdc4d92a322a92ccc5211f5" target="id-736e49a546da4b9da7350ff30f1c6c85">
           <style>
@@ -16453,7 +16485,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="770" y="970" />
+          <bendpoint x="765" y="935" />
         </connection>
         <connection identifier="id-be2a313192ec4b0a98576babd74dc3d4" relationshipRef="id-81313" xsi:type="Relationship" source="id-fa65c0360332448dbb2e1bb3b76d2ae2" target="id-24f9940c172f4cc691e98e50bebcad38">
           <style>
@@ -16462,7 +16494,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1130" y="600" />
+          <bendpoint x="1125" y="565" />
         </connection>
         <connection identifier="id-f2f6520b6aa34e2280bd691a7c3b8de7" relationshipRef="id-81324" xsi:type="Relationship" source="id-fa65c0360332448dbb2e1bb3b76d2ae2" target="id-9527edeafffe406dbd249ff1af2984ba">
           <style>
@@ -16471,7 +16503,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1395" y="770" />
+          <bendpoint x="1390" y="735" />
         </connection>
         <connection identifier="id-5b5a7a61258d4a4889679c0e3d896246" relationshipRef="id-81317" xsi:type="Relationship" source="id-fa65c0360332448dbb2e1bb3b76d2ae2" target="id-4fba9de3b6f84d57b4265d01d4fbe68e">
           <style>
@@ -16496,7 +16528,7 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="975" y="910" />
+          <bendpoint x="970" y="875" />
         </connection>
         <connection identifier="id-65424e4bf327433faa17583ff091862d" relationshipRef="id-81321" xsi:type="Relationship" source="id-9527edeafffe406dbd249ff1af2984ba" target="id-716556f329a24fb0b4caa84eb35495b4">
           <style>
@@ -16513,9 +16545,9 @@ In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in het GEMMA ken
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="420" y="190" />
-          <bendpoint x="520" y="190" />
-          <bendpoint x="520" y="130" />
+          <bendpoint x="445" y="155" />
+          <bendpoint x="510" y="155" />
+          <bendpoint x="510" y="105" />
         </connection>
       </view>
       <view identifier="id-4f3230f6d16f46ab92ff7e45cea0d472" xsi:type="Diagram">
@@ -16531,7 +16563,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
             <value xml:lang="nl">4bdf7f48-6db9-40cf-ace2-4ce9ce18aa64</value>
           </property>
         </properties>
-        <node identifier="id-008ad5e6cc354e77be604c42b8310a17" x="50" y="350" w="361" h="731" xsi:type="Container">
+        <node identifier="id-008ad5e6cc354e77be604c42b8310a17" x="40" y="310" w="361" h="731" xsi:type="Container">
           <label xml:lang="nl">Motivatie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16540,7 +16572,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-3c4f33527e954ed783abdbc8f4b6af60" elementRef="id-81077" xsi:type="Element" x="130" y="760" w="176" h="61">
+          <node identifier="id-3c4f33527e954ed783abdbc8f4b6af60" elementRef="id-81077" xsi:type="Element" x="120" y="720" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16549,7 +16581,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-1c4ec7493c1c4acd9b5fbf46e0666c9d" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="130" y="495" w="176" h="61">
+          <node identifier="id-1c4ec7493c1c4acd9b5fbf46e0666c9d" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="120" y="450" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16558,7 +16590,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-1db6a0ef068f46229852416e48fb3cde" elementRef="id-81079" xsi:type="Element" x="130" y="610" w="176" h="81">
+          <node identifier="id-1db6a0ef068f46229852416e48fb3cde" elementRef="id-81079" xsi:type="Element" x="120" y="570" w="176" h="81">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16566,7 +16598,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-a37763fc0a8e4b719fac5d6c5d81220f" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="155" y="645" w="121" h="31">
+            <node identifier="id-a37763fc0a8e4b719fac5d6c5d81220f" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="145" y="605" w="121" h="31">
               <style>
                 <fillColor r="204" g="204" b="255" a="100" />
                 <lineColor r="0" g="0" b="0" a="100" />
@@ -16576,7 +16608,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </style>
             </node>
           </node>
-          <node identifier="id-27e5e76637ad42f8b1cb5a674f3c8dd5" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="130" y="380" w="176" h="61">
+          <node identifier="id-27e5e76637ad42f8b1cb5a674f3c8dd5" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="120" y="345" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16586,7 +16618,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
             </style>
           </node>
         </node>
-        <node identifier="id-f1ca57ec82fd443e8af15a0640abcc70" x="430" y="870" w="911" h="211" xsi:type="Container">
+        <node identifier="id-f1ca57ec82fd443e8af15a0640abcc70" x="420" y="830" w="911" h="211" xsi:type="Container">
           <label xml:lang="nl">Technologielaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16595,7 +16627,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-7168cfec5f864959bda13600f3ef4c83" elementRef="id-daa817da8ea5439ba8b5cae576798392" xsi:type="Element" x="780" y="900" w="231" h="61">
+          <node identifier="id-7168cfec5f864959bda13600f3ef4c83" elementRef="id-daa817da8ea5439ba8b5cae576798392" xsi:type="Element" x="770" y="860" w="231" h="61">
             <style>
               <fillColor r="198" g="239" b="206" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16604,7 +16636,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-6da4b8ace7c34a1ba44a17cefdf94e78" elementRef="id-c41c2dd8b2ac49c99b7a1b0c64bd075f" xsi:type="Element" x="780" y="1000" w="231" h="61">
+          <node identifier="id-6da4b8ace7c34a1ba44a17cefdf94e78" elementRef="id-c41c2dd8b2ac49c99b7a1b0c64bd075f" xsi:type="Element" x="770" y="960" w="231" h="61">
             <style>
               <fillColor r="222" g="246" b="227" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16614,7 +16646,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
             </style>
           </node>
         </node>
-        <node identifier="id-2b76724635b646189201d0a17f5c99dd" x="430" y="230" w="911" h="331" xsi:type="Container">
+        <node identifier="id-2b76724635b646189201d0a17f5c99dd" x="420" y="190" w="911" h="331" xsi:type="Container">
           <label xml:lang="nl">Bedrijfslaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16623,7 +16655,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-151b5a329ef142dc9e0ad9fc48eaa041" elementRef="id-81158" xsi:type="Element" x="1110" y="320" w="141" h="61">
+          <node identifier="id-151b5a329ef142dc9e0ad9fc48eaa041" elementRef="id-81158" xsi:type="Element" x="1100" y="280" w="141" h="61">
             <style>
               <fillColor r="254" g="254" b="180" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16632,7 +16664,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-cb123c29e8d8425ab3646933ca861de7" elementRef="id-81166" xsi:type="Element" x="450" y="360" w="141" h="61">
+          <node identifier="id-cb123c29e8d8425ab3646933ca861de7" elementRef="id-81166" xsi:type="Element" x="440" y="320" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16641,7 +16673,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-2f8aed2c711f4e2a866501928fb90a23" elementRef="id-81137" xsi:type="Element" x="750" y="440" w="171" h="61">
+          <node identifier="id-2f8aed2c711f4e2a866501928fb90a23" elementRef="id-81137" xsi:type="Element" x="740" y="400" w="171" h="61">
             <style>
               <fillColor r="255" g="255" b="204" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16650,7 +16682,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-5848f18ef10a4654885ca2bbf5a277c0" elementRef="id-81162" xsi:type="Element" x="450" y="270" w="141" h="61">
+          <node identifier="id-5848f18ef10a4654885ca2bbf5a277c0" elementRef="id-81162" xsi:type="Element" x="440" y="230" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16659,7 +16691,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-64d9cb9ec66b4c8faf622b7452022162" elementRef="id-81182" xsi:type="Element" x="640" y="320" w="141" h="61">
+          <node identifier="id-64d9cb9ec66b4c8faf622b7452022162" elementRef="id-81182" xsi:type="Element" x="630" y="280" w="141" h="61">
             <style>
               <fillColor r="255" g="255" b="221" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16668,7 +16700,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-ee719aeadbbc45fe861d7c933cea2dbd" elementRef="id-44bbb0184dbb43adaca73495aaf7155f" xsi:type="Element" x="860" y="320" w="171" h="61">
+          <node identifier="id-ee719aeadbbc45fe861d7c933cea2dbd" elementRef="id-44bbb0184dbb43adaca73495aaf7155f" xsi:type="Element" x="850" y="280" w="171" h="61">
             <style>
               <fillColor r="255" g="255" b="204" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16678,7 +16710,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
             </style>
           </node>
         </node>
-        <node identifier="id-df7666cd503f477f97d19dcde25eadb6" x="430" y="580" w="911" h="271" xsi:type="Container">
+        <node identifier="id-df7666cd503f477f97d19dcde25eadb6" x="420" y="540" w="911" h="271" xsi:type="Container">
           <label xml:lang="nl">Applicatielaag</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16687,7 +16719,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-81ba276b7f404e95a839a4c924c43903" elementRef="id-81341" xsi:type="Element" x="550" y="770" w="141" h="61">
+          <node identifier="id-81ba276b7f404e95a839a4c924c43903" elementRef="id-81341" xsi:type="Element" x="540" y="730" w="141" h="61">
             <style>
               <fillColor r="218" g="238" b="243" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16696,7 +16728,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-c76af8e5e1ab4c449889b880a30d6e00" elementRef="id-81344" xsi:type="Element" x="550" y="620" w="141" h="61">
+          <node identifier="id-c76af8e5e1ab4c449889b880a30d6e00" elementRef="id-81344" xsi:type="Element" x="540" y="580" w="141" h="61">
             <style>
               <fillColor r="218" g="238" b="243" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16705,7 +16737,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               </font>
             </style>
           </node>
-          <node identifier="id-80c6f77b3a75443bb13a57a2693f0744" elementRef="id-81265" xsi:type="Element" x="770" y="620" w="231" h="61">
+          <node identifier="id-80c6f77b3a75443bb13a57a2693f0744" elementRef="id-81265" xsi:type="Element" x="760" y="580" w="231" h="61">
             <style>
               <fillColor r="183" g="222" b="232" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16715,7 +16747,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
             </style>
           </node>
         </node>
-        <node identifier="id-14b7546320d34c1faad16a6c7285edc3" x="50" y="70" w="491" h="141" xsi:type="Container">
+        <node identifier="id-14b7546320d34c1faad16a6c7285edc3" x="40" y="30" w="491" h="141" xsi:type="Container">
           <label xml:lang="nl">Groeperen</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16724,7 +16756,7 @@ In het GEMMA kennismodel zijn alle in de GEMMA gebruikte ArchiMate element- en r
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-efa594214c8a435aa2aca07be498d278" xsi:type="Label" x="70" y="100" w="241" h="91">
+          <node identifier="id-efa594214c8a435aa2aca07be498d278" xsi:type="Label" x="60" y="60" w="241" h="91">
             <label xml:lang="nl">Groepen worden niet getoond. Zo blijft het kennismodel overzichtelijk. &#xD;
 Voor groepen geldt:&#xD;
 * Een groep kan alle concepten groeperen&#xD;
@@ -16737,7 +16769,7 @@ Voor groepen geldt:&#xD;
               </font>
             </style>
           </node>
-          <node identifier="id-f2238d8621714ecf9c610d47724de849" elementRef="id-bd33c6c868514f7780d80f62179cb315" xsi:type="Element" x="340" y="100" w="141" h="61">
+          <node identifier="id-ffe6315750294fb7b5edb280bed11443" elementRef="id-bd33c6c868514f7780d80f62179cb315" xsi:type="Element" x="335" y="60" w="141" h="61">
             <style>
               <fillColor r="239" g="239" b="239" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -16747,7 +16779,7 @@ Voor groepen geldt:&#xD;
             </style>
           </node>
         </node>
-        <node identifier="id-32a364c22f5c40b5904008fda12cff89" x="50" y="230" w="361" h="111" xsi:type="Container">
+        <node identifier="id-32a364c22f5c40b5904008fda12cff89" x="40" y="190" w="361" h="111" xsi:type="Container">
           <label xml:lang="nl">Strategie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -16756,7 +16788,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-43290db48be5493c96b09017c7cd54ae" elementRef="id-110929539adf4eda91f50d11bf5ad833" xsi:type="Element" x="135" y="270" w="176" h="61">
+          <node identifier="id-43290db48be5493c96b09017c7cd54ae" elementRef="id-110929539adf4eda91f50d11bf5ad833" xsi:type="Element" x="125" y="230" w="176" h="61">
             <style>
               <fillColor r="249" g="194" b="104" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -16773,9 +16805,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="270" y="840" />
-          <bendpoint x="325" y="840" />
-          <bendpoint x="325" y="805" />
+          <bendpoint x="260" y="800" />
+          <bendpoint x="315" y="800" />
+          <bendpoint x="315" y="765" />
         </connection>
         <connection identifier="id-4017d775c84642ad9b34441aaa3b1725" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-1db6a0ef068f46229852416e48fb3cde" target="id-1db6a0ef068f46229852416e48fb3cde">
           <style>
@@ -16784,9 +16816,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="335" y="670" />
-          <bendpoint x="335" y="710" />
-          <bendpoint x="270" y="710" />
+          <bendpoint x="325" y="630" />
+          <bendpoint x="325" y="670" />
+          <bendpoint x="260" y="670" />
         </connection>
         <connection identifier="id-90b05b7b31764534b61a7853ec8d1735" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-1db6a0ef068f46229852416e48fb3cde" target="id-1c4ec7493c1c4acd9b5fbf46e0666c9d">
           <style>
@@ -16819,9 +16851,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1290" y="335" />
-          <bendpoint x="1290" y="300" />
-          <bendpoint x="1230" y="300" />
+          <bendpoint x="1280" y="295" />
+          <bendpoint x="1280" y="260" />
+          <bendpoint x="1220" y="260" />
         </connection>
         <connection identifier="id-66a5132df61743f9b963aa6e4b34c9ea" relationshipRef="id-821997e066244005811bb0b897fa3778" xsi:type="Relationship" source="id-151b5a329ef142dc9e0ad9fc48eaa041" target="id-151b5a329ef142dc9e0ad9fc48eaa041">
           <style>
@@ -16830,9 +16862,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1230" y="390" />
-          <bendpoint x="1290" y="390" />
-          <bendpoint x="1290" y="360" />
+          <bendpoint x="1220" y="350" />
+          <bendpoint x="1280" y="350" />
+          <bendpoint x="1280" y="320" />
         </connection>
         <connection identifier="id-59d25dd05f2a40b3be1f6dc647a0dfc4" relationshipRef="id-81181" xsi:type="Relationship" source="id-cb123c29e8d8425ab3646933ca861de7" target="id-64d9cb9ec66b4c8faf622b7452022162">
           <style>
@@ -16849,9 +16881,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="780" y="520" />
-          <bendpoint x="730" y="520" />
-          <bendpoint x="730" y="490" />
+          <bendpoint x="770" y="480" />
+          <bendpoint x="720" y="480" />
+          <bendpoint x="720" y="450" />
         </connection>
         <connection identifier="id-ad05ad694f804bcd9943fff364dc2386" relationshipRef="id-81180" xsi:type="Relationship" source="id-2f8aed2c711f4e2a866501928fb90a23" target="id-2f8aed2c711f4e2a866501928fb90a23">
           <style>
@@ -16860,9 +16892,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="940" y="490" />
-          <bendpoint x="940" y="520" />
-          <bendpoint x="890" y="520" />
+          <bendpoint x="930" y="450" />
+          <bendpoint x="930" y="480" />
+          <bendpoint x="880" y="480" />
         </connection>
         <connection identifier="id-3fd1cee4efdf4464b7e9f6ba78d501d8" relationshipRef="id-81187" xsi:type="Relationship" source="id-5848f18ef10a4654885ca2bbf5a277c0" target="id-64d9cb9ec66b4c8faf622b7452022162">
           <style>
@@ -16887,9 +16919,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="830" y="330" />
-          <bendpoint x="830" y="300" />
-          <bendpoint x="770" y="300" />
+          <bendpoint x="820" y="290" />
+          <bendpoint x="820" y="260" />
+          <bendpoint x="760" y="260" />
         </connection>
         <connection identifier="id-ffd04af547fd46a29dc5ad15b42f19da" relationshipRef="id-af343e0106f042b3844a4915804a3b2b" xsi:type="Relationship" source="id-81ba276b7f404e95a839a4c924c43903" target="id-c76af8e5e1ab4c449889b880a30d6e00">
           <style>
@@ -16898,7 +16930,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="640" y="725" />
+          <bendpoint x="630" y="685" />
         </connection>
         <connection identifier="id-ab1c6ca63eb64da585094f807c2d1188" relationshipRef="id-e8da80df96ee4de589d9740cb8f72046" xsi:type="Relationship" source="id-81ba276b7f404e95a839a4c924c43903" target="id-81ba276b7f404e95a839a4c924c43903">
           <style>
@@ -16907,9 +16939,9 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="720" y="780" />
-          <bendpoint x="720" y="750" />
-          <bendpoint x="670" y="750" />
+          <bendpoint x="710" y="740" />
+          <bendpoint x="710" y="710" />
+          <bendpoint x="660" y="710" />
         </connection>
         <connection identifier="id-2978d86ae3524700922f67912101bddb" relationshipRef="id-b063e1e54f8f44f1948469ebcfc5529d" xsi:type="Relationship" source="id-81ba276b7f404e95a839a4c924c43903" target="id-3c4f33527e954ed783abdbc8f4b6af60">
           <style>
@@ -16918,7 +16950,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="430" y="785" />
+          <bendpoint x="420" y="745" />
         </connection>
         <connection identifier="id-0379a20d4f494b128e6a47aa48334dfa" relationshipRef="id-81348" xsi:type="Relationship" source="id-81ba276b7f404e95a839a4c924c43903" target="id-80c6f77b3a75443bb13a57a2693f0744">
           <style>
@@ -16927,7 +16959,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="825" y="790" />
+          <bendpoint x="815" y="750" />
         </connection>
         <connection identifier="id-70dd4541b2574725a1d0f8f1c336365f" relationshipRef="id-81361" xsi:type="Relationship" source="id-c76af8e5e1ab4c449889b880a30d6e00" target="id-80c6f77b3a75443bb13a57a2693f0744">
           <style>
@@ -16944,7 +16976,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="570" y="715" />
+          <bendpoint x="560" y="675" />
         </connection>
         <connection identifier="id-dedac84cb951485ca8806cde203a6194" relationshipRef="id-404eef7a1cc74936b59a506d83e40609" xsi:type="Relationship" source="id-c76af8e5e1ab4c449889b880a30d6e00" target="id-3c4f33527e954ed783abdbc8f4b6af60">
           <style>
@@ -16961,7 +16993,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="970" y="500" />
+          <bendpoint x="960" y="460" />
         </connection>
         <connection identifier="id-28984ee010a24f7ca1b7a55a21dd9af4" relationshipRef="id-1c187d93908940eaa71e4ba415b5faac" xsi:type="Relationship" source="id-80c6f77b3a75443bb13a57a2693f0744" target="id-81ba276b7f404e95a839a4c924c43903">
           <style>
@@ -16970,18 +17002,18 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="850" y="800" />
+          <bendpoint x="840" y="760" />
         </connection>
-        <connection identifier="id-e1b18ff667c44404b631b08851724edd" relationshipRef="id-c208ff49159e451ab9d11d6ecc7a346e" xsi:type="Relationship" source="id-f2238d8621714ecf9c610d47724de849" target="id-f2238d8621714ecf9c610d47724de849">
+        <connection identifier="id-ecfc7df1b55940c09e2a87a6d756d3c2" relationshipRef="id-c208ff49159e451ab9d11d6ecc7a346e" xsi:type="Relationship" source="id-ffe6315750294fb7b5edb280bed11443" target="id-ffe6315750294fb7b5edb280bed11443">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="430" y="190" />
-          <bendpoint x="510" y="190" />
-          <bendpoint x="510" y="140" />
+          <bendpoint x="435" y="150" />
+          <bendpoint x="500" y="150" />
+          <bendpoint x="500" y="100" />
         </connection>
       </view>
       <view identifier="id-796de5f150f94408a93081791dbd1304" xsi:type="Diagram">
@@ -16995,7 +17027,7 @@ Voor groepen geldt:&#xD;
             <value xml:lang="nl">6dcbc5fb-a3e6-4bb8-b5e1-b528d5ffccb6</value>
           </property>
         </properties>
-        <node identifier="id-cc03a857bee84263a2133f247bf37a05" x="15" y="25" w="331" h="406" xsi:type="Container">
+        <node identifier="id-6ca80cbb52d14cc49753a0e5faa4dd83" x="35" y="25" w="571" h="271" xsi:type="Container">
           <label xml:lang="nl">Motivatie</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
@@ -17004,7 +17036,7 @@ Voor groepen geldt:&#xD;
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-3455d05356dc4508abc841d81369490e" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="85" y="190" w="176" h="61">
+          <node identifier="id-7582994483b54d1c86286199efb29733" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="350" y="60" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -17013,7 +17045,7 @@ Voor groepen geldt:&#xD;
               </font>
             </style>
           </node>
-          <node identifier="id-32d4b32627f74a0a9bc9c1d5fbe5278d" elementRef="id-81079" xsi:type="Element" x="85" y="305" w="176" h="81">
+          <node identifier="id-e2a863892a6540d99f81176ee5465351" elementRef="id-81079" xsi:type="Element" x="350" y="175" w="176" h="81">
             <style>
               <fillColor r="204" g="204" b="255" a="100" />
               <lineColor r="0" g="0" b="0" a="100" />
@@ -17021,7 +17053,7 @@ Voor groepen geldt:&#xD;
                 <color r="0" g="0" b="0" />
               </font>
             </style>
-            <node identifier="id-7f80352b2dd34638836c8efba5e06482" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="110" y="340" w="121" h="31">
+            <node identifier="id-f45455abc67e4db79aa61af3964d75af" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="375" y="210" w="121" h="31">
               <style>
                 <fillColor r="204" g="204" b="255" a="100" />
                 <lineColor r="0" g="0" b="0" a="100" />
@@ -17031,7 +17063,7 @@ Voor groepen geldt:&#xD;
               </style>
             </node>
           </node>
-          <node identifier="id-d71320dbc37b4607a72068705493de29" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="85" y="75" w="176" h="61">
+          <node identifier="id-1b7c4d1999784e8683d7023de59c0cd8" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="80" y="60" w="176" h="61">
             <style>
               <fillColor r="202" g="181" b="234" a="100" />
               <lineColor r="79" g="79" b="79" a="100" />
@@ -17041,7 +17073,18 @@ Voor groepen geldt:&#xD;
             </style>
           </node>
         </node>
-        <connection identifier="id-324ac536678846468bb116befea3f649" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-32d4b32627f74a0a9bc9c1d5fbe5278d" target="id-3455d05356dc4508abc841d81369490e">
+        <connection identifier="id-973fdc09fbfd4da68f05c976cfa61e90" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-e2a863892a6540d99f81176ee5465351" target="id-e2a863892a6540d99f81176ee5465351">
+          <style>
+            <lineColor r="29" g="29" b="29" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <bendpoint x="555" y="235" />
+          <bendpoint x="555" y="275" />
+          <bendpoint x="490" y="275" />
+        </connection>
+        <connection identifier="id-e6c8e776f72c4bb59f5e544613bd5bda" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-e2a863892a6540d99f81176ee5465351" target="id-7582994483b54d1c86286199efb29733">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
@@ -17049,18 +17092,7 @@ Voor groepen geldt:&#xD;
             </font>
           </style>
         </connection>
-        <connection identifier="id-26b1a0744dc046289a3b6ff4aa0f5a03" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-32d4b32627f74a0a9bc9c1d5fbe5278d" target="id-32d4b32627f74a0a9bc9c1d5fbe5278d">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-          <bendpoint x="290" y="365" />
-          <bendpoint x="290" y="405" />
-          <bendpoint x="225" y="405" />
-        </connection>
-        <connection identifier="id-4f0e388dde6644cb98fc9b411de9ed13" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-d71320dbc37b4607a72068705493de29" target="id-3455d05356dc4508abc841d81369490e">
+        <connection identifier="id-8798296f8620420a894b663353c24eb8" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-1b7c4d1999784e8683d7023de59c0cd8" target="id-7582994483b54d1c86286199efb29733">
           <style>
             <lineColor r="29" g="29" b="29" />
             <font name="Segoe UI" size="9">
