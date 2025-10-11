@@ -13,7 +13,7 @@
       <value xml:lang="nl">7382f25e-04b1-443e-abe5-00fa6e7212c4</value>
     </property>
     <property propertyDefinitionRef="propid-20">
-      <value xml:lang="nl">2025-10-05</value>
+      <value xml:lang="nl">2025-10-11</value>
     </property>
   </properties>
   <elements>
@@ -3244,7 +3244,7 @@ Voor 2021 staat een nieuwe Nederlandse Omgevingswet op stapel. Deze wet richt zi
     </element>
     <element identifier="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Requirement">
       <name xml:lang="nl">Implicatie</name>
-      <documentation xml:lang="nl">De consequenties van een architectuurprincipe op jouw praktijk (eigen context, project, organisatie)</documentation>
+      <documentation xml:lang="nl">De acties die nodig zijn om een architectuurprincipe in de praktijk toe te passen</documentation>
       <properties>
         <property propertyDefinitionRef="propid-2">
           <value xml:lang="nl">21c9b5a9-6d9d-47c8-9400-93063429d86d</value>
@@ -4094,7 +4094,6 @@ Voor 2021 staat een nieuwe Nederlandse Omgevingswet op stapel. Deze wet richt zi
       </properties>
     </relationship>
     <relationship identifier="id-580cb1c9dfec4ec8b90ffa198dd9619c" source="id-81079" target="id-81079" xsi:type="Association" isDirected="true">
-      <name xml:lang="nl">bouwt voort op</name>
       <documentation xml:lang="nl">Het ene principe bouwt voort op het andere en zorgt voor samenhang in beleid en uitvoering</documentation>
       <properties>
         <property propertyDefinitionRef="propid-2">
@@ -9322,7 +9321,6 @@ Eigenschappen van de relatie 'aanbevolen of verplichte standaard'
           <item>
             <label xml:lang="nl">Motivatie overzichtpagina's</label>
             <item identifierRef="id-7d60b9518fad4718ace0446ae3b6b5d4" />
-            <item identifierRef="id-2d8b77ebb36a4b2186d83658c4e213c9" />
             <item identifierRef="id-86ceefafb067402b8ac2a9d83cf0a981" />
             <item identifierRef="id-88f89e5fef914f82a0e4d4a9631078b8" />
           </item>
@@ -15126,14 +15124,14 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
         </properties>
         <node identifier="id-b44abf58a0654c68ba4213ad9f515019" xsi:type="Label" x="20" y="25" w="551" h="296">
           <style>
-            <fillColor r="244" g="244" b="244" a="100" />
-            <lineColor r="128" g="128" b="255" a="0" />
-            <font name="Segoe UI" size="9">
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="11" style="bold">
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <node identifier="id-d05d4165da4a42b3b77d910eb9ab8c3b" xsi:type="Label" x="250" y="170" w="306" h="136">
+        <node identifier="id-d05d4165da4a42b3b77d910eb9ab8c3b" xsi:type="Label" x="250" y="115" w="306" h="191">
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
             <lineColor r="255" g="255" b="255" a="100" />
@@ -15178,7 +15176,7 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
             </style>
           </node>
         </node>
-        <node identifier="id-b253df98b4644986ad78e01a525ef155" xsi:type="Label" x="250" y="170" w="306" h="136">
+        <node identifier="id-b253df98b4644986ad78e01a525ef155" xsi:type="Label" x="250" y="115" w="306" h="191">
           <style>
             <fillColor r="255" g="255" b="255" a="0" />
             <lineColor r="255" g="0" b="0" a="100" />
@@ -15215,108 +15213,6 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
           </style>
         </connection>
       </view>
-      <view identifier="id-2d8b77ebb36a4b2186d83658c4e213c9" xsi:type="Diagram">
-        <name xml:lang="nl">Motivatie overzicht Architectuurprinicpes en kwaliteitsdoelen</name>
-        <documentation xml:lang="nl">Inhoud van de tabel op de pagina Architectuurprincipes en kwaliteitsdoelen</documentation>
-        <properties>
-          <property propertyDefinitionRef="propid-16">
-            <value xml:lang="nl">GEMMA Online en redactie</value>
-          </property>
-          <property propertyDefinitionRef="propid-2">
-            <value xml:lang="nl">4dabc12f-7905-437c-be05-521535ae4db9</value>
-          </property>
-        </properties>
-        <node identifier="id-c06c9737ff1d4ae78ab01d167b3e8f33" xsi:type="Label" x="25" y="35" w="551" h="296">
-          <style>
-            <fillColor r="244" g="244" b="244" a="100" />
-            <lineColor r="128" g="128" b="255" a="0" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <node identifier="id-83edcbf548be48aa8cfa4c9e9ff04901" xsi:type="Label" x="268" y="120" w="251" h="106">
-          <style>
-            <fillColor r="255" g="255" b="255" a="100" />
-            <lineColor r="255" g="255" b="255" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <node identifier="id-e07daaef8c6842f79e24ab0e8b2caf64" elementRef="id-e9423a50debe404f897ccd5edbdb89ae" xsi:type="Element" x="305" y="80" w="176" h="61">
-          <style>
-            <fillColor r="202" g="181" b="234" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <node identifier="id-eb879c8c56854dec890eb884f2e940d7" elementRef="id-7411097eb4224fb99e0989c5f72484e5" xsi:type="Element" x="35" y="80" w="176" h="61">
-          <style>
-            <fillColor r="202" g="181" b="234" a="100" />
-            <lineColor r="79" g="79" b="79" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <node identifier="id-fb062ce91c244c0b9582d900a9ab0ec8" elementRef="id-81079" xsi:type="Element" x="305" y="195" w="176" h="81">
-          <style>
-            <fillColor r="204" g="204" b="255" a="100" />
-            <lineColor r="0" g="0" b="0" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-          <node identifier="id-9c0a422c6c7845e597de283dcccd5df0" elementRef="id-813c9f510dbf4d3180fec008afa51742" xsi:type="Element" x="330" y="230" w="121" h="31">
-            <style>
-              <fillColor r="204" g="204" b="255" a="100" />
-              <lineColor r="0" g="0" b="0" a="100" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-        </node>
-        <node identifier="id-9d6f30362aec438e89b4d02e8104b4b7" xsi:type="Label" x="268" y="120" w="251" h="106">
-          <style>
-            <fillColor r="255" g="255" b="255" a="0" />
-            <lineColor r="255" g="0" b="0" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <connection identifier="id-e8df6f1ac6634093a414ee64db964ce2" relationshipRef="id-8be5f84db04a434ea049f3269b56e038" xsi:type="Relationship" source="id-eb879c8c56854dec890eb884f2e940d7" target="id-e07daaef8c6842f79e24ab0e8b2caf64">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </connection>
-        <connection identifier="id-b77de7ae2d1a4135a8a68b2ebecda513" relationshipRef="id-580cb1c9dfec4ec8b90ffa198dd9619c" xsi:type="Relationship" source="id-fb062ce91c244c0b9582d900a9ab0ec8" target="id-fb062ce91c244c0b9582d900a9ab0ec8">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-          <bendpoint x="510" y="255" />
-          <bendpoint x="510" y="295" />
-          <bendpoint x="445" y="295" />
-        </connection>
-        <connection identifier="id-d838b5fc42f84ce39d4973bee8a80844" relationshipRef="id-5022c3d0351646299cdcb8ff36319879" xsi:type="Relationship" source="id-fb062ce91c244c0b9582d900a9ab0ec8" target="id-e07daaef8c6842f79e24ab0e8b2caf64">
-          <style>
-            <lineColor r="29" g="29" b="29" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </connection>
-      </view>
       <view identifier="id-86ceefafb067402b8ac2a9d83cf0a981" xsi:type="Diagram">
         <name xml:lang="nl">Motivatie overzicht Kwaliteitsdoelen</name>
         <documentation xml:lang="nl">Inhoud van de tabel op de pagina Kwaliteitsdoelen</documentation>
@@ -15330,9 +15226,9 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
         </properties>
         <node identifier="id-fd1f8f11dda84fafa3665bc715eed3fc" xsi:type="Label" x="15" y="20" w="546" h="281">
           <style>
-            <fillColor r="244" g="244" b="244" a="100" />
-            <lineColor r="128" g="128" b="255" a="0" />
-            <font name="Segoe UI" size="9">
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="11" style="bold">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -15432,9 +15328,9 @@ Bijvoorbeeld een gemeente kan besluiten zijn repository alleen te delen met geme
         </properties>
         <node identifier="id-8a357bc2314a493aa46cd7b57a011825" xsi:type="Label" x="15" y="30" w="566" h="281">
           <style>
-            <fillColor r="244" g="244" b="244" a="100" />
-            <lineColor r="128" g="128" b="255" a="0" />
-            <font name="Segoe UI" size="9">
+            <fillColor r="255" g="255" b="255" a="100" />
+            <lineColor r="79" g="79" b="79" a="100" />
+            <font name="Segoe UI" size="11" style="bold">
               <color r="0" g="0" b="0" />
             </font>
           </style>
