@@ -8,8 +8,8 @@
       value="bf885609-3cdc-4005-9973-cae412b58603"/>
   <source
       xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-81182.xml#id-81182"/>
+      href="BusinessRole_id-c2ebc94dbd2645608a4e789a014973eb.xml#id-c2ebc94dbd2645608a4e789a014973eb"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-81153.xml#id-81153"/>
+      href="BusinessProcess_id-44321ab879e34c4a859b8d2a5ef7bf59.xml#id-44321ab879e34c4a859b8d2a5ef7bf59"/>
 </archimate:AssignmentRelationship>

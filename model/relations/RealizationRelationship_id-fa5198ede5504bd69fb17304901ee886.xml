@@ -9,8 +9,8 @@
       value="b7bb0c0b-bd9a-4d38-a73a-103456fe0432"/>
   <source
       xsi:type="archimate:Requirement"
-      href="Requirement_id-813c9f510dbf4d3180fec008afa51742.xml#id-813c9f510dbf4d3180fec008afa51742"/>
+      href="Requirement_id-34b659f771ff4720830084157a8412ea.xml#id-34b659f771ff4720830084157a8412ea"/>
   <target
       xsi:type="archimate:Principle"
-      href="Principle_id-81079.xml#id-81079"/>
+      href="Principle_id-cc3f750d6eef43a2aa7dd335d2e3a5e8.xml#id-cc3f750d6eef43a2aa7dd335d2e3a5e8"/>
 </archimate:RealizationRelationship>

@@ -68,7 +68,7 @@
         height="61"/>
     <archimateElement
         xsi:type="archimate:Driver"
-        href="Driver_id-7411097eb4224fb99e0989c5f72484e5.xml#id-7411097eb4224fb99e0989c5f72484e5"/>
+        href="Driver_id-a1f13167aba74712b375947c6a9f116c.xml#id-a1f13167aba74712b375947c6a9f116c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -138,11 +138,11 @@
           height="31"/>
       <archimateElement
           xsi:type="archimate:Requirement"
-          href="Requirement_id-813c9f510dbf4d3180fec008afa51742.xml#id-813c9f510dbf4d3180fec008afa51742"/>
+          href="Requirement_id-34b659f771ff4720830084157a8412ea.xml#id-34b659f771ff4720830084157a8412ea"/>
     </children>
     <archimateElement
         xsi:type="archimate:Principle"
-        href="Principle_id-81079.xml#id-81079"/>
+        href="Principle_id-cc3f750d6eef43a2aa7dd335d2e3a5e8.xml#id-cc3f750d6eef43a2aa7dd335d2e3a5e8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

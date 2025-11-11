@@ -7,8 +7,8 @@
       value="b5683eb2-2556-42bc-80f5-5518f2b19045"/>
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-81168.xml#id-81168"/>
+      href="BusinessProcess_id-f79a532c07124a4292437eacf4593f84.xml#id-f79a532c07124a4292437eacf4593f84"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-81168.xml#id-81168"/>
+      href="BusinessProcess_id-f79a532c07124a4292437eacf4593f84.xml#id-f79a532c07124a4292437eacf4593f84"/>
 </archimate:TriggeringRelationship>
