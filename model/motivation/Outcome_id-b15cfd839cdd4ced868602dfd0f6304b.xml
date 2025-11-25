@@ -1,4 +1,8 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doel"
-    id="id-b15cfd839cdd4ced868602dfd0f6304b"/>
+    id="id-b15cfd839cdd4ced868602dfd0f6304b">
+  <properties
+      key="Object ID"
+      value="b7246525-9690-45eb-be92-ef83a5db5649"/>
+</archimate:Outcome>

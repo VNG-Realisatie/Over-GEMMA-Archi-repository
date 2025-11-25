@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capability gemeente"
-    id="id-4d8558e28d0f42bb8ccbed1116ab1570"/>
+    id="id-4d8558e28d0f42bb8ccbed1116ab1570">
+  <properties
+      key="Object ID"
+      value="05291d00-21a1-4209-b267-d59342d8dffc"/>
+</archimate:Capability>

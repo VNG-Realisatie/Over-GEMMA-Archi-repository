@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsproces gemeente"
-    id="id-8c501559d4f642b587c0820f02d34ed2"/>
+    id="id-8c501559d4f642b587c0820f02d34ed2">
+  <properties
+      key="Object ID"
+      value="81e0959e-5fd4-4860-917a-817dc5b65840"/>
+</archimate:BusinessProcess>

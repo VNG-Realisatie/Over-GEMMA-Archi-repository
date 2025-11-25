@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product of dienst Gemeente obv UPL"
-    id="id-ff52310e038b46bab6da646f98fa7fef"/>
+    id="id-ff52310e038b46bab6da646f98fa7fef">
+  <properties
+      key="Object ID"
+      value="eb55775c-8881-401d-b9a5-4187bb915cb8"/>
+</archimate:Product>

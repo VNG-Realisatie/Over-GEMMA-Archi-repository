@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsproces ketenpartner"
-    id="id-7ca5b8f768de45958cdcde6813881c0f"/>
+    id="id-7ca5b8f768de45958cdcde6813881c0f">
+  <properties
+      key="Object ID"
+      value="56df3c71-5c30-4c4b-8720-fb5d5141aef8"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contract"
-    id="id-5ed63863f8404285a5bff134d5817faa"/>
+    id="id-5ed63863f8404285a5bff134d5817faa">
+  <properties
+      key="Object ID"
+      value="a9622834-f656-4e01-8413-2c0c42d79635"/>
+</archimate:Contract>

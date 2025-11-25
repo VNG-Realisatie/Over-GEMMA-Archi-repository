@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe producten- en dienstenlijst"
+    id="id-0fc38462611b4b5b903554c09acdb1a2"
+    documentation="een overzicht van alle producten en diensten die een gemeente aan burgers en bedrijven levert, inclusief beschrijvingen en voorwaarden.">
+  <properties
+      key="Object ID"
+      value="2baebf9b-167c-4cb8-a37c-dfea75186d52"/>
+</archimate:BusinessObject>

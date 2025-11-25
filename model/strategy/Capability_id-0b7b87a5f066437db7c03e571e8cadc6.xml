@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capability"
-    id="id-0b7b87a5f066437db7c03e571e8cadc6"/>
+    id="id-0b7b87a5f066437db7c03e571e8cadc6">
+  <properties
+      key="Object ID"
+      value="8d999bfe-4d01-45f8-a40e-09e87ea64635"/>
+</archimate:Capability>

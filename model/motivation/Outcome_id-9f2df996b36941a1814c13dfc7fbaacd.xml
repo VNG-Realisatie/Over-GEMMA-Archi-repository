@@ -1,4 +1,8 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie"
-    id="id-9f2df996b36941a1814c13dfc7fbaacd"/>
+    id="id-9f2df996b36941a1814c13dfc7fbaacd">
+  <properties
+      key="Object ID"
+      value="a6f3b59c-2397-43e0-a853-1799a4bf8b20"/>
+</archimate:Outcome>

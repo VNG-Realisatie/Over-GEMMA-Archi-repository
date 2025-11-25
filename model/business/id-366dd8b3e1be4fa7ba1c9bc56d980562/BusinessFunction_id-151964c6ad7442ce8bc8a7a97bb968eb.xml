@@ -1,4 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsfunctie gemeente"
-    id="id-151964c6ad7442ce8bc8a7a97bb968eb"/>
+    id="id-151964c6ad7442ce8bc8a7a97bb968eb">
+  <properties
+      key="Object ID"
+      value="a9b87101-9757-42ec-bfdd-f02f58588b2b"/>
+</archimate:BusinessFunction>

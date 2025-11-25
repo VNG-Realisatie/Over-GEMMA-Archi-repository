@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfservice gemeente"
-    id="id-4d1b4f63140c4f08aecd534b5c1d8c9f"/>
+    id="id-4d1b4f63140c4f08aecd534b5c1d8c9f">
+  <properties
+      key="Object ID"
+      value="fd9bf476-4c3a-4170-b382-b4f812f16816"/>
+</archimate:BusinessService>

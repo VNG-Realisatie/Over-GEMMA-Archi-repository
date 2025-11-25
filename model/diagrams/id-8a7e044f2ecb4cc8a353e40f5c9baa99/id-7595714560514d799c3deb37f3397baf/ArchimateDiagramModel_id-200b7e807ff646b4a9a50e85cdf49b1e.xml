@@ -368,15 +368,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-06c528a3c42d4475b346d58295553ea6"
-          source="id-b5233d88fed841c784d5082c4100cb49"
-          target="id-1b082a6f1ccf48afbcbbd12ada3b836d">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-119c32e6c66545b088da3546a2d92a9d.xml#id-119c32e6c66545b088da3546a2d92a9d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9233454cdd534d60acc61cd6151fdf9c"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
@@ -485,7 +476,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1b082a6f1ccf48afbcbbd12ada3b836d"
-        targetConnections="id-da3b242c6f3a43e4840b1cca1916d753 id-c0338ce0198a4c15a181454e9d1a6956 id-cb9038960a4f4aa0878d144f226275eb id-06c528a3c42d4475b346d58295553ea6 id-adf8d310c2ea47758572796ae6490d8e id-4b02c75fb0bc48f496d8075408c51a2c id-e18255b877d44950915fbe910370bd12"
+        targetConnections="id-da3b242c6f3a43e4840b1cca1916d753 id-c0338ce0198a4c15a181454e9d1a6956 id-cb9038960a4f4aa0878d144f226275eb id-adf8d310c2ea47758572796ae6490d8e id-4b02c75fb0bc48f496d8075408c51a2c id-e18255b877d44950915fbe910370bd12"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         fillColor="#ffffcc"

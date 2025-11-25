@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaaktypecatalogus"
+    id="id-75563ac89b9a48e9a881f0de6b453c02"
+    documentation="Een zaaktypecatalogus is een gestandaardiseerd overzicht van zaaktypen die een organisatie gebruikt om aanvragen, meldingen of verzoeken te registreren en af te handelen.">
+  <properties
+      key="Object ID"
+      value="05028adb-d7be-42dd-83dd-06e6386197ba"/>
+</archimate:BusinessObject>

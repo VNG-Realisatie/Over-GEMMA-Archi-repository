@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert vulling"
+    id="id-fe8bc1098d5d4e43934347f0a79d58b3"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="725b2290-9056-467e-a572-a30e57fb4935"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a0cd84ce84f54ca6a4c4f57e36440f8a.xml#id-a0cd84ce84f54ca6a4c4f57e36440f8a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bfe06e420d0c475694011509ef9fa5bf.xml#id-bfe06e420d0c475694011509ef9fa5bf"/>
+</archimate:AssociationRelationship>

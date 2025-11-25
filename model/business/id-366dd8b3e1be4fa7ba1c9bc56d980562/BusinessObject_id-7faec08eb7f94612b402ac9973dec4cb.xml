@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zaaktype gemeente"
-    id="id-7faec08eb7f94612b402ac9973dec4cb"/>
+    id="id-7faec08eb7f94612b402ac9973dec4cb">
+  <properties
+      key="Object ID"
+      value="61985076-7967-4b93-a264-e47d33e28e69"/>
+</archimate:BusinessObject>

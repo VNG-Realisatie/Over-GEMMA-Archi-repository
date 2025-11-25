@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werkproces (deelproces)"
-    id="id-880c572f011a42208a34c188be056dcc"/>
+    id="id-880c572f011a42208a34c188be056dcc">
+  <properties
+      key="Object ID"
+      value="e507a5d3-79e3-48ab-b39e-671794cfd2d3"/>
+</archimate:BusinessProcess>
