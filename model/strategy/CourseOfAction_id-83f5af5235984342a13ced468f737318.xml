@@ -1,7 +1,8 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie"
-    id="id-83f5af5235984342a13ced468f737318">
+    id="id-83f5af5235984342a13ced468f737318"
+    documentation="Het plan waarmee de organisatie haar missie en visie realiseert">
   <properties
       key="Object ID"
       value="ab806fad-a502-416e-998a-1e02263ae3c8"/>

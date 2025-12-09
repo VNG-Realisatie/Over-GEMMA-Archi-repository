@@ -1,11 +1,12 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Waarde die een product of bedrijfsservice levert"
-    id="id-8db7a569c6444885906ccffaedfc07d4">
+    name="Waarde"
+    id="id-8db7a569c6444885906ccffaedfc07d4"
+    documentation="Het voordeel of nut dat een klant of organisatie ontvangt van een product, dienst of proces">
   <properties
       key="Object ID"
       value="07451f5d-922a-43c5-b2f1-6b789de82d0c"/>
   <properties
       key="Bron"
-      value="GEMMA procesarchitectuur"/>
+      value="ArchiMate"/>
 </archimate:Value>

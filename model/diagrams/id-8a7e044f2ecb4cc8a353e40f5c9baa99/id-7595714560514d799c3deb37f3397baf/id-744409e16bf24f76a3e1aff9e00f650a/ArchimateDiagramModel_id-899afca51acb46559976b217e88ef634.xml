@@ -68,7 +68,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d817bbfe1f714da3b8792acd843ef160"
-      targetConnections="id-ec01734be95c4eecaf6b540ebe14b194 id-de7f750136ab439cbd76fe6e3748d203">
+      targetConnections="id-ec01734be95c4eecaf6b540ebe14b194 id-de7f750136ab439cbd76fe6e3748d203"
+      alpha="230">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a191e30197624d79a4b3a863238bab89"

@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerkingenregister"
-    id="id-bfe06e420d0c475694011509ef9fa5bf">
+    id="id-bfe06e420d0c475694011509ef9fa5bf"
+    documentation="Het verwerkingsregister legt vast welke persoonsgegevens de gemeente verwerkt, voor welk doel en op basis van welke wettelijke grondslag.&#xA;&#xA;Het register moet zowel verwerkingen opnemen die voortkomen uit publieke taken als uit privaatrechtelijke taken van de gemeente.">
   <properties
       key="Object ID"
       value="90e5f8fa-31f0-4dee-9e36-85b79d83ae43"/>

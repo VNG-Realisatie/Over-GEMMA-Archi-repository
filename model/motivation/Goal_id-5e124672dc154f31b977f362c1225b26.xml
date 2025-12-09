@@ -1,7 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visie"
-    id="id-5e124672dc154f31b977f362c1225b26">
+    id="id-5e124672dc154f31b977f362c1225b26"
+    documentation="Het gewenste toekomstbeeld dat de organisatie nastreeft">
   <properties
       key="Object ID"
       value="db868bbc-7b63-4cbd-b0ff-d41c89293d8a"/>

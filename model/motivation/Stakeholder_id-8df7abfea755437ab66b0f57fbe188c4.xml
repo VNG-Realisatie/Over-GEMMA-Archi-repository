@@ -1,7 +1,8 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholder"
-    id="id-8df7abfea755437ab66b0f57fbe188c4">
+    id="id-8df7abfea755437ab66b0f57fbe188c4"
+    documentation="Een persoon of organisatie die invloed heeft op of beïnvloed wordt door processen en doelstellingen">
   <properties
       key="Object ID"
       value="dce361a8-17e6-4c7d-82a7-6927045a99ab"/>

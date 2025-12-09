@@ -235,9 +235,9 @@
         textPosition="1">
       <bounds
           x="830"
-          y="420"
+          y="450"
           width="171"
-          height="91"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Value"
           href="Value_id-8db7a569c6444885906ccffaedfc07d4.xml#id-8db7a569c6444885906ccffaedfc07d4"/>
