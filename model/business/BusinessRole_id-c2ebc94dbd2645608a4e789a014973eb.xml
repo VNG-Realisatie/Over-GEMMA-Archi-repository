@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rol"
     id="id-c2ebc94dbd2645608a4e789a014973eb"
-    documentation="Een bedrijfsrol is de verantwoordelijkheid voor specifiek gedrag waar een bedrijfsactor aan toegewezen kan worden.">
+    documentation="Een rol is de verantwoordelijkheid voor specifiek gedrag waar een actor aan toegewezen kan worden.">
   <properties
       key="Object ID"
       value="39fdcad2-9e8e-4664-a3d5-25187bc2d65a"/>
