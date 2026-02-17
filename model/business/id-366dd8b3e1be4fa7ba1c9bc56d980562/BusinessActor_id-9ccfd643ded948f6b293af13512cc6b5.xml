@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Invulling bedrijfrol gemeente"
-    id="id-9ccfd643ded948f6b293af13512cc6b5"/>
+    id="id-9ccfd643ded948f6b293af13512cc6b5">
+  <properties
+      key="Object ID"
+      value="f8a4f92c-7670-42e3-a899-90ec93fcf3e1"/>
+</archimate:BusinessActor>

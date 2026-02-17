@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ketenproces"
-    id="id-f154f43020a84f9e92338bd6964d4caa"/>
+    id="id-f154f43020a84f9e92338bd6964d4caa"
+    documentation="Een samenhangend geheel van processen over afdelingen of organisaties gericht op het leveren van waarde">
+  <properties
+      key="Object ID"
+      value="78f61215-398f-406a-b401-dfa25da5081a"/>
+  <properties
+      key="Bron"
+      value="GEMMA procesarchitectuur"/>
+</archimate:BusinessProcess>

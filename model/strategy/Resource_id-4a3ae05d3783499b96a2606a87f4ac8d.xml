@@ -1,4 +1,12 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resources"
-    id="id-4a3ae05d3783499b96a2606a87f4ac8d"/>
+    id="id-4a3ae05d3783499b96a2606a87f4ac8d"
+    documentation="Middelen zoals personeel, informatie, systemen en financiële middelen die processen ondersteunen">
+  <properties
+      key="Object ID"
+      value="df1192cc-7303-448d-b6f1-a96d63f27ac9"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
+</archimate:Resource>

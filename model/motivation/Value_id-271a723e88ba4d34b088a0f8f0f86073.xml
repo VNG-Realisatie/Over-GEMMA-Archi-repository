@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Value"
-    id="id-271a723e88ba4d34b088a0f8f0f86073"/>
+    id="id-271a723e88ba4d34b088a0f8f0f86073">
+  <properties
+      key="Object ID"
+      value="e0d863d3-276e-4766-bc4b-ef823e156fe1"/>
+</archimate:Value>

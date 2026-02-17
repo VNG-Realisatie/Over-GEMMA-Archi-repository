@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SC - Samenwerkende catalogi"
+    id="id-6b601513b0a043f7988c3aeeb52c545b"
+    documentation="Samenwerkende Catalogi is een gestandaardiseerd register dat overheidsproducten en -diensten vindbaar maakt voor burgers en ondernemers.">
+  <properties
+      key="Object ID"
+      value="f03f154d-bf02-4ca5-b808-f1330b175a9a"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsfunctie ketenpartner"
-    id="id-be47a54cc2e14b14b0846e1ea16195e1"/>
+    id="id-be47a54cc2e14b14b0846e1ea16195e1">
+  <properties
+      key="Object ID"
+      value="f5e97c43-9171-4830-b931-bef22bd17b9e"/>
+</archimate:BusinessFunction>

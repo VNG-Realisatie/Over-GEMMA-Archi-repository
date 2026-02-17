@@ -1,4 +1,8 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Interface"
-    id="id-f4a1480db6d149c6995de8ab429e5ce3"/>
+    id="id-f4a1480db6d149c6995de8ab429e5ce3">
+  <properties
+      key="Object ID"
+      value="38b9cb9b-890b-42ce-9912-18d62ae2bb54"/>
+</archimate:BusinessInterface>

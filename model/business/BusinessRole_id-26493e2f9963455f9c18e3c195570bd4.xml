@@ -1,4 +1,12 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Klant (intern of extern)"
-    id="id-26493e2f9963455f9c18e3c195570bd4"/>
+    id="id-26493e2f9963455f9c18e3c195570bd4"
+    documentation="De ontvanger van producten of diensten, binnen of buiten de organisatie">
+  <properties
+      key="Object ID"
+      value="097c1e97-38d3-4491-96a6-8286b088d6d9"/>
+  <properties
+      key="Bron"
+      value="GEMMA procesarchitectuur"/>
+</archimate:BusinessRole>

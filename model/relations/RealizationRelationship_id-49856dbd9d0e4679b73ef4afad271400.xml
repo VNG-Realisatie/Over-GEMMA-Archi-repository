@@ -2,10 +2,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-49856dbd9d0e4679b73ef4afad271400">
+  <properties
+      key="Object ID"
+      value="bb2101c8-2054-4adf-9871-ad3cc148f681"/>
   <source
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-83f5af5235984342a13ced468f737318.xml#id-83f5af5235984342a13ced468f737318"/>
   <target
-      xsi:type="archimate:Principle"
-      href="Principle_id-c2ba1e302fc546eb81d84292dc0c48e8.xml#id-c2ba1e302fc546eb81d84292dc0c48e8"/>
+      xsi:type="archimate:Goal"
+      href="Goal_id-5e124672dc154f31b977f362c1225b26.xml#id-5e124672dc154f31b977f362c1225b26"/>
 </archimate:RealizationRelationship>

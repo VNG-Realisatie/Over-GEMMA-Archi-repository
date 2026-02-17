@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persoon"
-    id="id-e49902d810a44bc8b8fe069405e582ea"/>
+    id="id-e49902d810a44bc8b8fe069405e582ea">
+  <properties
+      key="Object ID"
+      value="cea22ec7-ff8c-487a-a470-417d236b272e"/>
+</archimate:BusinessActor>

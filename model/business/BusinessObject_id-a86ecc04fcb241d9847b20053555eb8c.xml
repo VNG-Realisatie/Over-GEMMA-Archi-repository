@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processenregister"
+    id="id-a86ecc04fcb241d9847b20053555eb8c"
+    documentation="Een processenregister is een overzicht van de kern- en ondersteunende processen van een organisatie, inclusief hun beschrijvingen en onderlinge relaties.">
+  <properties
+      key="Object ID"
+      value="614c6ad0-a41b-42c1-bae3-58b522b46c98"/>
+</archimate:BusinessObject>

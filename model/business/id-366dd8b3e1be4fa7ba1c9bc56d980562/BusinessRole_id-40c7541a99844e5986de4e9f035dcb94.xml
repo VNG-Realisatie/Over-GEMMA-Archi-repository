@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsrol gemeente"
-    id="id-40c7541a99844e5986de4e9f035dcb94"/>
+    id="id-40c7541a99844e5986de4e9f035dcb94">
+  <properties
+      key="Object ID"
+      value="1c0e634c-f06c-42c9-b64c-e0ca9aa468b2"/>
+</archimate:BusinessRole>

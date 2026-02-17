@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standaarden gemeente"
-    id="id-d4aa7935ad9e4d7b980a24d8ea42f2f4"/>
+    id="id-d4aa7935ad9e4d7b980a24d8ea42f2f4">
+  <properties
+      key="Object ID"
+      value="3518c9f2-d895-4b46-a7a2-42e2e06d0d9d"/>
+</archimate:Requirement>
