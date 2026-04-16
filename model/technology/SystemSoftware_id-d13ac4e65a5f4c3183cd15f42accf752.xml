@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fysieke technologiecomponent"
+    id="id-d13ac4e65a5f4c3183cd15f42accf752"
+    documentation="Een concreet softwareproduct of -dienst dat een technologiecomponent realiseert en inzetbaar is in een specifieke technische omgeving.">
+  <properties
+      key="Toelichting"
+      value="Een fysieke technologiecomponent is de daadwerkelijke implementatie van systeemsoftware die beschikbaar is als commercieel product of open source software. Het kan gaan om software die on-premises of in de cloud wordt uitgerold en operationeel wordt gebruikt, zoals een database, ESB-platform of API-managementproduct. Hiermee wordt de abstracte technologiecomponent vertaald naar een concreet inzetbare oplossing."/>
+</archimate:SystemSoftware>

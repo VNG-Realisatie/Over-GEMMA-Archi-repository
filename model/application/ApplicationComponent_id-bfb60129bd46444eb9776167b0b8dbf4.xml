@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fysieke registercomponent"
+    id="id-bfb60129bd46444eb9776167b0b8dbf4"
+    documentation="Een (component binnen een) concreet softwareproduct of -dienst dat een register en de bijbehorende services realiseert en beschikbaar stelt voor gebruik.">
+  <properties
+      key="Toelichting"
+      value="Een fysieke registercomponent is de daadwerkelijke implementatie van een register, bijvoorbeeld als applicatie, databron of dienst. Deze component stelt de gedefinieerde services beschikbaar aan applicaties en andere systemen"/>
+</archimate:ApplicationComponent>

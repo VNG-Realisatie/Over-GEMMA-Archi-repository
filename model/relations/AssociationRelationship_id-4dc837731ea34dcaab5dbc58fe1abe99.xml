@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4dc837731ea34dcaab5dbc58fe1abe99">
+  <properties
+      key="Type before conversion"
+      value="realization-relationship"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1d90924b703f4e91908862f3fe0b53c7.xml#id-1d90924b703f4e91908862f3fe0b53c7"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-81265.xml#id-81265"/>
+</archimate:AssociationRelationship>

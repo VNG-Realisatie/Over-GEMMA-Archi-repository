@@ -283,8 +283,8 @@
         source="id-801031629fb7408da5fb37c4292548b6"
         target="id-b375250b6a3344d2876841e950197e5d">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-81313.xml#id-81313"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-3742d64e1c374a8097cb8dfd83a6d7a6.xml#id-3742d64e1c374a8097cb8dfd83a6d7a6"/>
     </sourceConnections>
     <bounds
         x="480"

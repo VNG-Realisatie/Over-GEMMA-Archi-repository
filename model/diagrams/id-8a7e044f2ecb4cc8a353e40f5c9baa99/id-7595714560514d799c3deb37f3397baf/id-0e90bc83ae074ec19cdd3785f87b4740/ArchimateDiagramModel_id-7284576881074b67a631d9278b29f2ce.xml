@@ -57,8 +57,8 @@
               endX="105"
               endY="-10"/>
           <archimateRelationship
-              xsi:type="archimate:AggregationRelationship"
-              href="AggregationRelationship_id-bada497848954b0ca4a76e2fa98c9c64.xml#id-bada497848954b0ca4a76e2fa98c9c64"/>
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-91211d24f6384b60984c9a334ecb8943.xml#id-91211d24f6384b60984c9a334ecb8943"/>
         </sourceConnections>
         <bounds
             x="240"
@@ -221,8 +221,8 @@
           source="id-94da0ed54445444192c8ce1119301570"
           target="id-6ce1f7a11e5143aa8ed60fadf26da5fc">
         <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-81303.xml#id-81303"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-668b28a7b72a422f88a2f704be0b52d8.xml#id-668b28a7b72a422f88a2f704be0b52d8"/>
       </sourceConnections>
       <bounds
           x="260"

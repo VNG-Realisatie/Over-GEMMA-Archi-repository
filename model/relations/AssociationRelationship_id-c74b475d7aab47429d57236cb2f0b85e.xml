@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c74b475d7aab47429d57236cb2f0b85e">
+  <properties
+      key="Object ID"
+      value="d49a0f79-0383-421e-b4d7-c5e556d840db"/>
+  <properties
+      key="Type before conversion"
+      value="serving-relationship"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-81265.xml#id-81265"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-81155.xml#id-81155"/>
+</archimate:AssociationRelationship>

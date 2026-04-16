@@ -1,0 +1,22 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt gebruikt voor"
+    id="id-9fe376c29c4548b3985c14575560fcc5"
+    documentation="De door de gemeente/samenwerking geregistreerde applicatie(sub)functies, waarvoor de pakketversie gebruikt wordt.">
+  <properties
+      key="Object ID"
+      value="f5d628b2-93be-4858-a11b-87f5626a9f6d"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
+  <properties
+      key="Type before conversion"
+      value="assignment-relationship"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-81265.xml#id-81265"/>
+</archimate:AssociationRelationship>

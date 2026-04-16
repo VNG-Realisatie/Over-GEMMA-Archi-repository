@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logische technologiecomponent"
+    id="id-0c917b977f804ec090f58b84ea791b62"
+    documentation="Een herbruikbare, functioneel afgebakende bouwsteen van systeemsoftware vanuit ontwerp- en ontwikkelperspectief.&#x9;">
+  <properties
+      key="Toelichting"
+      value="Een logische technologiecomponent beschrijft een afgebakend onderdeel van systeemsoftware dat in een architectuurontwerp wordt onderscheiden. Het is kleiner dan of gelijk aan een technologiecomponent en vertegenwoordigt een specifieke technische functie, zoals communicatie, routing, transformatie, beveiliging of logging. Meerdere logische technologiecomponenten kunnen samen één technologiecomponent vormen en zijn onafhankelijk van een specifiek product of leverancier."/>
+</archimate:SystemSoftware>

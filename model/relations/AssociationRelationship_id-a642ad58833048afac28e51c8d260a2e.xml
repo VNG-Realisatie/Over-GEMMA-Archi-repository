@@ -1,0 +1,20 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a642ad58833048afac28e51c8d260a2e">
+  <properties
+      key="Object ID"
+      value="2feb6e44-294f-4cfa-beca-49a899b856c2"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
+  <properties
+      key="Type before conversion"
+      value="assignment-relationship"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-81265.xml#id-81265"/>
+</archimate:AssociationRelationship>

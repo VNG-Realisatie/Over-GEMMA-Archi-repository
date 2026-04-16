@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logische registercomponent"
+    id="id-4ef167bfe1194e3a9a2e83a4a037121f"
+    documentation="Een functioneel afgebakend, herbruikbaar component dat in ontwerp en ontwikkeling registers en hun services beschrijft.">
+  <properties
+      key="Toelichting"
+      value="Een logische registercomponent beschrijft in een architectuur- en ontwikkelcontext welke registers er zijn, welke gegevens daarin worden beheerd en welke services zij aanbieden. Het ondersteunt het ontwerp van gebruik en interactie met registers binnen het Common Ground 5-lagenmodel (lagen 1 en 2), onafhankelijk van een specifieke technische implementatie."/>
+</archimate:ApplicationComponent>

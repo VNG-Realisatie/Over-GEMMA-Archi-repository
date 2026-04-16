@@ -570,8 +570,8 @@
             endX="-95"
             endY="140"/>
         <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-81348.xml#id-81348"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-61fe121e8f234140b85bc0e9533f50a4.xml#id-61fe121e8f234140b85bc0e9533f50a4"/>
       </sourceConnections>
       <bounds
           x="120"
@@ -597,8 +597,8 @@
           source="id-c76af8e5e1ab4c449889b880a30d6e00"
           target="id-80c6f77b3a75443bb13a57a2693f0744">
         <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-81361.xml#id-81361"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-72db7527f74b4768911d732c9216c4c5.xml#id-72db7527f74b4768911d732c9216c4c5"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -653,8 +653,8 @@
             endX="25"
             endY="150"/>
         <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-81313.xml#id-81313"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-3742d64e1c374a8097cb8dfd83a6d7a6.xml#id-3742d64e1c374a8097cb8dfd83a6d7a6"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -666,8 +666,8 @@
             startY="150"
             endX="230"/>
         <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-1c187d93908940eaa71e4ba415b5faac.xml#id-1c187d93908940eaa71e4ba415b5faac"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-2221e307a4b946eb81c9416364346b90.xml#id-2221e307a4b946eb81c9416364346b90"/>
       </sourceConnections>
       <bounds
           x="340"
