@@ -12,19 +12,19 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="35"
-        y="25"
+        x="30"
+        y="30"
         width="571"
-        height="271"/>
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7582994483b54d1c86286199efb29733"
         targetConnections="id-8798296f8620420a894b663353c24eb8 id-e6c8e776f72c4bb59f5e544613bd5bda"
         textPosition="1">
       <bounds
-          x="315"
-          y="35"
-          width="176"
+          x="300"
+          y="40"
+          width="191"
           height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -35,7 +35,6 @@
         id="id-e2a863892a6540d99f81176ee5465351"
         targetConnections="id-2207bea0540742c9a7b95146b1b5570e id-973fdc09fbfd4da68f05c976cfa61e90"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ccccff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -71,15 +70,14 @@
             href="RealizationRelationship_id-5022c3d0351646299cdcb8ff36319879.xml#id-5022c3d0351646299cdcb8ff36319879"/>
       </sourceConnections>
       <bounds
-          x="315"
-          y="150"
-          width="176"
+          x="300"
+          y="155"
+          width="191"
           height="81"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f45455abc67e4db79aa61af3964d75af"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           fillColor="#ccccff"
           textPosition="1">
         <sourceConnections
@@ -94,7 +92,7 @@
         <bounds
             x="25"
             y="35"
-            width="121"
+            width="136"
             height="31"/>
         <archimateElement
             xsi:type="archimate:Requirement"
@@ -119,8 +117,8 @@
             href="InfluenceRelationship_id-8be5f84db04a434ea049f3269b56e038.xml#id-8be5f84db04a434ea049f3269b56e038"/>
       </sourceConnections>
       <bounds
-          x="45"
-          y="35"
+          x="30"
+          y="40"
           width="176"
           height="61"/>
       <archimateElement

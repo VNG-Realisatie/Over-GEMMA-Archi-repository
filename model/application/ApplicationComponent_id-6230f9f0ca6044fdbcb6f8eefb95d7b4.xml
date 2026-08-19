@@ -2,6 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Backend For Frontend"
     id="id-6230f9f0ca6044fdbcb6f8eefb95d7b4">
+  <properties
+      key="Object ID"
+      value="8e64a840-678f-45c7-8331-3010a4c04c38"/>
   <profiles
       href="folder.xml#id-692774fd8e42411e9ef650122f07944c"/>
 </archimate:ApplicationComponent>

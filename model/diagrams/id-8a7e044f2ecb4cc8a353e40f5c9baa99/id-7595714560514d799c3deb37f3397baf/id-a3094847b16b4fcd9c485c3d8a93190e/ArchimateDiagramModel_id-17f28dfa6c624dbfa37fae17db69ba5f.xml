@@ -64,6 +64,7 @@
         xsi:type="archimate:DiagramModelGroup"
         id="id-1f60b81e95c24593bc07f95a65003064"
         name="Common Ground"
+        targetConnections="id-dccda068dbf042749803c7409fbb9b83"
         font="1|Sans|9.0|1|GTK|1|"
         fillColor="#f6d32d"
         alpha="100"
@@ -179,7 +180,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-249a4da8aa0946eab7ad86a60cf5a77e"
-        targetConnections="id-65fd98cbe1b54764be2ea42e068c696f"
+        targetConnections="id-65fd98cbe1b54764be2ea42e068c696f id-105242103bad4740921c2afe31df5d4e"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -544,10 +545,14 @@
       id="id-0fee1690b77f4d9182ea13a81624dd89"
       textAlignment="1"
       content="De GEMMA-referentieafnemer en -aanbieder zijn niet uitgewerkt. We kunnen besluiten deze één-op-één te matchen met de CG logische componenten.">
+    <sourceConnections
+        id="id-105242103bad4740921c2afe31df5d4e"
+        source="id-0fee1690b77f4d9182ea13a81624dd89"
+        target="id-249a4da8aa0946eab7ad86a60cf5a77e"/>
     <bounds
-        x="650"
+        x="590"
         y="360"
-        width="281"
+        width="301"
         height="111"/>
   </children>
   <children
@@ -565,16 +570,31 @@
         width="601"
         height="201"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0f81b6f3473b442fa8761ff247e633d5"
+      textAlignment="1"
+      content="ArchiMate type gewijzigd van application-component naar system-software">
+    <sourceConnections
+        id="id-dccda068dbf042749803c7409fbb9b83"
+        source="id-0f81b6f3473b442fa8761ff247e633d5"
+        target="id-1f60b81e95c24593bc07f95a65003064"/>
+    <bounds
+        x="955"
+        y="1060"
+        width="371"
+        height="86"/>
+  </children>
   <properties
       key="tableOneLineDoc"
       value="true"/>
-  <properties
-      key="Object ID"
-      value="83f66ea3-7cf3-4d40-80d5-231f7428e2ff"/>
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
   <properties
       key="Toelichting"
       value="De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component)."/>
+  <properties
+      key="Object ID"
+      value="48272715-681c-48d6-8f2d-9a1622fb3dfd"/>
 </archimate:ArchimateDiagramModel>

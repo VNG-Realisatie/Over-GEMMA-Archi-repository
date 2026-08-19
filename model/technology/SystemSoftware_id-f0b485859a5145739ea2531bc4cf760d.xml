@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outway"
-    id="id-f0b485859a5145739ea2531bc4cf760d"/>
+    id="id-f0b485859a5145739ea2531bc4cf760d">
+  <properties
+      key="Object ID"
+      value="c7caca48-7ac4-4ab8-97f1-717bdbb9fe76"/>
+</archimate:SystemSoftware>

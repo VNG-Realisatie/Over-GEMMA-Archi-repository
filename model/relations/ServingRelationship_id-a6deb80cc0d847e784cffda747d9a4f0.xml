@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="via FSC"
     id="id-a6deb80cc0d847e784cffda747d9a4f0">
+  <properties
+      key="Object ID"
+      value="fd6934f3-56be-49a0-8393-d930c9a23400"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-a11bad50ff464a409e3f578096112683.xml#id-a11bad50ff464a409e3f578096112683"/>

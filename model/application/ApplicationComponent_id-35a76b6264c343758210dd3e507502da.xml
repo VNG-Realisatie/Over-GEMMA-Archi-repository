@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fysieke applicatiecomponent"
-    id="id-35a76b6264c343758210dd3e507502da"/>
+    id="id-35a76b6264c343758210dd3e507502da">
+  <properties
+      key="Object ID"
+      value="e3d74d4a-a5ae-4971-85b8-71187f13acc6"/>
+</archimate:ApplicationComponent>

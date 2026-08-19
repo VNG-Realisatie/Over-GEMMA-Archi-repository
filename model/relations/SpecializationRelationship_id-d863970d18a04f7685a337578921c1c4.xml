@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is geschikt voor"
     id="id-d863970d18a04f7685a337578921c1c4">
+  <properties
+      key="Object ID"
+      value="6945c8b4-1794-45b1-b87e-4abb49ea2943"/>
   <source
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-d13ac4e65a5f4c3183cd15f42accf752.xml#id-d13ac4e65a5f4c3183cd15f42accf752"/>

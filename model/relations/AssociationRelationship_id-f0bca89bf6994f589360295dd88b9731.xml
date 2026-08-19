@@ -5,6 +5,9 @@
   <properties
       key="Type before conversion"
       value="realization-relationship"/>
+  <properties
+      key="Object ID"
+      value="408baa50-d7c8-4554-8766-d055fca405c9"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-35a76b6264c343758210dd3e507502da.xml#id-35a76b6264c343758210dd3e507502da"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technologie-interface"
     id="id-e3554f50f8684bd8b4d14c318688da42"
-    documentation="Een technologie-interface beschrijft hoe toegang wordt verkregen tot de functionaliteit van systeemsoftware, bijvoorbeeld via een API, protocol of messaging-interface."/>
+    documentation="Een technologie-interface beschrijft hoe toegang wordt verkregen tot de functionaliteit van systeemsoftware, bijvoorbeeld via een API, protocol of messaging-interface.">
+  <properties
+      key="Object ID"
+      value="22c29400-624a-450e-8ed8-a32e09e42066"/>
+</archimate:TechnologyInterface>

@@ -6,4 +6,7 @@
   <properties
       key="Toelichting"
       value="Een logische registercomponent beschrijft in een architectuur- en ontwikkelcontext welke registers er zijn, welke gegevens daarin worden beheerd en welke services zij aanbieden. Het ondersteunt het ontwerp van gebruik en interactie met registers binnen het Common Ground 5-lagenmodel (lagen 1 en 2), onafhankelijk van een specifieke technische implementatie."/>
+  <properties
+      key="Object ID"
+      value="0e641850-217f-4e20-9fad-424054a8da74"/>
 </archimate:ApplicationComponent>

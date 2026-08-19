@@ -1,4 +1,8 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Event"
-    id="id-f8624ccee70541ff9ae0168e408eabf3"/>
+    id="id-f8624ccee70541ff9ae0168e408eabf3">
+  <properties
+      key="Object ID"
+      value="1f8e8c8e-ace6-45ce-8069-fa80a1a3a28e"/>
+</archimate:ApplicationEvent>

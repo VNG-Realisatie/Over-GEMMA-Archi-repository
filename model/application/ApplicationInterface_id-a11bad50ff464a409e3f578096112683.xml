@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Register interface (API)"
-    id="id-a11bad50ff464a409e3f578096112683"/>
+    id="id-a11bad50ff464a409e3f578096112683">
+  <properties
+      key="Object ID"
+      value="ec1815d8-ba85-4d1b-8a0d-e2b3ac057336"/>
+</archimate:ApplicationInterface>

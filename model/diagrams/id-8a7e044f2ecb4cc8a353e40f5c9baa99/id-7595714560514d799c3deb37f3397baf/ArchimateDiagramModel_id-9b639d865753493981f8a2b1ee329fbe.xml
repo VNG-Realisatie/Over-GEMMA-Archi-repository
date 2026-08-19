@@ -13,16 +13,15 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="20"
+        x="10"
         y="10"
-        width="911"
+        width="921"
         height="331"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6a54eaa88a354d99bd86a18aee083383"
         targetConnections="id-548af6c214834904aff9ea445a4392b3 id-d131a25ae2c74e2a814ab323e47ccf9f"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#fefeb4"
         textPosition="1"
         type="1">
@@ -30,7 +29,6 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-548af6c214834904aff9ea445a4392b3"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           source="id-6a54eaa88a354d99bd86a18aee083383"
           target="id-6a54eaa88a354d99bd86a18aee083383">
         <features
@@ -80,8 +78,8 @@
             href="SpecializationRelationship_id-821997e066244005811bb0b897fa3778.xml#id-821997e066244005811bb0b897fa3778"/>
       </sourceConnections>
       <bounds
-          x="680"
-          y="90"
+          x="690"
+          y="110"
           width="141"
           height="61"/>
       <archimateElement
@@ -92,14 +90,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1be2ffb7ba0e4a66ab8d08ccc947f4f4"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ffffef"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-665c27456fdd47d1a7b60fe1132bf310"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           source="id-1be2ffb7ba0e4a66ab8d08ccc947f4f4"
           target="id-57eb9c80ac334d37ad71d9f1fda87a78">
         <archimateRelationship
@@ -107,9 +103,9 @@
             href="AggregationRelationship_id-81181.xml#id-81181"/>
       </sourceConnections>
       <bounds
-          x="20"
-          y="130"
-          width="141"
+          x="30"
+          y="150"
+          width="191"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"
@@ -120,14 +116,12 @@
         id="id-aa0ead2c5b044448b5286a81d84641e7"
         targetConnections="id-2f7f1e192fd843a9ba762d8ca864d165 id-5c2e96b64fc8451fb7568c42b7a4bf37"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ffffcc"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2f7f1e192fd843a9ba762d8ca864d165"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           source="id-aa0ead2c5b044448b5286a81d84641e7"
           target="id-aa0ead2c5b044448b5286a81d84641e7">
         <bendpoints
@@ -174,8 +168,8 @@
             href="SpecializationRelationship_id-81138.xml#id-81138"/>
       </sourceConnections>
       <bounds
-          x="320"
-          y="210"
+          x="340"
+          y="230"
           width="171"
           height="61"/>
       <archimateElement
@@ -186,14 +180,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4d326f5c6ee642cf8638a16d58aa6724"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ffffef"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9cb29f5ef8aa468e874fba336ddc00c1"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           source="id-4d326f5c6ee642cf8638a16d58aa6724"
           target="id-57eb9c80ac334d37ad71d9f1fda87a78">
         <archimateRelationship
@@ -201,9 +193,9 @@
             href="AssignmentRelationship_id-81187.xml#id-81187"/>
       </sourceConnections>
       <bounds
-          x="20"
-          y="40"
-          width="141"
+          x="30"
+          y="60"
+          width="191"
           height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
@@ -214,38 +206,36 @@
         id="id-57eb9c80ac334d37ad71d9f1fda87a78"
         targetConnections="id-9cb29f5ef8aa468e874fba336ddc00c1 id-fc4a7921e67b42b695c1ceb062f70a57 id-665c27456fdd47d1a7b60fe1132bf310"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ffffdd"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fc4a7921e67b42b695c1ceb062f70a57"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
           source="id-57eb9c80ac334d37ad71d9f1fda87a78"
           target="id-57eb9c80ac334d37ad71d9f1fda87a78">
         <bendpoints
-            startX="120"
+            startX="100"
             startY="-20"
-            endX="120"
+            endX="100"
             endY="-20"/>
         <bendpoints
-            startX="120"
+            startX="100"
             startY="-50"
-            endX="120"
+            endX="100"
             endY="-50"/>
         <bendpoints
-            startX="60"
+            startX="40"
             startY="-50"
-            endX="60"
+            endX="40"
             endY="-50"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-81193.xml#id-81193"/>
       </sourceConnections>
       <bounds
-          x="210"
-          y="90"
+          x="270"
+          y="110"
           width="141"
           height="61"/>
       <archimateElement
@@ -257,12 +247,11 @@
         id="id-b375250b6a3344d2876841e950197e5d"
         targetConnections="id-cecb10c6412a4010a31c15c040e48a96"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
         fillColor="#ffffcc"
         textPosition="1">
       <bounds
-          x="450"
-          y="90"
+          x="470"
+          y="110"
           width="171"
           height="61"/>
       <archimateElement
@@ -287,7 +276,7 @@
           href="AssociationRelationship_id-3742d64e1c374a8097cb8dfd83a6d7a6.xml#id-3742d64e1c374a8097cb8dfd83a6d7a6"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="490"
         y="370"
         width="171"
         height="61"/>

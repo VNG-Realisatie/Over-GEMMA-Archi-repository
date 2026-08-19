@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatieversie"
-    id="id-6c9107c20d134a168d214be8520d19d5"/>
+    id="id-6c9107c20d134a168d214be8520d19d5">
+  <properties
+      key="Object ID"
+      value="bb4a5878-52ab-46b7-9e3f-447374693956"/>
+</archimate:ApplicationComponent>

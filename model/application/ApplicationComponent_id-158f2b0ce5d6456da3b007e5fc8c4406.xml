@@ -2,6 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GUI"
     id="id-158f2b0ce5d6456da3b007e5fc8c4406">
+  <properties
+      key="Object ID"
+      value="5303e00a-784b-4ab1-bee2-2497ea7df6be"/>
   <profiles
       href="folder.xml#id-692774fd8e42411e9ef650122f07944c"/>
 </archimate:ApplicationComponent>

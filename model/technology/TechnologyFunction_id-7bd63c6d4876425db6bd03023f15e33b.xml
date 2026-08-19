@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technologiefunctie"
     id="id-7bd63c6d4876425db6bd03023f15e33b"
-    documentation="Een intern gedrag van systeemsoftware dat een specifieke technische functionaliteit realiseert."/>
+    documentation="Een intern gedrag van systeemsoftware dat een specifieke technische functionaliteit realiseert.">
+  <properties
+      key="Object ID"
+      value="aa9d1e4b-00be-4924-8313-4868837a51d7"/>
+</archimate:TechnologyFunction>

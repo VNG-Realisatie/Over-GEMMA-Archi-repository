@@ -6,4 +6,7 @@
   <properties
       key="Toelichting"
       value="Een fysieke registercomponent is de daadwerkelijke implementatie van een register, bijvoorbeeld als applicatie, databron of dienst. Deze component stelt de gedefinieerde services beschikbaar aan applicaties en andere systemen"/>
+  <properties
+      key="Object ID"
+      value="d6d51a34-ff23-416d-8239-826d224ce16e"/>
 </archimate:ApplicationComponent>

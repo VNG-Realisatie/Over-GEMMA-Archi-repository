@@ -6,4 +6,7 @@
   <properties
       key="Toelichting"
       value="Een fysieke technologiecomponent is de daadwerkelijke implementatie van systeemsoftware die beschikbaar is als commercieel product of open source software. Het kan gaan om software die on-premises of in de cloud wordt uitgerold en operationeel wordt gebruikt, zoals een database, ESB-platform of API-managementproduct. Hiermee wordt de abstracte technologiecomponent vertaald naar een concreet inzetbare oplossing."/>
+  <properties
+      key="Object ID"
+      value="00edeb59-d1ab-4b35-ab1b-8ae1318370a8"/>
 </archimate:SystemSoftware>

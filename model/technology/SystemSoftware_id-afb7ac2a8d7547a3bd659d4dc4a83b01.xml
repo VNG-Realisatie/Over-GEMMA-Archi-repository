@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inway"
-    id="id-afb7ac2a8d7547a3bd659d4dc4a83b01"/>
+    id="id-afb7ac2a8d7547a3bd659d4dc4a83b01">
+  <properties
+      key="Object ID"
+      value="df39593e-dd76-4e7b-b2b0-2358f80c5e95"/>
+</archimate:SystemSoftware>

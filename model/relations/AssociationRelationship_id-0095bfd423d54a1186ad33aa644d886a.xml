@@ -5,6 +5,9 @@
   <properties
       key="Type before conversion"
       value="triggering-relationship"/>
+  <properties
+      key="Object ID"
+      value="92d0a70b-ee24-4984-a52d-9de3b90cbd2f"/>
   <source
       xsi:type="archimate:ApplicationEvent"
       href="ApplicationEvent_id-f8624ccee70541ff9ae0168e408eabf3.xml#id-f8624ccee70541ff9ae0168e408eabf3"/>

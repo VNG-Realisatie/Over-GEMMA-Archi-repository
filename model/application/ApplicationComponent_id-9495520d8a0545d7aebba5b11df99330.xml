@@ -2,6 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatie"
     id="id-9495520d8a0545d7aebba5b11df99330">
+  <properties
+      key="Object ID"
+      value="969762fd-2b62-4661-ae49-fbb6c73a453a"/>
   <profiles
       href="folder.xml#id-692774fd8e42411e9ef650122f07944c"/>
 </archimate:ApplicationComponent>

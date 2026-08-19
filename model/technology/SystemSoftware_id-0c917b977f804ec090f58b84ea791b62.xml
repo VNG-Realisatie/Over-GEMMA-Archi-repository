@@ -6,4 +6,7 @@
   <properties
       key="Toelichting"
       value="Een logische technologiecomponent beschrijft een afgebakend onderdeel van systeemsoftware dat in een architectuurontwerp wordt onderscheiden. Het is kleiner dan of gelijk aan een technologiecomponent en vertegenwoordigt een specifieke technische functie, zoals communicatie, routing, transformatie, beveiliging of logging. Meerdere logische technologiecomponenten kunnen samen één technologiecomponent vormen en zijn onafhankelijk van een specifiek product of leverancier."/>
+  <properties
+      key="Object ID"
+      value="fe73bbef-e57b-44eb-b269-560f8fb82c10"/>
 </archimate:SystemSoftware>
